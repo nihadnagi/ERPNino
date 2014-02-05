@@ -1,0 +1,10 @@
+{
+ "Item Reorder": "\u9879\u76ee\u91cd\u65b0\u6392\u5e8f", 
+ "Material Request Type": "\u6750\u6599\u8bf7\u6c42\u7c7b\u578b", 
+ "Purchase": "\u91c7\u8d2d", 
+ "Re-order Level": "\u518d\u8ba2\u8d2d\u6c34\u5e73", 
+ "Re-order Qty": "\u518d\u8ba2\u8d2d\u6570\u91cf", 
+ "Stock": "\u80a1\u7968", 
+ "Transfer": "\u8f6c\u8ba9", 
+ "Warehouse": "\u4ed3\u5e93"
+}

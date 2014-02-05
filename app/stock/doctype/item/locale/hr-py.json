@@ -1,0 +1,7 @@
+{
+ " is present in one or many Active BOMs": "prisutan je u jednom ili vi\u0161e aktivnih sastavnicama", 
+ " should be 'Yes'. As Item: ": "trebao biti &#39;Da&#39;. Kao to\u010dke:", 
+ "Default Warehouse is mandatory for Stock Item.": "Default skladi\u0161ta obvezan je za Stock to\u010dke.", 
+ "Item Code (item_code) is mandatory because Item naming is not sequential.": "\u0160ifra (item_code) je obvezno jer Stavka imena nije sekvencijalno.", 
+ "Please enter Default Unit of Measure": "Unesite Zadana jedinica mjere"
+}

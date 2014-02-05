@@ -1,0 +1,16 @@
+{
+ "Accounts": "Ra\u010duni", 
+ "Calculate Based On": "Izra\u010dunajte Na temelju", 
+ "Company": "Dru\u0161tvo", 
+ "Cost Center": "Tro\u0161ka", 
+ "Net Total": "Neto Ukupno", 
+ "Net Weight": "Neto te\u017eina", 
+ "Shipping Account": "Dostava ra\u010dun", 
+ "Shipping Rule": "Dostava Pravilo", 
+ "Shipping Rule Conditions": "Dostava Koje uvjete", 
+ "Shipping Rule Label": "Dostava Pravilo Label", 
+ "Specify a list of Territories, for which, this Shipping Rule is valid": "Navedite popis teritorijima, za koje, to Dostava Pravilo vrijedi", 
+ "Specify conditions to calculate shipping amount": "Odredite uvjete za izra\u010dun iznosa dostave", 
+ "Valid For Territories": "Vrijedi za teritorijima", 
+ "example: Next Day Shipping": "Primjer: Sljede\u0107i dan Dostava"
+}

@@ -1,0 +1,12 @@
+{
+ "Accounts": "\u8cec\u6236", 
+ "Against Account": "\u91dd\u5c0d\u5e33\u6236", 
+ "Bank Reconciliation Detail": "\u9280\u884c\u5c0d\u5e33\u8a73\u7d30", 
+ "Cheque Date": "\u652f\u7968\u65e5\u671f", 
+ "Cheque Number": "\u652f\u7968\u865f\u78bc", 
+ "Clearance Date": "\u6e05\u62c6\u65e5\u671f", 
+ "Credit": "\u4fe1\u7528", 
+ "Debit": "\u501f\u65b9", 
+ "Posting Date": "\u767c\u5e03\u65e5\u671f", 
+ "Voucher ID": "\u512a\u60e0\u5238\u7de8\u865f"
+}

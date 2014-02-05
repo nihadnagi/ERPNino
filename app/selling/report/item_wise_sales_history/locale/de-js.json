@@ -1,0 +1,16 @@
+{
+ "Amount": "Menge", 
+ "Customer": "Kunde", 
+ "Delivered Qty": "Geliefert Menge", 
+ "Description": "Beschreibung", 
+ "Item Code": "Item Code", 
+ "Item Name": "Item Name", 
+ "Item-wise Sales History": "Artikel-wise Vertrieb Geschichte", 
+ "Project": "Projekt", 
+ "Qty": "Menge", 
+ "Rate": "Rate", 
+ "Sales Order": "Sales Order", 
+ "Territory": "Gebiet", 
+ "Transaction Date": "Transaction Datum", 
+ "UOM": "UOM"
+}

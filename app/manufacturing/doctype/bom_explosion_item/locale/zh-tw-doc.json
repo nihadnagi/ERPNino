@@ -1,0 +1,11 @@
+{
+ "Amount": "\u91cf", 
+ "BOM Explosion Item": "BOM\u7206\u70b8\u7269\u54c1", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Manufacturing": "\u88fd\u9020\u696d", 
+ "Qty": "\u6578\u91cf", 
+ "Qty Consumed Per Unit": "\u6578\u91cf\u6d88\u8017\u6bcf\u55ae\u4f4d", 
+ "Rate": "\u7387", 
+ "Stock UOM": "\u5eab\u5b58\u8a08\u91cf\u55ae\u4f4d"
+}

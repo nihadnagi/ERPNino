@@ -1,0 +1,10 @@
+{
+ "List items that form the package.": "Lista de tareas que forman el paquete.", 
+ "Package Items": "Art\u00edculos del embalaje", 
+ "Parent Item": "Art\u00edculo principal", 
+ "Sales BOM": "Ventas BOM", 
+ "Sales BOM Item": "Ventas de art\u00edculo de lista de materiales", 
+ "Sales BOM Items": "Los productos que la lista de materiales de ventas", 
+ "Selling": "De venta", 
+ "The Item that represents the Package. This Item must have \"Is Stock Item\" as \"No\" and \"Is Sales Item\" as \"Yes\"": "El punto que representa el paquete. Este elemento debe tener &quot;es el tema de&quot; como &quot;No&quot; y &quot;\u00bfSales Item&quot; como &quot;S\u00ed&quot;"
+}

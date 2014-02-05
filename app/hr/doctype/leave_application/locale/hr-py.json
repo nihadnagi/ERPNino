@@ -1,0 +1,12 @@
+{
+ " (Half Day)": "(Poludnevni)", 
+ "Cannot approve leave as you are not authorized to approve leaves on Block Dates.": "Ne mo\u017ee odobriti ostaviti kao \u0161to nisu ovla\u0161teni za odobravanje ostavlja na Block Datumi.", 
+ "For Employee": "Za zaposlenom", 
+ "Holiday": "Odmor", 
+ "Leave Application": "Ostavite aplikaciju", 
+ "Leave Approver can be one of": "Ostavite Odobritelj mo\u017ee biti jedan od", 
+ "Leave Blocked": "Ostavite blokirani", 
+ "New Leave Application": "Novi dopust Primjena", 
+ "Warning: Leave application contains following block dates": "Upozorenje: Ostavite program sadr\u017ei sljede\u0107e blok datume", 
+ "does not have role 'Leave Approver'": "nema ulogu &#39;ostaviti Odobritelj&#39;"
+}

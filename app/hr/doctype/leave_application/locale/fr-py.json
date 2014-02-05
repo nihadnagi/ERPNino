@@ -1,0 +1,12 @@
+{
+ " (Half Day)": "(Demi-journ\u00e9e)", 
+ "Cannot approve leave as you are not authorized to approve leaves on Block Dates.": "Impossible d&#39;approuver les cong\u00e9s que vous n&#39;\u00eates pas autoris\u00e9 \u00e0 approuver les cong\u00e9s sur les dates de bloc.", 
+ "For Employee": "Pour les employ\u00e9s", 
+ "Holiday": "Vacances", 
+ "Leave Application": "Demande de cong\u00e9s", 
+ "Leave Approver can be one of": "Laisser approbateur peut \u00eatre l&#39;un des", 
+ "Leave Blocked": "Laisser Bloqu\u00e9", 
+ "New Leave Application": "Nouvelle demande d&#39;autorisation", 
+ "Warning: Leave application contains following block dates": "Attention: la demande d&#39;autorisation contient les dates de blocs suivants", 
+ "does not have role 'Leave Approver'": "n&#39;a pas de r\u00f4le les cong\u00e9s approbateur \u00bb"
+}

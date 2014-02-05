@@ -1,0 +1,15 @@
+{
+ "Amount": "\u91cf", 
+ "Description": "\u63cf\u8ff0", 
+ "Finished Goods": "\u6210\u54c1", 
+ "Issue Date": "\u53d1\u884c\u65e5\u671f", 
+ "Issued Items Against Production Order": "\u53d1\u51fa\u5bf9\u9879\u76ee\u751f\u4ea7\u8ba2\u5355", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Production Order": "\u751f\u4ea7\u8ba2\u5355", 
+ "Qty": "\u6570\u91cf", 
+ "Serial No": "\u5e8f\u5217\u53f7", 
+ "Source Warehouse": "\u6e90\u4ee3\u7801\u4ed3\u5e93", 
+ "Stock Entry": "\u80a1\u7968\u5165\u95e8", 
+ "Target Warehouse": "\u76ee\u6807\u4ed3\u5e93", 
+ "UOM": "\u8ba1\u91cf\u5355\u4f4d"
+}

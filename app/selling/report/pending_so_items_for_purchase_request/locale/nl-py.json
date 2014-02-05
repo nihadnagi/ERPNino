@@ -1,0 +1,9 @@
+{
+ "Customer": "Klant", 
+ "Date": "Datum", 
+ "Description": "Beschrijving", 
+ "Item Code": "Artikelcode", 
+ "Item Name": "Naam van het punt", 
+ "Material Request": "Materiaal aanvragen", 
+ "Pending SO Items For Purchase Request": "In afwachting van SO Artikelen te Purchase Request"
+}

@@ -1,0 +1,18 @@
+{
+ "Actual Qty": "\u5b9e\u9645\u6570\u91cf", 
+ "Batch No": "\u6279\u53f7", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Packed Item": "\u76d2\u88c5\u4ea7\u54c1", 
+ "Page Break": "\u5206\u9875\u7b26", 
+ "Parent Detail docname": "\u5bb6\u957f\u53ef\u91c7\u7528DocName\u7ec6\u8282", 
+ "Parent Item": "\u7236\u9879\u76ee", 
+ "Prevdoc DocType": "Prevdoc\u7684DocType", 
+ "Projected Qty": "\u9884\u8ba1\u6570\u91cf", 
+ "Qty": "\u6570\u91cf", 
+ "Serial No": "\u5e8f\u5217\u53f7", 
+ "Stock": "\u80a1\u7968", 
+ "UOM": "\u8ba1\u91cf\u5355\u4f4d", 
+ "Warehouse": "\u4ed3\u5e93"
+}

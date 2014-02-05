@@ -1,0 +1,12 @@
+{
+ "Brand": "Merk", 
+ "Company": "Vennootschap", 
+ "Customer": "Klant", 
+ "Document Type": "Soort document", 
+ "From Date": "Van Datum", 
+ "Item Group": "Item Group", 
+ "Sales Person": "Sales Person", 
+ "Sales Person-wise Transaction Summary": "Sales Person-wise Overzicht opdrachten", 
+ "Territory": "Grondgebied", 
+ "To Date": "To-date houden"
+}

@@ -1,0 +1,14 @@
+{
+ "Brand": "\u724c", 
+ "Date": "\u65e5\u671f", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Purchase Order": "\u91c7\u8d2d\u8ba2\u5355", 
+ "Purchase Order Items To Be Received": "\u91c7\u8d2d\u8ba2\u5355\u9879\u76ee\u53ef\u6536", 
+ "Qty": "\u6570\u91cf", 
+ "Qty to Receive": "\u6570\u91cf\u6765\u63a5\u6536", 
+ "Received Qty": "\u6536\u5230\u6570\u91cf", 
+ "Supplier": "\u63d0\u4f9b\u8005", 
+ "Warehouse": "\u4ed3\u5e93"
+}

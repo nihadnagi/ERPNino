@@ -1,0 +1,10 @@
+{
+ "* Will be calculated in the transaction.": "* Sera calcul\u00e9 de la transaction.", 
+ "Accounts": "Comptes", 
+ "Company": "Entreprise", 
+ "Default": "Par d\u00e9faut", 
+ "Sales Taxes and Charges Master": "Taxes de vente et frais de Master", 
+ "Specify a list of Territories, for which, this Taxes Master is valid": "Sp\u00e9cifiez une liste des territoires, pour qui, cette Taxes Master est valide", 
+ "Title": "Titre", 
+ "Valid for Territories": "Valable pour les Territoires"
+}

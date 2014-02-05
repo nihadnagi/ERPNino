@@ -1,0 +1,17 @@
+[
+ "Customer", 
+ "Item-wise Sales History", 
+ "Item Name", 
+ "Transaction Date", 
+ "Description", 
+ "Delivered Qty", 
+ "Amount", 
+ "Qty", 
+ "Project", 
+ "Rate", 
+ "Billed Amount", 
+ "Territory", 
+ "Sales Order", 
+ "Item Code", 
+ "UOM"
+]

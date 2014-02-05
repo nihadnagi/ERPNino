@@ -1,0 +1,10 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "Boekhoudkundige afschrijving bevroren tot deze datum, kan niemand / te wijzigen toegang behalve rol hieronder aangegeven.", 
+ "Accounts": "Accounts", 
+ "Accounts Frozen Upto": "Accounts Frozen Tot", 
+ "Accounts Settings": "Accounts Settings", 
+ "Credit Controller": "Credit Controller", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "Indien ingeschakeld, zal het systeem de boekingen automatisch plaatsen voor de inventaris.", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "Rol die is toegestaan \u200b\u200bom transacties die kredietlimieten, te overschrijden indienen.", 
+ "Settings for Accounts": "Instellingen voor accounts"
+}

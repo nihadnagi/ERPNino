@@ -1,0 +1,17 @@
+{
+ "Actual Quantity": "\u5be6\u969b\u6578\u91cf", 
+ "Bin": "\u7bb1\u5b50", 
+ "FCFS Rate": "FCFS\u7387", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Moving Average Rate": "\u79fb\u52d5\u5e73\u5747\u623f\u50f9", 
+ "Ordered Quantity": "\u8a02\u8cfc\u6578\u91cf", 
+ "Planned Qty": "\u8a08\u5283\u6578\u91cf", 
+ "Projected Qty": "\u9810\u8a08\u6578\u91cf", 
+ "Quantity Requested for Purchase": "\u9700\u6c42\u6578\u91cf\u7684\u8cfc\u8cb7", 
+ "Reserved Quantity": "\u4fdd\u7559\u6578\u91cf", 
+ "Stock": "\u80a1\u7968", 
+ "Stock Value": "\u80a1\u7968\u50f9\u503c", 
+ "UOM": "\u8a08\u91cf\u55ae\u4f4d", 
+ "Valuation Rate": "\u4f30\u503c\u7387", 
+ "Warehouse": "\u5009\u5eab"
+}

@@ -1,0 +1,15 @@
+{
+ "Amount": "Menge", 
+ "BOM Item": "St\u00fccklistenposition", 
+ "BOM No": "BOM Nein", 
+ "Item Code": "Item Code", 
+ "Item Description": "Artikelbeschreibung", 
+ "Manufacturing": "Herstellung", 
+ "Operation No": "In Betrieb", 
+ "Qty": "Menge", 
+ "Qty Consumed Per Unit": "Menge pro verbrauchter", 
+ "Rate": "Rate", 
+ "Scrap %": "Scrap%", 
+ "See \"Rate Of Materials Based On\" in Costing Section": "Siehe &quot;Rate Of Materials Based On&quot; in der Kalkulation Abschnitt", 
+ "Stock UOM": "Lager UOM"
+}

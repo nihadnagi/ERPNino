@@ -1,0 +1,9 @@
+{
+ "Adds a custom script (client or server) to a DocType": "\u6dfb\u52a0\u4e00\u4e2a\u81ea\u5b9a\u4e49\u811a\u672c\uff08\u5ba2\u6237\u7aef\u6216\u670d\u52a1\u5668\uff09\uff0c\u4ee5\u4e00\u4e2aDOCTYPE", 
+ "Client": "\u5ba2\u6237", 
+ "Core": "\u6838\u5fc3", 
+ "Custom Script": "\u81ea\u5b9a\u4e49\u811a\u672c", 
+ "DocType": "\u7684DocType", 
+ "Script": "\u811a\u672c", 
+ "Script Type": "\u811a\u672c\u7c7b\u578b"
+}

@@ -1,0 +1,16 @@
+{
+ "Brand": "Merk", 
+ "Description": "Beschrijving", 
+ "From Date": "Van Datum", 
+ "Item Code": "Artikelcode", 
+ "Posting Date": "Plaatsingsdatum", 
+ "Qty": "Aantal", 
+ "Refresh": "Verversen", 
+ "Stock Ledger": "Stock Ledger", 
+ "To": "Naar", 
+ "To Date": "To-date houden", 
+ "UOM": "Verpakking", 
+ "Voucher No": "Blad nr.", 
+ "Voucher Type": "Voucher Type", 
+ "Warehouse": "Magazijn"
+}

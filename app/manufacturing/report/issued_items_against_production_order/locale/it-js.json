@@ -1,0 +1,14 @@
+{
+ "Amount": "Importo", 
+ "Description": "Descrizione", 
+ "Issue Date": "Data di Emissione", 
+ "Issued Items Against Production Order": "Articoli emesso contro Ordine di produzione", 
+ "Item Code": "Codice Articolo", 
+ "Production Order": "Ordine di produzione", 
+ "Qty": "Qt\u00e0", 
+ "Serial No": "Serial No", 
+ "Source Warehouse": "Fonte Warehouse", 
+ "Stock Entry": "Archivio Entry", 
+ "Target Warehouse": "Obiettivo Warehouse", 
+ "UOM": "UOM"
+}

@@ -1,0 +1,10 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "Saisie comptable gel\u00e9 jusqu&#39;\u00e0 cette date, personne ne peut faire / modifier entr\u00e9e sauf r\u00f4le sp\u00e9cifi\u00e9 ci-dessous.", 
+ "Accounts": "Comptes", 
+ "Accounts Frozen Upto": "Jusqu&#39;\u00e0 comptes gel\u00e9s", 
+ "Accounts Settings": "Param\u00e8tres des comptes", 
+ "Credit Controller": "Credit Controller", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "S&#39;il est activ\u00e9, le syst\u00e8me affichera les \u00e9critures comptables pour l&#39;inventaire automatiquement.", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "R\u00f4le qui est autoris\u00e9 \u00e0 soumettre des transactions qui d\u00e9passent les limites de cr\u00e9dit fix\u00e9es.", 
+ "Settings for Accounts": "R\u00e9glages pour les comptes"
+}

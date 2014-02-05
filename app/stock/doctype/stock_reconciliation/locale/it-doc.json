@@ -1,0 +1,15 @@
+{
+ "Amended From": "Corretto da", 
+ "Company": "Azienda", 
+ "Cost Center": "Centro di Costo", 
+ "Fiscal Year": "Anno Fiscale", 
+ "Posting Date": "Data di registrazione", 
+ "Posting Time": "Tempo Distacco", 
+ "Reconciliation Data": "Dati Riconciliazione", 
+ "Reconciliation HTML": "Riconciliazione HTML", 
+ "Reconciliation JSON": "Riconciliazione JSON", 
+ "Stock": "Azione", 
+ "Stock Reconciliation": "Riconciliazione Archivio", 
+ "This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.": "Questo strumento consente di aggiornare o correggere la quantit\u00e0 e la valutazione delle azioni nel sistema. Viene tipicamente utilizzato per sincronizzare i valori di sistema e ci\u00f2 che realmente esiste nei vostri magazzini.", 
+ "Upload HTML": "Carica HTML"
+}

@@ -1,0 +1,16 @@
+{
+ "A user can have multiple values for a property.": "\u4e00\u500b\u7528\u6236\u53ef\u4ee5\u6709\u4e00\u500b\u5c6c\u6027\u7684\u591a\u500b\u503c\u3002", 
+ "Add": "\u52a0", 
+ "Add A Property": "\u6dfb\u52a0\u5c6c\u6027", 
+ "Loading": "\u8f09\u5165\u4e2d", 
+ "No User Properties found.": "\u6c92\u6709\u7528\u6236\u5c6c\u6027\u4e2d\u627e\u5230\u3002", 
+ "Property": "\u5c6c\u6027", 
+ "Quick Help for User Properties": "\u5feb\u901f\u5e6b\u52a9\u7528\u6236\u5c6c\u6027", 
+ "Select User or Property to start.": "\u9078\u64c7\u7528\u6236\u6216\u7269\u696d\u958b\u59cb\u3002", 
+ "These properties are Link Type fields from all Documents.": "\u9019\u4e9b\u5c6c\u6027\u662f\u7531\u6240\u6709\u6587\u4ef6\u93c8\u63a5\u985e\u578b\u5b57\u6bb5\u3002", 
+ "These properties can also be used to 'assign' a particular document, whose property matches with the User's property to a User. These can be set using the <a href='#permission-manager'>Permission Manager</a>": "\u9019\u4e9b\u5c6c\u6027\u4e5f\u53ef\u4ee5\u7528\u4f86&#39;\u5206\u914d&#39;\u4e00\u500b\u7279\u5b9a\u7684\u6587\u4ef6\uff0c\u5176\u5c6c\u6027\u8207\u7528\u6236\u7684\u5c6c\u6027\u76f8\u5339\u914d\u7684\u7528\u6236\u3002\u9019\u4e9b\u53ef\u4ee5\u901a\u904e\u8a2d\u7f6e<a href='#permission-manager'>\u6b0a\u9650\u7ba1\u7406</a>", 
+ "These properties will appear as values in forms that contain them.": "\u9019\u4e9b\u5c6c\u6027\u5c07\u986f\u793a\u70ba\u5305\u542b\u9019\u4e9b\u5f62\u5f0f\u7684\u503c\u3002", 
+ "User": "\u7528\u6236", 
+ "Value": "\u503c", 
+ "You can set various 'properties' to Users to set default values and apply permission rules based on the value of these properties in various forms.": "\u60a8\u53ef\u4ee5\u8a2d\u7f6e\u4e0d\u540c\u7684\u201c\u5c6c\u6027\u201d\uff0c\u4ee5\u7528\u6236\u8a2d\u7f6e\u7684\u9ed8\u8a8d\u503c\uff0c\u4e26\u57fa\u65bc\u5404\u7a2e\u5f62\u5f0f\u7684\u9019\u4e9b\u5c6c\u6027\u503c\u7684\u6b0a\u9650\u898f\u5247\u3002"
+}

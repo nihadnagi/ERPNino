@@ -1,0 +1,10 @@
+{
+ "Amount": "Iznos", 
+ "Customer": "Kupac", 
+ "Date": "Datum", 
+ "Description": "Opis", 
+ "Item": "Stavka", 
+ "Item Name": "Stavka Ime", 
+ "Ordered Items To Be Billed": "Naru\u010deni Stavke biti napla\u0107eno", 
+ "Sales Order": "Prodajnog naloga"
+}

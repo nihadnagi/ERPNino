@@ -1,0 +1,16 @@
+{
+ "Accounts": "\u8cec\u6236", 
+ "Calculate Based On": "\u8a08\u7b97\u7684\u57fa\u790e\u4e0a", 
+ "Company": "\u516c\u53f8", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Net Total": "\u7e3d\u6de8", 
+ "Net Weight": "\u6de8\u91cd", 
+ "Shipping Account": "\u9001\u8ca8\u8cec\u6236", 
+ "Shipping Rule": "\u9001\u8ca8\u898f\u5247", 
+ "Shipping Rule Conditions": "\u9001\u8ca8\u898f\u5247\u689d\u4ef6", 
+ "Shipping Rule Label": "\u9001\u8ca8\u898f\u5247\u6a19\u7c64", 
+ "Specify a list of Territories, for which, this Shipping Rule is valid": "\u65b0\u754c\u6307\u5b9a\u4e00\u500b\u5217\u8868\uff0c\u5176\u4e2d\uff0c\u8a72\u904b\u8cbb\u898f\u5247\u662f\u6709\u6548\u7684", 
+ "Specify conditions to calculate shipping amount": "\u6307\u5b9a\u689d\u4ef6\u8a08\u7b97\u904b\u8f38\u91cf", 
+ "Valid For Territories": "\u9069\u7528\u65bc\u65b0\u754c", 
+ "example: Next Day Shipping": "\u4f8b\u5982\uff1a\u6b21\u65e5\u767c\u8ca8"
+}

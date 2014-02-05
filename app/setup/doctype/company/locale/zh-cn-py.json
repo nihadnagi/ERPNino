@@ -1,0 +1,4 @@
+{
+ "Sorry! You cannot change company's default currency, because there are existing transactions against it. You will need to cancel those transactions if you want to change the default currency.": "\u5bf9\u4e0d\u8d77\uff01\u4f60\u4e0d\u80fd\u6539\u53d8\u516c\u53f8\u7684\u9884\u8bbe\u8d27\u5e01\uff0c\u56e0\u4e3a\u6709\u73b0\u6709\u7684\u4ea4\u6613\u53cd\u5bf9\u3002\u60a8\u5c06\u9700\u8981\u53d6\u6d88\u7684\u4ea4\u6613\uff0c\u5982\u679c\u4f60\u60f3\u6539\u53d8\u9ed8\u8ba4\u8d27\u5e01\u3002", 
+ "Sorry, companies cannot be merged": "\u5bf9\u4e0d\u8d77\uff0c\u4f01\u4e1a\u4e0d\u80fd\u5408\u5e76"
+}

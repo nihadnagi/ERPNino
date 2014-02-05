@@ -1,0 +1,15 @@
+{
+ "Amount": "Iznos", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Item-wise Purchase History": "Stavka-mudar Kupnja Povijest", 
+ "Project": "Projekt", 
+ "Purchase Order": "Narud\u017ebenica", 
+ "Qty": "Kol", 
+ "Rate": "Stopa", 
+ "Received Qty": "Pozicija Kol", 
+ "Supplier": "Dobavlja\u010d", 
+ "Transaction Date": "Transakcija Datum", 
+ "UOM": "UOM"
+}

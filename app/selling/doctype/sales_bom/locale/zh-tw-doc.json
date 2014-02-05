@@ -1,0 +1,10 @@
+{
+ "List items that form the package.": "\u5f62\u6210\u5305\u5217\u8868\u9805\u3002", 
+ "Package Items": "\u5305\u88dd\u7522\u54c1", 
+ "Parent Item": "\u7236\u9805\u76ee", 
+ "Sales BOM": "\u92b7\u552eBOM", 
+ "Sales BOM Item": "\u92b7\u552eBOM\u9805\u76ee", 
+ "Sales BOM Items": "\u92b7\u552eBOM\u9805\u76ee", 
+ "Selling": "\u92b7\u552e", 
+ "The Item that represents the Package. This Item must have \"Is Stock Item\" as \"No\" and \"Is Sales Item\" as \"Yes\"": "\u4ee3\u8868\u5305\u88dd\u7684\u9805\u76ee\u3002\u8a72\u9805\u76ee\u5fc5\u9808\u6709\u201c\u662f\u80a1\u7968\u9805\u76ee\u201d\u70ba\u201c\u5426\u201d\u548c\u201c\u662f\u92b7\u552e\u9805\u76ee\u201d\u70ba\u201c\u662f\u201d"
+}

@@ -1,0 +1,10 @@
+{
+ "* Will be calculated in the transaction.": "* Zal worden berekend in de transactie.", 
+ "Accounts": "Accounts", 
+ "Company": "Vennootschap", 
+ "Default": "Verzuim", 
+ "Sales Taxes and Charges Master": "Verkoop en-heffingen Master", 
+ "Specify a list of Territories, for which, this Taxes Master is valid": "Geef een lijst van gebieden, waarvoor dit Belastingen Master is geldig", 
+ "Title": "Titel", 
+ "Valid for Territories": "Geldig voor Territories"
+}

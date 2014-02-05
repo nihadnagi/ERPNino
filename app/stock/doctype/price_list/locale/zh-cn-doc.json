@@ -1,0 +1,12 @@
+{
+ "Buying": "\u6c42\u8d2d", 
+ "Currency": "\u8d27\u5e01", 
+ "Price List": "\u4ef7\u683c\u8868", 
+ "Price List Master": "\u4ef7\u683c\u8868\u4e3b", 
+ "Price List Name": "\u4ef7\u683c\u5217\u8868\u540d\u79f0", 
+ "Selling": "\u9500\u552e", 
+ "Specify a list of Territories, for which, this Price List is valid": "\u6307\u5b9a\u9886\u571f\u7684\u540d\u5355\uff0c\u4e3a\u6b64\uff0c\u672c\u4ef7\u683c\u8868\u662f\u6709\u6548\u7684", 
+ "Stock": "\u80a1\u7968", 
+ "Valid for Buying or Selling?": "\u6709\u6548\u7684\u4e70\u5165\u6216\u5356\u51fa\uff1f", 
+ "Valid for Territories": "\u9002\u7528\u4e8e\u65b0\u754c"
+}

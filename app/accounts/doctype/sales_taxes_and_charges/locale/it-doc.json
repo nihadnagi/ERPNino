@@ -1,0 +1,20 @@
+{
+ "Account Head": "Conto Capo", 
+ "Accounts": "Conti", 
+ "Actual": "Attuale", 
+ "Amount": "Importo", 
+ "Cost Center": "Centro di Costo", 
+ "Description": "Descrizione", 
+ "Enter Row": "Inserisci riga", 
+ "If checked, the tax amount will be considered as already included in the Print Rate / Print Amount": "Se selezionato, l&#39;importo della tassa sar\u00e0 considerata gi\u00e0 inclusa nel Stampa Valuta / Stampa Importo", 
+ "Is this Tax included in Basic Rate?": "\u00c8 questa tassa inclusi nel prezzo base?", 
+ "Item Wise Tax Detail ": "Articolo Wise Particolare fiscale", 
+ "On Net Total": "Sul totale netto", 
+ "On Previous Row Amount": "Sul Fila Indietro Importo", 
+ "On Previous Row Total": "Sul Fila Indietro totale", 
+ "Parenttype": "ParentType", 
+ "Rate": "Vota", 
+ "Sales Taxes and Charges": "Tasse di vendita e oneri", 
+ "Total": "Totale", 
+ "Type": "Tipo"
+}

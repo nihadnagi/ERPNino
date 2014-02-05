@@ -1,0 +1,8 @@
+{
+ "Example:": "Exemple:", 
+ "Report Builder reports are managed directly by the report builder. Nothing to do.": "Ses rapports sont g\u00e9r\u00e9s directement par le constructeur de rapport. Rien \u00e0 faire.", 
+ "To format columns, give column labels in the query.": "Pour formater colonnes, donner des \u00e9tiquettes de colonne dans la requ\u00eate.", 
+ "Write a Python file in the same folder where this is saved and return column and result.": "\u00c9crire un fichier Python dans le m\u00eame dossier o\u00f9 cela est sauvegard\u00e9 et la colonne de retour et le r\u00e9sultat.", 
+ "Write a SELECT query. Note result is not paged (all data is sent in one go).": "\u00c9crire une requ\u00eate SELECT. r\u00e9sultat de note n&#39;est pas pagin\u00e9 (toutes les donn\u00e9es sont transmises en une seule fois).", 
+ "[Label]:[Field Type]/[Options]:[Width]": "[\u00c9tiquette]: [Type de champ] / [Options]: [Largeur]"
+}

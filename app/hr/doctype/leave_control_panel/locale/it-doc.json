@@ -1,0 +1,20 @@
+{
+ "Allocate": "Assegna", 
+ "Branch": "Ramo", 
+ "Carry Forward": "Portare Avanti", 
+ "Department": "Dipartimento", 
+ "Designation": "Designazione", 
+ "Employee Type": "Tipo Dipendenti", 
+ "Fiscal Year": "Anno Fiscale", 
+ "Grade": "Qualit\u00e0", 
+ "HR": "HR", 
+ "Leave Control Panel": "Lascia il Pannello di controllo", 
+ "Leave Type": "Lascia Tipo", 
+ "Leave blank if considered for all branches": "Lasciare vuoto se considerato per tutti i rami", 
+ "Leave blank if considered for all departments": "Lasciare vuoto se considerato per tutti i reparti", 
+ "Leave blank if considered for all designations": "Lasciare vuoto se considerato per tutte le designazioni", 
+ "Leave blank if considered for all employee types": "Lasciare vuoto se considerato per tutti i tipi dipendenti", 
+ "Leave blank if considered for all grades": "Lasciare vuoto se considerato per tutti i gradi", 
+ "New Leaves Allocated (In Days)": "Nuove foglie attribuiti (in giorni)", 
+ "Please select Carry Forward if you also want to include previous fiscal year's balance leaves to this fiscal year": "Si prega di selezionare il riporto se anche voi volete includere equilibrio precedente anno fiscale di parte per questo anno fiscale"
+}

@@ -1,0 +1,18 @@
+{
+ "Cancelling this Stock Reconciliation will nullify its effect.": "\u53d6\u6d88\u9019\u500b\u80a1\u7968\u548c\u89e3\u5c07\u62b5\u6d88\u5176\u5f71\u97ff\u3002", 
+ "Download Reconcilation Data": "\u4e0b\u8f09Reconcilation\u6578\u64da", 
+ "Download Template": "\u4e0b\u8f09\u6a21\u677f", 
+ "If no change in either Quantity or Valuation Rate, leave the cell blank.": "\u5982\u679c\u5728\u4efb\u4e00\u6578\u91cf\u6216\u4f30\u50f9\u7387\u6c92\u6709\u8b8a\u5316\uff0c\u96e2\u958b\u7d30\u80de\u7684\u7a7a\u767d\u3002", 
+ "It can also be used to create opening stock entries and to fix stock value.": "\u5b83\u4e5f\u53ef\u4ee5\u7528\u4f86\u5275\u5efa\u671f\u521d\u5b58\u8ca8\u9805\u76ee\u548c\u89e3\u6c7a\u80a1\u7968\u50f9\u503c\u3002", 
+ "Item Code and Warehouse should already exist.": "\u7522\u54c1\u7de8\u865f\u548c\u5009\u5eab\u61c9\u8a72\u5df2\u7d93\u5b58\u5728\u3002", 
+ "Notes:": "\u6ce8\u610f\u4e8b\u9805\uff1a", 
+ "Stock Reconcilation Data": "\u80a1\u7968Reconcilation\u6578\u64da", 
+ "Stock Reconcilation Template": "\u80a1\u7968Reconcilation\u6a21\u677f", 
+ "Stock Reconciliation": "\u5eab\u5b58\u5c0d\u8cec", 
+ "Stock Reconciliation can be used to update the stock on a particular date, ": "\u5eab\u5b58\u8abf\u7bc0\u53ef\u7528\u65bc\u66f4\u65b0\u5728\u67d0\u4e00\u7279\u5b9a\u65e5\u671f\u7684\u80a1\u7968\uff0c", 
+ "When submitted, the system creates difference entries ": "\u63d0\u4ea4\u6642\uff0c\u7cfb\u7d71\u6703\u5275\u5efa\u5dee\u7570\u7684\u689d\u76ee", 
+ "You can submit this Stock Reconciliation.": "\u60a8\u53ef\u4ee5\u63d0\u4ea4\u8a72\u80a1\u7968\u5c0d\u8cec\u3002", 
+ "You can update either Quantity or Valuation Rate or both.": "\u4f60\u53ef\u4ee5\u66f4\u65b0\u6578\u91cf\u6216\u4f30\u503c\u901f\u7387\u6216\u5169\u8005\u517c\u800c\u6709\u4e4b\u3002", 
+ "to set the given stock and valuation on this date.": "\u8a2d\u7f6e\u7d66\u5b9a\u7684\u80a1\u7968\u53ca\u4f30\u503c\u5c0d\u9019\u500b\u65e5\u671f\u3002", 
+ "usually as per physical inventory.": "\u901a\u5e38\u6309\u7167\u5be6\u969b\u5eab\u5b58\u3002"
+}

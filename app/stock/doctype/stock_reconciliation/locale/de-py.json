@@ -1,0 +1,8 @@
+{
+ " at warehouse: ": "im Warenlager:", 
+ "As existing qty for item: ": "Da sich die bestehenden Menge f\u00fcr Artikel:", 
+ "Please enter Expense Account": "Bitte geben Sie Expense Konto", 
+ "Row # ": "Zeile #", 
+ "Serialized Item: '": "Serialisiert Item '", 
+ "Wrong Template: Unable to find head row.": "Falsche Vorlage: Kann Kopfzeile zu finden."
+}

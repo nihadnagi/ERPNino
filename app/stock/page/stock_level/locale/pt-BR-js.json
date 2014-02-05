@@ -1,0 +1,15 @@
+{
+ "Actual Qty": "Qtde Real", 
+ "Brand": "Marca", 
+ "Description": "Descri\u00e7\u00e3o", 
+ "Item Code": "C\u00f3digo do Item", 
+ "Item Name": "Nome do Item", 
+ "Planned Qty": "Qtde. planejada", 
+ "Projected Qty": "Qtde. Projetada", 
+ "Re-Order Level": "N\u00edvel para novo pedido", 
+ "Re-Order Qty": "Qtde. para novo pedido", 
+ "Refresh": "Atualizar", 
+ "Stock Level": "N\u00edvel de Estoque", 
+ "UOM": "UDM", 
+ "Warehouse": "Almoxarifado"
+}

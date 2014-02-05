@@ -1,0 +1,14 @@
+{
+ "Amount": "Montant", 
+ "Description": "Description", 
+ "Issue Date": "Date d&#39;\u00e9mission", 
+ "Issued Items Against Production Order": "Articles \u00e9mis contre un ordre de fabrication", 
+ "Item Code": "Code de l&#39;article", 
+ "Production Order": "Ordre de fabrication", 
+ "Qty": "Qt\u00e9", 
+ "Serial No": "N \u00b0 de s\u00e9rie", 
+ "Source Warehouse": "Source d&#39;entrep\u00f4t", 
+ "Stock Entry": "Entr\u00e9e Stock", 
+ "Target Warehouse": "Cible d&#39;entrep\u00f4t", 
+ "UOM": "Emballage"
+}

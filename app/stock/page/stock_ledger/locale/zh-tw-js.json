@@ -1,0 +1,19 @@
+{
+ "Balance Qty": "\u9918\u984d\u6578\u91cf", 
+ "Balance Value": "\u5e73\u8861\u503c", 
+ "Brand": "\u724c", 
+ "Description": "\u63cf\u8ff0", 
+ "From Date": "\u5f9e\u65e5\u671f", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Posting Date": "\u767c\u5e03\u65e5\u671f", 
+ "Qty": "\u6578\u91cf", 
+ "Refresh": "\u5237\u65b0", 
+ "Reset Filters": "\u91cd\u8a2d\u904e\u6ffe\u5668", 
+ "Stock Ledger": "\u5eab\u5b58\u7e3d\u5e33", 
+ "To": "\u81f3", 
+ "To Date": "\u81f3\u4eca", 
+ "UOM": "\u8a08\u91cf\u55ae\u4f4d", 
+ "Voucher No": "\u7121\u6191\u8b49", 
+ "Voucher Type": "\u6191\u8b49\u985e\u578b", 
+ "Warehouse": "\u5009\u5eab"
+}

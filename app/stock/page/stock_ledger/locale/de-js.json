@@ -1,0 +1,16 @@
+{
+ "Brand": "Marke", 
+ "Description": "Beschreibung", 
+ "From Date": "Von Datum", 
+ "Item Code": "Item Code", 
+ "Posting Date": "Buchungsdatum", 
+ "Qty": "Menge", 
+ "Refresh": "Erfrischen", 
+ "Stock Ledger": "Lager Ledger", 
+ "To": "Auf", 
+ "To Date": "To Date", 
+ "UOM": "UOM", 
+ "Voucher No": "Gutschein Nein", 
+ "Voucher Type": "Gutschein Type", 
+ "Warehouse": "Lager"
+}

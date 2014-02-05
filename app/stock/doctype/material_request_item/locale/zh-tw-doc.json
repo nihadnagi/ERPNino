@@ -1,0 +1,22 @@
+{
+ "<a href=\"#Sales Browser/Item Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Item Group\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Brand": "\u724c", 
+ "Completed Qty": "\u5b8c\u6210\u6578\u91cf", 
+ "Description": "\u63cf\u8ff0", 
+ "For Warehouse": "\u5c0d\u65bc\u5009\u200b\u200b\u5eab", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Item Group": "\u9805\u76ee\u7d44", 
+ "Item Name": "\u9805\u76ee\u540d\u7a31", 
+ "Lead Time Date": "\u4ea4\u8ca8\u6642\u9593\u65e5\u671f", 
+ "Material Request Item": "\u6750\u6599\u8981\u6c42\u9805", 
+ "Min Order Qty": "\u6700\u5c0f\u8a02\u8ca8\u91cf", 
+ "More Info": "\u66f4\u591a\u4fe1\u606f", 
+ "Page Break": "\u5206\u9801\u7b26", 
+ "Projected Qty": "\u9810\u8a08\u6578\u91cf", 
+ "Quantity": "\u6578\u91cf", 
+ "Quantity and Warehouse": "\u6578\u91cf\u548c\u5009\u5eab", 
+ "Required Date": "\u6240\u9700\u6642\u9593", 
+ "Sales Order No": "\u92b7\u552e\u8a02\u55ae\u865f", 
+ "Stock": "\u80a1\u7968", 
+ "Stock UOM": "\u5eab\u5b58\u8a08\u91cf\u55ae\u4f4d"
+}

@@ -1,0 +1,12 @@
+{
+ "Amount": "Importo", 
+ "Company": "Azienda", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Posting Date": "Data di registrazione", 
+ "Purchase In Transit": "Acquisto In Transit", 
+ "Purchase Invoice": "Acquisto Fattura", 
+ "Purchase Order": "Ordine di acquisto", 
+ "Purchase Receipt": "RICEVUTA", 
+ "Qty": "Qt\u00e0"
+}

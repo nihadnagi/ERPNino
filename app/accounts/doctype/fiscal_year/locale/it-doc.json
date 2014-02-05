@@ -1,0 +1,12 @@
+{
+ "**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.": "**Anno fiscale** rappresenta un esercizio finanziario. Tutti i dati contabili e le altre principali operazioni sono tracciati per **anno fiscale**.", 
+ "Accounts": "Conti", 
+ "Entries are not allowed against this Fiscal Year if the year is closed.": "Voci non permesse in confronto ad un Anno Fiscale gi\u00e0 chiuso.", 
+ "Fiscal Year": "Anno Fiscale", 
+ "For e.g. 2012, 2012-13": "Per es. 2012, 2012-13", 
+ "No": "No", 
+ "Year Closed": "Anno Chiuso", 
+ "Year Name": "Anno Nome", 
+ "Year Start Date": "Anno Data di inizio", 
+ "Yes": "S\u00ec"
+}

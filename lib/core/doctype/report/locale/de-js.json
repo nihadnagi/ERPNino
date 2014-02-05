@@ -1,0 +1,8 @@
+{
+ "Example:": "Beispiel:", 
+ "Report Builder reports are managed directly by the report builder. Nothing to do.": "Report Builder-Berichte werden direkt vom Report Builder verwaltet. Nichts zu tun.", 
+ "To format columns, give column labels in the query.": "Um Spalten zu formatieren, geben Spaltenbeschriftungen in der Abfrage.", 
+ "Write a Python file in the same folder where this is saved and return column and result.": "Schreiben Sie eine Python-Datei im gleichen Ordner, in dem diese gespeichert oder R\u00fcckgabebelehrung Spalte und Ergebnis.", 
+ "Write a SELECT query. Note result is not paged (all data is sent in one go).": "Schreiben Sie eine SELECT-Abfrage. Hinweis Ergebnis nicht ausgelagert (alle Daten in einem Rutsch gesendet).", 
+ "[Label]:[Field Type]/[Options]:[Width]": "[Label]: [Feldtyp] / [Optionen]: [Breite]"
+}

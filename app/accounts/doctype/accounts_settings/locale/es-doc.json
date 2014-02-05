@@ -1,0 +1,10 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "Asiento contable congelado hasta la fecha, nadie puede hacer / modificar la entrada, excepto el papel se especifica a continuaci\u00f3n.", 
+ "Accounts": "Cuentas", 
+ "Accounts Frozen Upto": "Hasta que las cuentas congeladas", 
+ "Accounts Settings": "Configuraci\u00f3n de cuentas", 
+ "Credit Controller": "Credit Controller", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "Si est\u00e1 habilitado, el sistema contabiliza los asientos contables para el inventario de forma autom\u00e1tica.", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "Papel que se permite presentar las transacciones que excedan los l\u00edmites de cr\u00e9dito establecidos.", 
+ "Settings for Accounts": "Ajustes de cuentas"
+}

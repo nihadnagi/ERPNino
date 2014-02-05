@@ -1,0 +1,20 @@
+{
+ "Allocate": "\u5206\u914d", 
+ "Branch": "\u652f", 
+ "Carry Forward": "\u767c\u63da", 
+ "Department": "\u90e8\u9580", 
+ "Designation": "\u6307\u5b9a", 
+ "Employee Type": "\u54e1\u5de5\u985e\u578b", 
+ "Fiscal Year": "\u8ca1\u653f\u5e74\u5ea6", 
+ "Grade": "\u7b49\u7d1a", 
+ "HR": "\u4eba\u529b\u8cc7\u6e90", 
+ "Leave Control Panel": "\u96e2\u958b\u63a7\u5236\u9762\u677f", 
+ "Leave Type": "\u96e2\u958b\u985e\u578b", 
+ "Leave blank if considered for all branches": "\u96e2\u958b\uff0c\u5982\u679c\u8003\u616e\u6240\u6709\u5206\u652f\u7a7a\u767d", 
+ "Leave blank if considered for all departments": "\u96e2\u958b\uff0c\u5982\u679c\u8003\u616e\u5404\u90e8\u9580\u7684\u7a7a\u767d", 
+ "Leave blank if considered for all designations": "\u96e2\u958b\uff0c\u5982\u679c\u8003\u616e\u6240\u6709\u6307\u5b9a\u7a7a\u767d", 
+ "Leave blank if considered for all employee types": "\u96e2\u958b\uff0c\u5982\u679c\u8003\u616e\u6240\u6709\u7684\u54e1\u5de5\u985e\u578b\u7a7a\u767d", 
+ "Leave blank if considered for all grades": "\u96e2\u958b\uff0c\u5982\u679c\u8003\u616e\u6240\u6709\u7d1a\u5225\u7a7a\u767d", 
+ "New Leaves Allocated (In Days)": "\u5206\u914d\uff08\u5929\uff09\u65b0\u8449", 
+ "Please select Carry Forward if you also want to include previous fiscal year's balance leaves to this fiscal year": "\u8acb\u9078\u64c7\u7d50\u8f49\uff0c\u5982\u679c\u4f60\u9084\u9700\u8981\u5305\u62ec\u4e0a\u4e00\u6703\u8a08\u5e74\u5ea6\u7684\u8cc7\u7522\u8ca0\u50b5\u8449\u672c\u8ca1\u5e74"
+}

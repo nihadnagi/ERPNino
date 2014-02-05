@@ -1,0 +1,12 @@
+{
+ "Amount": "Montant", 
+ "Company": "Entreprise", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Posting Date": "Date de publication", 
+ "Purchase In Transit": "Achat En transit", 
+ "Purchase Invoice": "Achetez facture", 
+ "Purchase Order": "Bon de commande", 
+ "Purchase Receipt": "Achat R\u00e9ception", 
+ "Qty": "Qt\u00e9"
+}

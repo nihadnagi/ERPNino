@@ -1,0 +1,7 @@
+{
+ "Failed: ": "Mislukt:", 
+ "Ignored: ": "Genegeerd:", 
+ "Max 500 rows only.": "Alleen max. 500 rijen.", 
+ "Please select a valid csv file with data.": "Selecteer een geldige CSV-bestand met data.", 
+ "Successful: ": "Succesvol:"
+}

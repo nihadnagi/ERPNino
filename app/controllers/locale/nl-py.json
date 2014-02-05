@@ -1,0 +1,18 @@
+{
+ " as it is stock Item or packing item": "zoals het is voorraad Punt of verpakkingsitem", 
+ " can not be made.": "kan niet worden gemaakt.", 
+ " is mandatory": "is verplicht", 
+ " will be over-billed against mentioned ": "wordt over-gefactureerd tegen genoemde", 
+ "Account for this ": "Account voor deze", 
+ "No default BOM exists for item: ": "Geen standaard BOM bestaat voor artikel:", 
+ "Please enter Reserved Warehouse for item ": "Vul Gereserveerde Warehouse voor punt", 
+ "Please specify a valid": "Geef een geldige", 
+ "Row": "Rij", 
+ "Row ": "Rij", 
+ "Supplier Warehouse mandatory subcontracted purchase receipt": "Leverancier Warehouse verplichte uitbestede aankoopbon", 
+ "Total": "Totaal", 
+ "cannot be greater than 100": "kan niet groter zijn dan 100", 
+ "must be one of": "moet een van", 
+ "should be 100%": "moet 100% zijn", 
+ "to be included in Item's rate, it is required that: ": "te worden opgenomen in tarief-item, is het vereist dat:"
+}

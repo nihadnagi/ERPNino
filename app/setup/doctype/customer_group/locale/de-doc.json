@@ -1,0 +1,15 @@
+{
+ "Customer Group": "Customer Group", 
+ "Customer Group Name": "Kunden Group Name", 
+ "Default Price List": "Standard Preisliste", 
+ "Has Child Node": "Hat Child Node", 
+ "No": "Auf", 
+ "Only leaf nodes are allowed in transaction": "Nur Blattknoten in Transaktion zul\u00e4ssig", 
+ "Parent Customer Group": "Eltern Customer Group", 
+ "Setup": "Setup", 
+ "Trash Reason": "Trash Reason", 
+ "Yes": "Ja", 
+ "lft": "lft", 
+ "old_parent": "old_parent", 
+ "rgt": "rgt"
+}

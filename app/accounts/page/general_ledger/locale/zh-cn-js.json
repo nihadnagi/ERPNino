@@ -1,0 +1,21 @@
+{
+ "Account": "\u5e10\u6237", 
+ "Against Account": "\u9488\u5bf9\u5e10\u6237", 
+ "Company": "\u516c\u53f8", 
+ "Credit": "\u4fe1\u7528", 
+ "Debit": "\u501f\u65b9", 
+ "From Date": "\u4ece\u65e5\u671f", 
+ "From Date must be before To Date": "\u4ece\u65e5\u671f\u5fc5\u987b\u662f\u4e4b\u524d\u65e5\u671f", 
+ "General Ledger": "\u603b\u5e10", 
+ "General Ledger: ": "\u603b\u5e10\uff1a", 
+ "Group by Ledger": "\u96c6\u56e2\u4ee5\u603b\u5e10", 
+ "Group by Voucher": "\u96c6\u56e2\u900f\u8fc7\u5238", 
+ "Posting Date": "\u53d1\u5e03\u65e5\u671f", 
+ "Refresh": "\u5237\u65b0", 
+ "Remarks": "\u5907\u6ce8", 
+ "Reset Filters": "\u91cd\u8bbe\u8fc7\u6ee4\u5668", 
+ "To": "\u81f3", 
+ "To Date": "\u81f3\u4eca", 
+ "Voucher No": "\u65e0\u51ed\u8bc1", 
+ "Voucher Type": "\u51ed\u8bc1\u7c7b\u578b"
+}

@@ -1,0 +1,7 @@
+{
+ " is present in one or many Active BOMs": " \u00e8 presente in una o pi\u00f9 Di.Ba. attive", 
+ " should be 'Yes'. As Item: ": "dovrebbe essere &#39;s\u00ec&#39;. Come articolo:", 
+ "Default Warehouse is mandatory for Stock Item.": "Magazzino Predefinito Obbligatorio per Articolo Stock.", 
+ "Item Code (item_code) is mandatory because Item naming is not sequential.": "Codice Articolo (item_code) \u00e8 obbligatoria in quanto denominazione articolo non \u00e8 sequenziale.", 
+ "Please enter Default Unit of Measure": "Inserisci unit\u00e0 di misura predefinita"
+}

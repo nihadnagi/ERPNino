@@ -1,0 +1,22 @@
+{
+ "All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.": "\u6240\u6709\u92b7\u552e\u4ea4\u6613\uff0c\u53ef\u4ee5\u7528\u4f86\u6a19\u8a18\u91dd\u5c0d\u591a\u500b\u92b7\u552e** **\u7684\u4eba\uff0c\u9019\u6a23\u4f60\u53ef\u4ee5\u8a2d\u7f6e\u548c\u76e3\u63a7\u76ee\u6a19\u3002", 
+ "Communications": "\u901a\u8a0a", 
+ "Employee": "\u50f1\u54e1", 
+ "Has Child Node": "\u6709\u5b50\u7bc0\u9ede", 
+ "Name and Employee ID": "\u59d3\u540d\u548c\u50f1\u54e1ID", 
+ "No": "\u7121", 
+ "Parent Sales Person": "\u6bcd\u516c\u53f8\u92b7\u552e\u4eba\u54e1", 
+ "Sales Person": "\u92b7\u552e\u4eba\u54e1", 
+ "Sales Person Name": "\u92b7\u552e\u4eba\u54e1\u7684\u59d3\u540d", 
+ "Sales Person Targets": "\u92b7\u552e\u4eba\u54e1\u76ee\u6a19", 
+ "Select Budget Distribution to unevenly distribute targets across months.": "\u9078\u64c7\u9810\u7b97\u5206\u914d\u8de8\u500b\u6708\u5448\u4e0d\u5747\u8861\u5206\u4f48\u7684\u76ee\u6a19\u3002", 
+ "Select company name first.": "\u5148\u9078\u64c7\u516c\u53f8\u540d\u7a31\u3002", 
+ "Set targets Item Group-wise for this Sales Person.": "\u8a2d\u5b9a\u76ee\u6a19\u9805\u76ee\u7d44\u9593\u7684\u9019\u7a2e\u92b7\u552e\u4eba\u54e1\u3002", 
+ "Setup": "\u8a2d\u7f6e", 
+ "Target Details1": "\u76ee\u6a19\u9ede\u8a55\u8a73\u60c5", 
+ "Target Distribution": "\u76ee\u6a19\u5206\u4f48", 
+ "Yes": "\u662f\u7684", 
+ "lft": "LFT", 
+ "old_parent": "old_parent", 
+ "rgt": "RGT"
+}

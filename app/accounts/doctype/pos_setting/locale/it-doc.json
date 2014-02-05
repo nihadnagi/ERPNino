@@ -1,0 +1,21 @@
+{
+ "Accounts": "Conti", 
+ "Cash/Bank Account": "Conto Contanti/Banca", 
+ "Charge": "Addebitare", 
+ "Company": "Azienda", 
+ "Cost Center": "Centro di Costo", 
+ "Create Stock Ledger Entries when you submit a Sales Invoice": "Creare scorta voci registro quando inserisci una fattura vendita", 
+ "Currency": "Valuta", 
+ "Customer": "Cliente", 
+ "Expense Account": "Conto uscite", 
+ "Income Account": "Conto Conto", 
+ "Letter Head": "Carta intestata", 
+ "POS Setting": "POS Impostazione", 
+ "Price List": "Listino Prezzi", 
+ "Print Heading": "Stampa Rubrica", 
+ "Terms and Conditions": "Termini e Condizioni", 
+ "Territory": "Territorio", 
+ "Update Stock": "Aggiornare Archivio", 
+ "User": "Utente", 
+ "Warehouse": "Magazzino"
+}

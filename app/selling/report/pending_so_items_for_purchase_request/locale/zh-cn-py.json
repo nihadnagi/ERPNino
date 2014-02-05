@@ -1,0 +1,13 @@
+{
+ "Customer": "\u987e\u5ba2", 
+ "Date": "\u65e5\u671f", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Material Request": "\u6750\u6599\u8981\u6c42", 
+ "Pending SO Items For Purchase Request": "\u5f85\u5904\u7406\u7684SO\u9879\u76ee\u5bf9\u4e8e\u91c7\u8d2d\u7533\u8bf7", 
+ "Requested Qty": "\u8bf7\u6c42\u6570\u91cf", 
+ "S.O. No.": "SO\u53f7", 
+ "SO Qty": "SO\u6570\u91cf", 
+ "Terretory": "Terretory"
+}

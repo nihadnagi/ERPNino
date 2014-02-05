@@ -1,0 +1,16 @@
+{
+ "<a href=\"#Sales Browser/Customer Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Customer Group\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Customer Group": "\u96c6\u5718\u5ba2\u6236", 
+ "Customer Group Name": "\u5ba2\u6236\u7fa4\u7d44\u540d\u7a31", 
+ "Default Price List": "\u9ed8\u8a8d\u50f9\u683c\u8868", 
+ "Has Child Node": "\u6709\u5b50\u7bc0\u9ede", 
+ "No": "\u7121", 
+ "Only leaf nodes are allowed in transaction": "\u53ea\u6709\u8449\u7bc0\u9ede\u4e2d\u5141\u8a31\u4ea4\u6613", 
+ "Parent Customer Group": "\u6bcd\u516c\u53f8\u96c6\u5718\u5ba2\u6236", 
+ "Setup": "\u8a2d\u7f6e", 
+ "Trash Reason": "\u5783\u573e\u6876\u539f\u56e0", 
+ "Yes": "\u662f\u7684", 
+ "lft": "LFT", 
+ "old_parent": "old_parent", 
+ "rgt": "RGT"
+}

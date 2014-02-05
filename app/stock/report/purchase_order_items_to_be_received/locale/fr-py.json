@@ -1,0 +1,13 @@
+{
+ "Brand": "Marque", 
+ "Date": "Date", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Name": "Nom d&#39;article", 
+ "Purchase Order": "Bon de commande", 
+ "Purchase Order Items To Be Received": "Articles de bons de commande pour \u00eatre re\u00e7u", 
+ "Qty": "Qt\u00e9", 
+ "Received Qty": "Quantit\u00e9 re\u00e7ue", 
+ "Supplier": "Fournisseur", 
+ "Warehouse": "Entrep\u00f4t"
+}

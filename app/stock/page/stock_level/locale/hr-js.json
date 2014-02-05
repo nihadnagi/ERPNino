@@ -1,0 +1,15 @@
+{
+ "Actual Qty": "Stvarni Kol", 
+ "Brand": "Marka", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Planned Qty": "Planirani Kol", 
+ "Projected Qty": "Predvi\u0111en Kol", 
+ "Re-Order Level": "Re-Order Razina", 
+ "Re-Order Qty": "Re-Order Kol", 
+ "Refresh": "Osvje\u017eiti", 
+ "Stock Level": "Katalo\u0161ki Razina", 
+ "UOM": "UOM", 
+ "Warehouse": "Skladi\u0161te"
+}

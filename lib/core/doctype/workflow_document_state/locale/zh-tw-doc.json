@@ -1,0 +1,11 @@
+{
+ "Core": "\u6838\u5fc3", 
+ "Doc Status": "\u6587\u4ef6\u72c0\u614b", 
+ "Message": "\u4fe1\u606f", 
+ "Only Allow Edit For": "\u53ea\u5141\u8a31\u7de8\u8f2f", 
+ "Represents the states allowed in one document and role assigned to change the state.": "\u4ee3\u8868\u4e00\u500b\u6587\u6a94\uff0c\u4e26\u5206\u914d\u5230\u6539\u8b8a\u570b\u5bb6\u89d2\u8272\u5141\u8a31\u7684\u72c0\u614b\u3002", 
+ "State": "\u614b", 
+ "Update Field": "\u66f4\u65b0\u57df", 
+ "Update Value": "\u66f4\u65b0\u503c", 
+ "Workflow Document State": "\u5de5\u4f5c\u6d41\u6587\u6a94\u72c0\u614b"
+}

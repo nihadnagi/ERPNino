@@ -1,0 +1,16 @@
+{
+ "Core": "Core", 
+ "Default Value": "Valore Predefinito", 
+ "DocField": "CampoDoc", 
+ "DocType": "TipoDoc", 
+ "DocType or Field": "DocType Campo", 
+ "Field Name": "Nome Campo", 
+ "Help": "Aiuto", 
+ "ID (name) of the entity whose property is to be set": "ID (nome) del soggetto la cui propriet\u00e0 deve essere impostata", 
+ "New value to be set": "Nuovo valore da impostare", 
+ "Property": "Propriet\u00e0", 
+ "Property Setter": "Setter Propriet\u00e0", 
+ "Property Setter overrides a standard DocType or Field property": "Setter propriet\u00e0 sostituisce un immobile docType campo standard", 
+ "Property Type": "Tipo di propriet\u00e0", 
+ "Set Value": "Imposta valore"
+}

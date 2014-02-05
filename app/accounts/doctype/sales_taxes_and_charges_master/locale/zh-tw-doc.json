@@ -1,0 +1,10 @@
+{
+ "* Will be calculated in the transaction.": "*\u5c07\u88ab\u8a08\u7b97\u5728\u8a72\u4ea4\u6613\u3002", 
+ "Accounts": "\u8cec\u6236", 
+ "Company": "\u516c\u53f8", 
+ "Default": "\u9ed8\u8a8d", 
+ "Sales Taxes and Charges Master": "\u92b7\u552e\u7a05\u91d1\u53ca\u6536\u8cbb\u78a9\u58eb", 
+ "Specify a list of Territories, for which, this Taxes Master is valid": "\u65b0\u754c\u6307\u5b9a\u4e00\u500b\u5217\u8868\uff0c\u5176\u4e2d\uff0c\u8a72\u7a05\u91d1\u6cd5\u5e2b\u662f\u6709\u6548\u7684", 
+ "Title": "\u6a19\u984c", 
+ "Valid for Territories": "\u9069\u7528\u65bc\u65b0\u754c"
+}

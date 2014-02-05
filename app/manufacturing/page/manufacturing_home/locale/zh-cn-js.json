@@ -1,0 +1,23 @@
+{
+ "All Products or Services.": "\u6240\u6709\u7684\u4ea7\u54c1\u6216\u670d\u52a1\u3002", 
+ "BOM Replace Tool": "BOM\u66ff\u6362\u5de5\u5177", 
+ "Bill of Materials": "\u6750\u6599\u6e05\u5355", 
+ "Bill of Materials (BOM)": "\u6750\u6599\u6e05\u5355\uff08BOM\uff09", 
+ "Completed Production Orders": "\u5b8c\u6210\u751f\u4ea7\u8ba2\u5355", 
+ "Documents": "\u6587\u4ef6", 
+ "Generate Material Requests (MRP) and Production Orders.": "\u751f\u6210\u6750\u6599\u8981\u6c42\uff08MRP\uff09\u548c\u751f\u4ea7\u8ba2\u5355\u3002", 
+ "Issued Items Against Production Order": "\u53d1\u51fa\u5bf9\u9879\u76ee\u751f\u4ea7\u8ba2\u5355", 
+ "Item": "\u9879\u76ee", 
+ "Masters": "\u5927\u5e08", 
+ "Open Production Orders": "\u6e05\u751f\u4ea7\u8ba2\u5355", 
+ "Orders released for production.": "\u53d1\u5e03\u751f\u4ea7\u8ba2\u5355\u3002", 
+ "Production Order": "\u751f\u4ea7\u8ba2\u5355", 
+ "Production Orders in Progress": "\u5728\u5efa\u751f\u4ea7\u8ba2\u5355", 
+ "Production Planning (MRP)": "\u751f\u4ea7\u8ba1\u5212\uff08MRP\uff09", 
+ "Production Planning Tool": "\u751f\u4ea7\u89c4\u5212\u5de5\u5177", 
+ "Replace Item / BOM in all BOMs": "\u66f4\u6362\u9879\u76ee/\u7269\u6599\u6e05\u5355\u4e2d\u7684\u6240\u6709\u6750\u6599\u660e\u7ec6\u8868", 
+ "Reports": "\u62a5\u544a", 
+ "Utility": "\u6548\u7528", 
+ "Where manufacturing operations are carried out.": "\u51e1\u5236\u9020\u4e1a\u52a1\u8fdb\u884c\u3002", 
+ "Workstation": "\u5de5\u4f5c\u7ad9"
+}

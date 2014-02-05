@@ -1,0 +1,10 @@
+{
+ "Amount": "Menge", 
+ "Date": "Datum", 
+ "Description": "Beschreibung", 
+ "Item Code": "Item Code", 
+ "Item Name": "Item Name", 
+ "Purchase Order": "Auftragsbest\u00e4tigung", 
+ "Purchase Order Items To Be Billed": "Bestellpositionen in Rechnung gestellt werden", 
+ "Supplier": "Lieferant"
+}

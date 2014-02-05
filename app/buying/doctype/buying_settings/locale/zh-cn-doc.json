@@ -1,0 +1,15 @@
+{
+ "Buying": "\u6c42\u8d2d", 
+ "Buying Settings": "\u6c42\u8d2d\u8bbe\u7f6e", 
+ "Default Buying Price List": "\u9ed8\u8ba4\u60c5\u51b5\u4e0b\u91c7\u8d2d\u4ef7\u683c\u8868", 
+ "Default Supplier Type": "\u9ed8\u8ba4\u7684\u4f9b\u5e94\u5546\u7c7b\u522b", 
+ "Maintain same rate throughout purchase cycle": "\u5728\u6574\u4e2a\u91c7\u8d2d\u5468\u671f\u4fdd\u6301\u540c\u6837\u7684\u901f\u5ea6", 
+ "Naming Series": "\u547d\u540d\u7cfb\u5217", 
+ "No": "\u65e0", 
+ "Purchase Order Required": "\u8d2d\u8d27\u8ba2\u5355\u8981\u6c42", 
+ "Purchase Receipt Required": "\u5916\u8d2d\u5165\u5e93\u5355\u8981\u6c42", 
+ "Settings for Buying Module": "\u8bbe\u7f6e\u8d2d\u4e70\u6a21\u5757", 
+ "Supplier Name": "\u4f9b\u5e94\u5546\u540d\u79f0", 
+ "Supplier Naming By": "\u4f9b\u5e94\u5546\u901a\u8fc7\u547d\u540d", 
+ "Yes": "\u662f\u7684"
+}

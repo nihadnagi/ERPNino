@@ -1,0 +1,16 @@
+{
+ "Accounts": "Cuentas", 
+ "Calculate Based On": "Calcula debido al", 
+ "Company": "Empresa", 
+ "Cost Center": "De centros de coste", 
+ "Net Total": "Total neto", 
+ "Net Weight": "Peso neto", 
+ "Shipping Account": "Cuenta Envios", 
+ "Shipping Rule": "Regla del env\u00edo", 
+ "Shipping Rule Conditions": "Env\u00edo Regla Condiciones", 
+ "Shipping Rule Label": "Etiqueta de env\u00edo Regla", 
+ "Specify a list of Territories, for which, this Shipping Rule is valid": "Especifica una lista de los territorios, para lo cual, esta Regla env\u00edo es v\u00e1lida", 
+ "Specify conditions to calculate shipping amount": "Especificar las condiciones de calcular el importe de env\u00edo", 
+ "Valid For Territories": "V\u00e1lido para los territorios", 
+ "example: Next Day Shipping": "ejemplo: el siguiente d\u00eda del env\u00edo"
+}

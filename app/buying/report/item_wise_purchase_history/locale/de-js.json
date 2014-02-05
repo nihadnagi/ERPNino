@@ -1,0 +1,15 @@
+{
+ "Amount": "Menge", 
+ "Description": "Beschreibung", 
+ "Item Code": "Item Code", 
+ "Item Name": "Item Name", 
+ "Item-wise Purchase History": "Artikel-wise Kauf-Historie", 
+ "Project": "Projekt", 
+ "Purchase Order": "Auftragsbest\u00e4tigung", 
+ "Qty": "Menge", 
+ "Rate": "Rate", 
+ "Received Qty": "Erhaltene Menge", 
+ "Supplier": "Lieferant", 
+ "Transaction Date": "Transaction Datum", 
+ "UOM": "UOM"
+}

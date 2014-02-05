@@ -1,0 +1,19 @@
+[
+ "Script Report", 
+ "Core", 
+ "Ref DocType", 
+ "Report Name", 
+ "Query Report", 
+ "Add Total Row", 
+ "No", 
+ "Javascript", 
+ "JavaScript Format: wn.query_reports['REPORTNAME'] = {}", 
+ "Disabled", 
+ "Report Type", 
+ "JSON", 
+ "Report Builder", 
+ "Query", 
+ "Report", 
+ "Is Standard", 
+ "Yes"
+]

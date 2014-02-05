@@ -1,0 +1,21 @@
+{
+ "A logical Warehouse against which stock entries are made.": "Un Deposito logica contro cui sono fatte le entrate nelle scorte.", 
+ "Address Line 1": "Indirizzo, riga 1", 
+ "Address Line 2": "Indirizzo, riga 2", 
+ "City": "Citt\u00e0", 
+ "Company": "Azienda", 
+ "Email Id": "ID Email", 
+ "For Reference Only.": "Solo di Riferimento", 
+ "If set, data entry is only allowed for specified users. Else, entry is allowed for all users with requisite permissions.": "Se impostato, l&#39;immissione dei dati \u00e8 consentito solo per gli utenti specificati. Altrimenti, l&#39;ingresso \u00e8 consentito a tutti gli utenti con i permessi necessari.", 
+ "Mobile No": "Cellulare No", 
+ "PIN": "PIN", 
+ "Parent Account": "Account principale", 
+ "Phone No": "N. di telefono", 
+ "State": "Stato", 
+ "Stock": "Azione", 
+ "Warehouse": "Magazzino", 
+ "Warehouse Contact Info": "Magazzino contatto", 
+ "Warehouse Detail": "Magazzino Dettaglio", 
+ "Warehouse Name": "Magazzino Nome", 
+ "Warehouse Users": "Warehouse Utenti"
+}

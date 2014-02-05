@@ -1,0 +1,12 @@
+{
+ "Complete": "\u5b8c\u6574", 
+ "Do really want to unstop production order: ": "\u96be\u9053\u771f\u7684\u8981unstop\u751f\u4ea7\u8ba2\u5355\uff1a", 
+ "Do you really want to stop production order: ": "\u4f60\u771f\u7684\u8981\u505c\u6b62\u751f\u4ea7\u8ba2\u5355\uff1a", 
+ "Please enter Production Item first": "\u8bf7\u5148\u8f93\u5165\u751f\u4ea7\u9879\u76ee", 
+ "Stop!": "\u4f4f\u624b\uff01", 
+ "Stopped": "\u505c\u6b62", 
+ "Submit this Production Order for further processing.": "\u63d0\u4ea4\u6b64\u751f\u4ea7\u8ba2\u5355\u8fdb\u884c\u8fdb\u4e00\u6b65\u7684\u5904\u7406\u3002", 
+ "Transfer Raw Materials": "\u8f6c\u79fb\u539f\u6750\u6599", 
+ "Unstop": "Unstop", 
+ "Update Finished Goods": "\u66f4\u65b0\u6210\u54c1"
+}

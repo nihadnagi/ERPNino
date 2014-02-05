@@ -1,0 +1,15 @@
+{
+ "Amount": "Cantidad", 
+ "Description": "Descripci\u00f3n", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Item-wise Purchase History": "Item-sabio Historial de compras", 
+ "Project": "Proyecto", 
+ "Purchase Order": "Orden de Compra", 
+ "Qty": "Cantidad", 
+ "Rate": "Velocidad", 
+ "Received Qty": "Cantidad recibida", 
+ "Supplier": "Proveedor", 
+ "Transaction Date": "Fecha de Transacci\u00f3n", 
+ "UOM": "UOM"
+}

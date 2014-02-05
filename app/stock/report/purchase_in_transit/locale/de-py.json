@@ -1,0 +1,12 @@
+{
+ "Amount": "Menge", 
+ "Company": "Firma", 
+ "Description": "Beschreibung", 
+ "Item Code": "Item Code", 
+ "Posting Date": "Buchungsdatum", 
+ "Purchase In Transit": "Erwerben In Transit", 
+ "Purchase Invoice": "Kaufrechnung", 
+ "Purchase Order": "Auftragsbest\u00e4tigung", 
+ "Purchase Receipt": "Kaufbeleg", 
+ "Qty": "Menge"
+}

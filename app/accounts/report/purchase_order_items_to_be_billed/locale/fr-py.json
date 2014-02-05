@@ -1,0 +1,10 @@
+{
+ "Amount": "Montant", 
+ "Date": "Date", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Name": "Nom d&#39;article", 
+ "Purchase Order": "Bon de commande", 
+ "Purchase Order Items To Be Billed": "Purchase Order articles qui lui seront factur\u00e9es", 
+ "Supplier": "Fournisseur"
+}

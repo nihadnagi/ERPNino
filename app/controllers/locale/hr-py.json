@@ -1,0 +1,18 @@
+{
+ " as it is stock Item or packing item": "kao \u0161to je dionica artikla ili pakiranje stavku", 
+ " can not be made.": "ne mo\u017ee biti.", 
+ " is mandatory": "je obavezno", 
+ " will be over-billed against mentioned ": "\u0107e biti vi\u0161e-napla\u0107eno protiv spomenuto", 
+ "Account for this ": "Ra\u010dun za to", 
+ "No default BOM exists for item: ": "Ne postoji zadani tro\u0161kovnik za predmet:", 
+ "Please enter Reserved Warehouse for item ": "Unesite Rezervirano skladi\u0161te za stavku", 
+ "Please specify a valid": "Navedite va\u017ee\u0107i", 
+ "Row": "Red", 
+ "Row ": "Red", 
+ "Supplier Warehouse mandatory subcontracted purchase receipt": "Dobavlja\u010d skladi\u0161ta obvezni podugovorne Ra\u010dun kupnje", 
+ "Total": "Ukupan", 
+ "cannot be greater than 100": "ne mo\u017ee biti ve\u0107a od 100", 
+ "must be one of": "mora biti jedan od", 
+ "should be 100%": "bi trebao biti 100%", 
+ "to be included in Item's rate, it is required that: ": "koji \u0107e biti uklju\u010deni u stavke stope, potrebno je da:"
+}

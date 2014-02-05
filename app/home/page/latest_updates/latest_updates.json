@@ -1,0 +1,2151 @@
+[
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "c2da052c8073e4dd6cffd166e1929aff71b6c694", 
+  "date": "Wed Dec 4 15:17:46 2013 +0530", 
+  "message": "[fix] [minor] make bank voucher from salary manager", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "d425a208de0fbc8aefce6c2cb8689eac6d6279b7", 
+  "date": "Wed Dec 4 13:22:47 2013 +0530", 
+  "message": "[fix] [minor] call autoname through controller while called from bean", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "48c5ab5b19ad0554bdd2294b450a0e286e223203", 
+  "date": "Wed Dec 4 13:13:58 2013 +0530", 
+  "message": "[patch] web_page generator, fix \"None\" error if no page content", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "245200f129d0af2523b28e4381a3c1fc2dcacae5", 
+  "date": "Wed Dec 4 11:54:13 2013 +0530", 
+  "message": "[fix] [minor] bom operations fix", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "f0d564538e10906a909d7a28f7f3866bcd8a7308", 
+  "date": "Wed Dec 4 11:29:09 2013 +0530", 
+  "message": "[patch] No spinner in has_permission", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "03adcd8da162eb5fc899e8b20651c8dd692a60f9", 
+  "date": "Wed Dec 4 11:26:46 2013 +0530", 
+  "message": "[patch] Added option to hide spinner / progress in ajax call", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "1f5aff790349d999fb570decc871c158a105fd78", 
+  "date": "Wed Dec 4 11:17:13 2013 +0530", 
+  "message": "[fix] [minor] fix in getseries", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "28b33dfdd7f4d89da24325779e3df8ec6457d8b4", 
+  "date": "Wed Dec 4 11:16:38 2013 +0530", 
+  "message": "[patch] startup.js styling", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "72f689b1f9bf684f6859c7db52d44a26339c94c7", 
+  "date": "Wed Dec 4 10:46:55 2013 +0530", 
+  "message": "[fix] [minor] setup print fix in sales invoice", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "cca731901bb6542dbeb84a31b58b64bc11e284c1", 
+  "date": "Wed Dec 4 03:15:54 2013 -0800", 
+  "message": "[language] Added zh-cn and zh-tw webnotes/erpnext#1099", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "80d9514636da366baa86d0e92674f7584e2e8f9e", 
+  "date": "Wed Dec 4 01:50:13 2013 -0800", 
+  "message": "[fix] [minor] Master name validation for customer/supplier/warehouse acc...", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "21285673d7ce880b4902b0d22ac868d7bb135887", 
+  "date": "Tue Dec 3 23:54:26 2013 -0800", 
+  "message": "[fix] [minor] call autoname through controller while called from bean", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "32803f86354af86af60a56aaa26b8b02bdb55e31", 
+  "date": "Tue Dec 3 22:33:10 2013 -0800", 
+  "message": "[fix] [minor] bom operations fix", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "50edcc37a5a965a63bacaa1211c3a9c149b64aa5", 
+  "date": "Tue Dec 3 22:31:15 2013 -0800", 
+  "message": "[minor] website - if no page_name, show login", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "6dcc4a7cdf1e129c80f7192a2a2e98983f18e52d", 
+  "date": "Tue Dec 3 21:49:02 2013 -0800", 
+  "message": "[fix] [minor] fix in getseries", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "c94891cc8e58c8441f001d40a4ab3d47be852b17", 
+  "date": "Tue Dec 3 21:25:32 2013 -0800", 
+  "message": "[report] payment collection with ageing and payment made with ageing merged to payment period based on invoice date", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "8253169d453e0ea66ebe1fe0ff9da341102e41b2", 
+  "date": "Tue Dec 3 18:10:12 2013 +0530", 
+  "message": "[minor] website - if no page_name, show login", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "055b180f4db72b0f8b00797c8b7821b23f8e9f61", 
+  "date": "Tue Dec 3 12:53:02 2013 +0530", 
+  "message": "[minor] pop socket timeout", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "43e470dd3803eb06b3ffc78efe7dbdfc86f31b3b", 
+  "date": "Mon Dec 2 23:51:16 2013 +0530", 
+  "message": "[minor] use mixin class for Timed_POP3 and Timed_POP3_SSL", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "aa7c7a781199a0c424894a6e4ffc73f6d5d93703", 
+  "date": "Mon Dec 2 23:24:14 2013 -0800", 
+  "message": "[minor] pop socket timeout", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "7e37b00d0af66cccaada4d0eed61ec93746af6c5", 
+  "date": "Mon Dec 2 18:02:45 2013 +0530", 
+  "message": "[fix] [minor] merge conflict fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "9c0569ee2d82e9dc892ddee7ea306ce8dbc4312c", 
+  "date": "Mon Dec 2 17:58:23 2013 +0530", 
+  "message": "[report] payment collection with ageing and payment made with ageing merged to payment period based on invoice date", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "15a6758c90e632c0e02e1dfa4fd0f7b52ccf602a", 
+  "date": "Mon Dec 2 17:14:24 2013 +0530", 
+  "message": "[minor] [fix] error logging for pop", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "40580d5d01f2fb77b233cedd221d07a45fb75ef5", 
+  "date": "Mon Dec 2 16:20:18 2013 +0530", 
+  "message": "[fix] [minor] Master name validation for customer/supplier/warehouse account", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "365c24173a75708a9bfca145fd51d533d176059c", 
+  "date": "Mon Dec 2 16:08:26 2013 +0530", 
+  "message": "[minor] [fix] shopping cart cookies", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e75ac14f4cadc6c5d8b0cde5ce5793b92f20bb3a", 
+  "date": "Mon Dec 2 15:39:09 2013 +0530", 
+  "message": "[minor] wnf.py --mysql call with option -A for quick start", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "862e91533e3528b3fc020de54619f6b8d163c759", 
+  "date": "Mon Dec 2 15:38:47 2013 +0530", 
+  "message": "[minor] contain update password page", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "5ff03e460b4df2fb744c7f5b3cdbeb26cbb83774", 
+  "date": "Mon Dec 2 15:27:13 2013 +0530", 
+  "message": "[fix] [minor] removed duplicate validation for sales bom", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "03ae35a584f277753dc305b1bf3899a10d49d64b", 
+  "date": "Mon Dec 2 13:18:28 2013 +0530", 
+  "message": "[minor] send 404 if POST request non cmd (ie website)", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "5c41d1eadb225d033a1418528665c21dd89990ed", 
+  "date": "Mon Dec 2 12:53:51 2013 +0530", 
+  "message": "[minor] fix file lock booboo", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "6195e16aa91fb62c16be5ba9fc9ac255c36c53d2", 
+  "date": "Mon Dec 2 11:39:13 2013 +0530", 
+  "message": "[prev/back] Added button back webnotes/erpnext#1113", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "9ba2f41ef1e2e7eb87137f7664feedfbb0fc3343", 
+  "date": "Mon Dec 2 03:46:23 2013 -0800", 
+  "message": "[minor] [fix] error logging for pop", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "cd3d4807dee2bb53fbe03bfe3cd3d924c9eebe3a", 
+  "date": "Mon Dec 2 03:11:39 2013 -0800", 
+  "message": "[minor] fix file lock booboo", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "0aa597a2bdb0c9a67ebe30a547bf6ad5639ba23d", 
+  "date": "Mon Dec 2 02:48:09 2013 -0800", 
+  "message": "[minor] send 404 if POST request non cmd (ie website)", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "831d2903cc9e0a490aa5e359c95dd261ba0365a8", 
+  "date": "Mon Dec 2 02:46:33 2013 -0800", 
+  "message": "[minor] lock tabSeries during update", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "8a6427a1949257831a7b5e6cd7d4508a1998df62", 
+  "date": "Mon Dec 2 02:46:16 2013 -0800", 
+  "message": "[bugfix] [minor] [translate] update requests api", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "82332d22c1f64b55ad0d96eb26e3fdafa7f949fa", 
+  "date": "Mon Dec 2 02:45:47 2013 -0800", 
+  "message": "[minor] add locking to scheduler", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "54a9226f474ab2ca04b14c3aa17be2c509720855", 
+  "date": "Mon Dec 2 02:42:43 2013 -0800", 
+  "message": "[prev/back] Added button back webnotes/erpnext#1113", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "580fd26147b8fda1ea4eb25f3598eb7f7ee14785", 
+  "date": "Mon Dec 2 02:01:20 2013 -0800", 
+  "message": "[fix] [minor] removed duplicate validation for sales bom", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "302724115070091ea2b6140e6f732a70dbc12271", 
+  "date": "Mon Dec 2 00:57:23 2013 -0800", 
+  "message": "[minor] stock ledger report as script report", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "f9f01fa72749b0e8765ce4147d4b839f74eaf343", 
+  "date": "Sun Dec 1 13:06:24 2013 +0530", 
+  "message": "[minor] add locking to scheduler", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "7e8f98368ab20121adadb56519d73b60dad58f0d", 
+  "date": "Fri Nov 29 19:57:38 2013 +0530", 
+  "message": "[fix] allow lot of queries in update comments patch", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "39896233faad2f7425ef441885033d7a069a3ced", 
+  "date": "Fri Nov 29 16:41:09 2013 +0530", 
+  "message": "[minor] patch list", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "be948b8b40d78f49464302aa7b8069ec5a9f4160", 
+  "date": "Fri Nov 29 16:37:07 2013 +0530", 
+  "message": "[fix] [minor] supplier wise sales analytics report totals added", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "b1269b4a07ffd523117a0374b62d606815409fd3", 
+  "date": "Fri Nov 29 16:08:26 2013 +0530", 
+  "message": "[report] item-wise consumption renamed to supplier-wise sales analytics", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "4fb848d3c4e3ca7027fabd8a66e7adb4d99dd765", 
+  "date": "Fri Nov 29 15:15:34 2013 +0530", 
+  "message": "[report] item-wise consumption in buying module", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "7b2ccc6776ef7ad2a4fb7e0a5f605bf4fedd0211", 
+  "date": "Fri Nov 29 15:03:44 2013 +0530", 
+  "message": "[bugfix] [minor] [translate] update requests api", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "9115e2cf7245515f22695b7db7b96b345e88c75d", 
+  "date": "Fri Nov 29 15:01:33 2013 +0530", 
+  "message": "[language] Added zh-cn and zh-tw webnotes/erpnext#1099", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "da07ed0ae8dd054be45638842a82c60a0bdbbcc6", 
+  "date": "Fri Nov 29 14:53:56 2013 +0530", 
+  "message": "[minor] demo and item", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "bee949af45ec206b94172bc21dc1ed8fbe67e5e4", 
+  "date": "Fri Nov 29 14:41:10 2013 +0530", 
+  "message": "[minor] lock tabSeries during update", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "001f4389cf7595caf0a33657ea35696207322eab", 
+  "date": "Fri Nov 29 12:42:24 2013 +0530", 
+  "message": "[minor] do not serve statics if NO_STATICS in environ", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "63b90d35e84c1eed54dba74d5322e40ec4413f7a", 
+  "date": "Fri Nov 29 12:18:33 2013 +0530", 
+  "message": "[minor] get system managers sends formatted email address", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "00197709b7fd07d6c8e3f7fcc55388f41ac79d2d", 
+  "date": "Fri Nov 29 11:09:38 2013 +0530", 
+  "message": "[minor] fixed erpnext.org urls", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "e8aaf4b92fbe824b43b271c72390598b2adfb6df", 
+  "date": "Fri Nov 29 11:03:33 2013 +0530", 
+  "message": "[minor] Lead bugfix webnotes/erpnext#1115", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "8aa807288fdd78a6241446b70912ad64abad87e5", 
+  "date": "Fri Nov 29 11:00:12 2013 +0530", 
+  "message": "[minor] Linked With hotfix webnotes/erpnext#1110", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "aab81bb8c56c62c273bb7f069c613a4327ec802d", 
+  "date": "Fri Nov 29 03:54:38 2013 -0800", 
+  "message": "[report] item-wise consumption in buying module", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "cad4ed17fa5e9477bfb245bf2d198f07c46880d6", 
+  "date": "Fri Nov 29 03:22:42 2013 -0800", 
+  "message": "[minor] patch list and demo", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "1160c108fef8f4956f5e14a072ea43e75230b9eb", 
+  "date": "Fri Nov 29 00:11:50 2013 -0800", 
+  "message": "[minor] get system managers sends formatted email address", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "974203b1f3c3e3930817c0f9d65bd26049025181", 
+  "date": "Thu Nov 28 21:43:20 2013 -0800", 
+  "message": "[minor] fixed erpnext.org urls", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "543c13c750867cd4e162c7b373af1c513d9214bd", 
+  "date": "Thu Nov 28 21:34:11 2013 -0800", 
+  "message": "[minor] Lead bugfix webnotes/erpnext#1115", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "ab0acb277e08fce9e1389dba9d51b367cf260cab", 
+  "date": "Thu Nov 28 21:31:48 2013 -0800", 
+  "message": "[permission model] Redesign for webnotes/erpnext#1093", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "27504792ccb435ff34d6c7229ee1b32403a001a0", 
+  "date": "Thu Nov 28 18:14:35 2013 +0530", 
+  "message": "[minor] reload a plugin doc", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "9df824c58ff090bce5c9f7c123e5a6a162b1f716", 
+  "date": "Thu Nov 28 18:12:32 2013 +0530", 
+  "message": "[fix] move version validation to build and serve", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "da92a25d7a68f4e04ea1f56518449d57ac0b879f", 
+  "date": "Thu Nov 28 17:07:15 2013 +0530", 
+  "message": "[fix] [minor] data import tool checkbox unhide fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "374461bbd1ae59318a2b9fb42ea69054efd192c4", 
+  "date": "Thu Nov 28 16:57:33 2013 +0530", 
+  "message": "[minor] update install requirements", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "af53b85e47599fef44aa7b8725ec5a906819efbf", 
+  "date": "Thu Nov 28 16:36:30 2013 +0530", 
+  "message": "[query report] Formatting & Minor UI Fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "7b35bcb30db184cd425c9ee9d77362647f381792", 
+  "date": "Thu Nov 28 16:27:52 2013 +0530", 
+  "message": "[minor] removed debug in report", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "ad701d3745abbe9a6c65cbad60ed8603d2134880", 
+  "date": "Thu Nov 28 15:10:01 2013 +0530", 
+  "message": "[report] Customer Acquisition and Loyalty", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "7d3924af558c49e0cd8c49b4eda0382888e1d47d", 
+  "date": "Thu Nov 28 14:52:01 2013 +0530", 
+  "message": "[minor] move static data middleware to development serve command", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "96a67ad4546427fac4ca4348e62a9205405ce837", 
+  "date": "Thu Nov 28 14:01:54 2013 +0530", 
+  "message": "[minor] fix typo", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "046860668ff8909483fd4617af98f718f150348a", 
+  "date": "Thu Nov 28 13:31:58 2013 +0530", 
+  "message": "[minor] validte if current branch is master while bumping version", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "edcf465b5fc4266badf8bf53cf936ed1d483ae97", 
+  "date": "Thu Nov 28 13:22:37 2013 +0530", 
+  "message": "[minor] first cut bump", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "979a69f32aff90e858899f68eb32afe8de155e97", 
+  "date": "Thu Nov 28 12:05:34 2013 +0530", 
+  "message": "[minor] [fix] outgoing email settings - Use TLS instead of Use SSL", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "14acf7c55fd7e3142c21a3de197ae354dd52d18a", 
+  "date": "Thu Nov 28 12:05:01 2013 +0530", 
+  "message": "[minor] [fix] checkbox margin", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "9d2548c62acc4033fae173aafbb000bac0732f0d", 
+  "date": "Thu Nov 28 09:57:14 2013 +0530", 
+  "message": "[minor] started versioning", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "7941d4e5c10f07025cb735d069e5128790b24c6f", 
+  "date": "Thu Nov 28 04:47:17 2013 -0800", 
+  "message": "[minor] reload a plugin doc", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e251d75b614343efcd84c6888419dc5d136bfaea", 
+  "date": "Thu Nov 28 04:40:26 2013 -0800", 
+  "message": "[fix] move version validation to build and serve", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "9685ad1089eb386ff602c4ed6448611076457bf0", 
+  "date": "Thu Nov 28 04:09:16 2013 -0800", 
+  "message": "[fix] [minor] data import tool checkbox unhide fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ca285fbaa26cbbe493d4659327d315a8509d7753", 
+  "date": "Thu Nov 28 03:29:05 2013 -0800", 
+  "message": "[minor] [query report] Formatting & Minor UI Fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "844913a36406a1c3595b1ca5ad8ec318ef0a72c1", 
+  "date": "Thu Nov 28 03:28:19 2013 -0800", 
+  "message": "[report] Customer Acquisition and Loyalty", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "6dbb3408b17743ed6963d2ff03be97e679dc72f6", 
+  "date": "Wed Nov 27 22:38:48 2013 -0800", 
+  "message": "[minor] [fix] outgoing email settings - Use TLS instead of Use SSL", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ea3049995dc76dce4a6fe4754e66bb814fcfb891", 
+  "date": "Wed Nov 27 22:38:42 2013 -0800", 
+  "message": "[minor] [fix] checkbox margin", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "c1cc499187778508e399e4c1075dd5eda7f3cc9b", 
+  "date": "Wed Nov 27 19:21:21 2013 +0530", 
+  "message": "[minor] [rss] encode blog url before quoting", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "6f3a3e18ca94882ce210831224b4cbc07643f321", 
+  "date": "Wed Nov 27 19:01:31 2013 +0530", 
+  "message": "[docs] removed from repository", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "c78f864c41d85762a307ced808d6a220a0893805", 
+  "date": "Wed Nov 27 18:38:10 2013 +0530", 
+  "message": "[minor] [middleware] convert path to unicode", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "b3036042daf70d0f2a262240b0ce0135e421c657", 
+  "date": "Wed Nov 27 18:22:54 2013 +0530", 
+  "message": "[fix] [minor] serial no fix for status update", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "dacdc8d8556d128a94f06036bff86dbe4c3e7580", 
+  "date": "Wed Nov 27 17:58:44 2013 +0530", 
+  "message": "[fix] [minor] set customer as default for quotation_to in quotation form", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "a8386c12830820fcc082ac342264eff2696c251c", 
+  "date": "Wed Nov 27 17:28:27 2013 +0530", 
+  "message": "[fix] [minor] serial no fix for status update", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "ed3e05e181901b2618a2aa90e9523d4e88401d5b", 
+  "date": "Wed Nov 27 17:26:25 2013 +0530", 
+  "message": "[fix] [minor] fiscal year validation ignored for test cases", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "26c0812a595975d09fbdcb8e5f25bd5a57b8c4b9", 
+  "date": "Wed Nov 27 17:19:09 2013 +0530", 
+  "message": "[minor] comment test temperorily disabled due to commits", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "6b0964243dadd07934b474f46468e2ac4fa4c71c", 
+  "date": "Wed Nov 27 17:15:06 2013 +0530", 
+  "message": "[minor] [website] show table of contents after main section", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "c3dc7fa0bd1ef3e2a069f63eb52da1dd8a4bc184", 
+  "date": "Wed Nov 27 16:50:50 2013 +0530", 
+  "message": "[fix] https issue in request url", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "a8e704d4abd5f5546d56224a98fa1f7e615c43e3", 
+  "date": "Wed Nov 27 16:16:32 2013 +0530", 
+  "message": "[fix] [minor] make_demo_fresh fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "ca414a96cceed211de0096e7862d059aa54e5ce1", 
+  "date": "Wed Nov 27 11:53:57 2013 +0530", 
+  "message": "[fix] [minor] ageing related reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "a353618ffe27e86bbb694eaf1414d8f3caad89ed", 
+  "date": "Wed Nov 27 11:24:08 2013 +0530", 
+  "message": "[fix] [minor] fixed merging issue", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "ceda0d772e2fba5da7c933a6a673b983333b5229", 
+  "date": "Wed Nov 27 11:02:50 2013 +0530", 
+  "message": "[fix] [minor] fixes in patch", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e74c5744d4a6fde0c43940ce328b0d93515bc6c4", 
+  "date": "Wed Nov 27 05:58:21 2013 -0800", 
+  "message": "[minor] [rss] encode blog url before quoting", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "80b59c8050d21adb8e07cc32f7912329d2833c53", 
+  "date": "Wed Nov 27 05:56:38 2013 -0800", 
+  "message": "[docs] removed from repository", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "f8745d3819807e24fbfd35b3848826fd7bb22720", 
+  "date": "Wed Nov 27 04:31:04 2013 -0800", 
+  "message": "[fix] [minor] set customer as default for quotation_to in quotation form", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "86d7139c2150e7ce027157f0d310a05ae289df5d", 
+  "date": "Wed Nov 27 04:05:36 2013 -0800", 
+  "message": "[fix] [minor] fiscal year validation ignored for test cases", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "438e4ccead7e9c61490aa27f6dd321a3358e750f", 
+  "date": "Wed Nov 27 03:57:05 2013 -0800", 
+  "message": "[minor] [fix] https issue in request url", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "50989cdd7f754a8c24818d36ddbdf07647355b52", 
+  "date": "Wed Nov 27 02:48:21 2013 -0800", 
+  "message": "[fix] [minor] make_demo_fresh fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "73aeb5e36aecfc157ef01d2dabf277dd6440ed84", 
+  "date": "Tue Nov 26 23:18:41 2013 +0530", 
+  "message": "[minor] [fix] create custom field if value exists", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e229c2c667ae2887643978e2e68e1bf992af9fbb", 
+  "date": "Tue Nov 26 23:13:05 2013 +0530", 
+  "message": "[minor] [patch] p01_cleanup", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "162876e7f304e4f2a31815a0d4611149db9532c4", 
+  "date": "Tue Nov 26 23:11:36 2013 +0530", 
+  "message": "[minor] [website] web-footer padding", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "7cc52d9aaf957b70a8e08abeef02c67da1fbab48", 
+  "date": "Tue Nov 26 22:31:50 2013 -0800", 
+  "message": "[fix] [minor] ageing related reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "e3eafd94ffa8b3bed68aa83902cef33c44b505bc", 
+  "date": "Tue Nov 26 21:26:08 2013 -0800", 
+  "message": "[fix] [minor] patch for fixing report columns in defaults", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "dc4821de08718eddb24d962a006c40c7389cfff9", 
+  "date": "Tue Nov 26 19:15:41 2013 +0530", 
+  "message": "[fix] [minor] backup dropbox fixed for backup and files path", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "63dc45536d71096646ec5dab9b8447ad28008e94", 
+  "date": "Tue Nov 26 18:33:28 2013 +0530", 
+  "message": "[fix] [minor] delivery note print hide fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "6a3f0a8b0f4ee34566c0cd45163ce14b825e245b", 
+  "date": "Tue Nov 26 17:59:11 2013 +0530", 
+  "message": "[fix] [minor] naming series patch fix", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "84ed127e725399db92277352ef87377748ae81eb", 
+  "date": "Tue Nov 26 17:29:51 2013 +0530", 
+  "message": "[fix] [minor] setup wizard - calculate year end date on change of year start date", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "259208187c3eb733b278e7d0dda9ac777efd622e", 
+  "date": "Tue Nov 26 16:35:50 2013 +0530", 
+  "message": "[fix] [minor] patch for fixing report columns in defaults", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "5033ef03cf79b44f354112fafb631d2192ccfa55", 
+  "date": "Tue Nov 26 16:04:53 2013 +0530", 
+  "message": "[fix] [minor] merge conflict", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "ad35d1b409f16d15fa4b05c0720b9f2b0999a397", 
+  "date": "Tue Nov 26 15:39:21 2013 +0530", 
+  "message": "[cleanup] [minor] mis control", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "131939a7421b182ab1e2d213e4aab3c75e6e0b37", 
+  "date": "Tue Nov 26 15:03:51 2013 +0530", 
+  "message": "[fix] [minor] rename and merge for customer and supplier", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "d333f20ca0dd384feed930807777474387ed34cf", 
+  "date": "Tue Nov 26 14:57:03 2013 +0530", 
+  "message": "[fix] [minor] fiscal year fix", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "b0a1b3ab47ee09b9e4a1e90c571271e31cc99bf2", 
+  "date": "Tue Nov 26 14:45:27 2013 +0530", 
+  "message": "[fix] [minor] test cases fixes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "02502f66f2b9a4bd357315206afdec1daccde452", 
+  "date": "Tue Nov 26 14:30:59 2013 +0530", 
+  "message": "[minor] [website] slideshow image should have 100% width", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "cd65b953a36a08d2b691f7606338920c6326cf27", 
+  "date": "Tue Nov 26 14:09:59 2013 +0530", 
+  "message": "[fix] Removed voucher import tool webnotes/erpnext#1094", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "988203ca6b9ca3837dd5d981ce1aacbd5c265a66", 
+  "date": "Tue Nov 26 13:54:59 2013 +0530", 
+  "message": "[linked with] show listview in linked with", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "60ae96d588c6e3ba01ed2aa1edfc86574a8035aa", 
+  "date": "Tue Nov 26 11:21:07 2013 +0530", 
+  "message": "[fix] [minor] merge conflict fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "37168a0b95ae38c8dbec3816bc56e819bcc11cab", 
+  "date": "Tue Nov 26 11:19:27 2013 +0530", 
+  "message": "[linked with] show listview in linked with", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "4b0e933ecbc70a5094070bf243e20ca79e920967", 
+  "date": "Tue Nov 26 10:59:07 2013 +0530", 
+  "message": "[fix] [minor] description for link field search results", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "d3e7a6d57a9561582d9315bd1a749343b46d7d8f", 
+  "date": "Tue Nov 26 10:42:52 2013 +0530", 
+  "message": "[fix] [minor] added subject in job communication", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "ac9bcf714d90751ecdf08c6b88d39e09db2d6f89", 
+  "date": "Tue Nov 26 01:57:17 2013 -0800", 
+  "message": "[fix] fiscal year fix in setup wizard", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "f4a2f6f5621884f7507ce50478843510a513c71e", 
+  "date": "Tue Nov 26 01:11:26 2013 -0800", 
+  "message": "[minor] [website] slideshow image should have 100% width", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "a3fb5055dafab518e05f59f05c4e04d2d0db710b", 
+  "date": "Tue Nov 26 00:42:23 2013 -0800", 
+  "message": "[fix] Removed voucher import tool webnotes/erpnext#1094", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "ec0da0b1775031fde75433d934e4bdb6a7c4d676", 
+  "date": "Mon Nov 25 19:51:18 2013 +0530", 
+  "message": "[fix] [setup_wizard] fiscal year fix for setup wizard", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "fc16631b41c3c36184dfeeed0138642a9e3bfdd6", 
+  "date": "Mon Nov 25 18:46:35 2013 +0530", 
+  "message": "[linked with] new design - will now show all links", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "e3fe9608b71e9f74b7f27e79df9d546b38872896", 
+  "date": "Mon Nov 25 18:28:18 2013 +0530", 
+  "message": "[fix] [minor] null issue in get_value", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "dd40a32b273eb26383d854a139361e565575e90d", 
+  "date": "Mon Nov 25 17:35:00 2013 +0530", 
+  "message": "[fix] [minor] auto naming", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "4d7a3b40905d2d5f675569778887da69a83514f8", 
+  "date": "Mon Nov 25 17:30:18 2013 +0530", 
+  "message": "[fix] [minor] auto naming", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "c4e360187f5fc361c0880818e50dee65d443e721", 
+  "date": "Mon Nov 25 14:45:17 2013 +0530", 
+  "message": "[fix] [minor] [permission manager] webnotes/erpnext#1088", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "03c1a053ead72cfb9b51c932b4e201519a526bc5", 
+  "date": "Mon Nov 25 14:38:55 2013 +0530", 
+  "message": "[print preview] brought back inside form", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e2fb5e483e9960d9994b414abc0d16729debdea8", 
+  "date": "Mon Nov 25 14:22:18 2013 +0530", 
+  "message": "[minor] [fix] user tags in listing", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "352c3d1fad5d6ed97900fa61e4856f90fe845ecc", 
+  "date": "Mon Nov 25 11:57:05 2013 +0530", 
+  "message": "[fix] [minor] autosuggest show description", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "8d38027a6ec0d9414f8b887fa14fbb954100b1fd", 
+  "date": "Mon Nov 25 11:38:31 2013 +0530", 
+  "message": "[fix] [minor] hide communication table from print", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "9f51ee4a84b1d812a5dac2503608c5a5483fd21e", 
+  "date": "Sun Nov 24 16:03:40 2013 +0530", 
+  "message": "[fix] [minor] serial no status update fix", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "451b01cfe406861247e6a42519044d58400a59b2", 
+  "date": "Fri Nov 22 17:17:35 2013 +0530", 
+  "message": "[fix] [minor] print hide for purchase net and grand total", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "d8c5f225d9c034ed8affe4d002b676a2753c2276", 
+  "date": "Fri Nov 22 16:12:26 2013 +0530", 
+  "message": "[minor] fix broken install due to previous fix by @rmehta", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "f520c4db736ca477f3bfe57db605f0fbb07e9a50", 
+  "date": "Fri Nov 22 15:13:01 2013 +0530", 
+  "message": "[minor] remove print statement, booboo", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "1d270beb40dab6bcfd216dd8ff1853d07bc7a337", 
+  "date": "Fri Nov 22 13:40:43 2013 +0530", 
+  "message": "[minor] [website] banner fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "ef802823882e30618b9f5f4721640c712da6d8f1", 
+  "date": "Fri Nov 22 13:14:12 2013 +0530", 
+  "message": "[minor] fix whitespace in patch_list", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "22234ea4d820fd8770a26a177e9a59ac34cf7171", 
+  "date": "Fri Nov 22 12:53:23 2013 +0530", 
+  "message": "[minor] add wnf.py --ipython", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "77b9bc5bfe73dd68b5c38d3657fcd5118244e6d5", 
+  "date": "Fri Nov 22 12:33:16 2013 +0530", 
+  "message": "[minor] [website] [fix] table of contents recursion", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "4f08235eeb9ce64d938ea96a965a81498efd38c3", 
+  "date": "Fri Nov 22 12:30:51 2013 +0530", 
+  "message": "[email] [minor] changed label webnotes/erpnext#1082", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "8343bd3152e8c5c065f19386d1012d4b2cf15605", 
+  "date": "Fri Nov 22 12:26:39 2013 +0530", 
+  "message": "[patch] [fix] [minor]", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "cee4cb88a3ecb1f3f4409c597f56e6ba01846d3a", 
+  "date": "Fri Nov 22 12:22:41 2013 +0530", 
+  "message": "[comment] [minor] added patch to update", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "d02280d1a36a5547286339fe9dfeb0e0d3d81268", 
+  "date": "Fri Nov 22 12:21:36 2013 +0530", 
+  "message": "[minor] [website] navbar brand ellipsis", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ef114773a6f420c507ed13b4729cbdd74c76661f", 
+  "date": "Fri Nov 22 12:21:19 2013 +0530", 
+  "message": "[minor] [website] brand_html", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "a7fa697448d61118175021e9dd62ab35498db66f", 
+  "date": "Fri Nov 22 12:05:59 2013 +0530", 
+  "message": "[comment] [report] fixed formatter", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "1e6a8e5675476a34815bbafdae13ac1944fd507e", 
+  "date": "Fri Nov 22 11:58:18 2013 +0530", 
+  "message": "[comment] Added in list, and now searchable webnotes/erpnext#1055", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "9608ab9d2a9eddce4b244185ae9098e479cb068c", 
+  "date": "Fri Nov 22 11:36:25 2013 +0530", 
+  "message": "[minor] [website] [fix] table of contents recursion", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "1b8c444a20ae8f12482ddc8c121b9aeff2fbe75f", 
+  "date": "Thu Nov 21 23:18:29 2013 +0530", 
+  "message": "[cleanup] [minor] update serial no status, sales and purchase info", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "fc3553239f4663c4db531941245109a6be3ba767", 
+  "date": "Thu Nov 21 19:37:05 2013 +0530", 
+  "message": "[minor] [bootstrap] navbar transparency reduced", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "64288bc6387ccb1f6c24d9984eb74b5990e36b5d", 
+  "date": "Thu Nov 21 18:46:54 2013 +0530", 
+  "message": "[minor] [website] footer fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "6c294926529461d49c388bc5d19c28c2db39c275", 
+  "date": "Thu Nov 21 18:28:03 2013 +0530", 
+  "message": "[minor] [fix] first web page should set brand_html", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "a9eb87eef47d931767c184a64007dadf00cac130", 
+  "date": "Thu Nov 21 17:46:24 2013 +0530", 
+  "message": "[minor] [fix] msgprint if duplicate name, bugfix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "a98021ea3eb682bffd23d43d0fd7c9e8c4bcf308", 
+  "date": "Thu Nov 21 17:03:41 2013 +0530", 
+  "message": "[minor] [website] footer fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "09c7160b72d97bd8c765a2439587754c51775dc8", 
+  "date": "Thu Nov 21 14:58:25 2013 +0530", 
+  "message": "[minor] [website] fixes in templates", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ec88c79086cac833dc5f79c2548a2d0fa86ff674", 
+  "date": "Thu Nov 21 14:57:54 2013 +0530", 
+  "message": "[minor] [fix] rebuild sitemap in clear_web", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "14ffa9d5fba504a7f391e23e420a41966470bfe5", 
+  "date": "Thu Nov 21 14:57:38 2013 +0530", 
+  "message": "[minor] [fix] file deletion", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "0c8fd3408c56392d61a223284be43b8c03d4a614", 
+  "date": "Thu Nov 21 14:55:45 2013 +0530", 
+  "message": "[minor] [website] fix in container", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "57c98db8eaa177ad311444463dd67d45c90ed85e", 
+  "date": "Thu Nov 21 12:33:52 2013 +0530", 
+  "message": "[minor] merge conflict fixed", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "0ec4bdfcb82fecad2771d62d44f5ce1dd9bef5cd", 
+  "date": "Thu Nov 21 11:55:54 2013 +0530", 
+  "message": "[fix] [minor] send sms fixed for purchase module", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "8991ad719c0cea8d2324778917ca7290bc07a440", 
+  "date": "Thu Nov 21 11:25:41 2013 +0530", 
+  "message": "[fix] [minor] removed leave by from leave application", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "784a95cf1a37a8c074a77a03b14006dc7f5abdb7", 
+  "date": "Thu Nov 21 10:39:43 2013 +0530", 
+  "message": "[fix] [minor] check print hide properties in purchase standard print format", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "5ffb4f33afcd8b64fe3819717020b2b47ef32ffd", 
+  "date": "Wed Nov 20 23:08:59 2013 -0800", 
+  "message": "[fix] [issue] webnotes/erpnext#1072 removed leave by from leave application", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "e5a1a84d8d4c426ddbd8ec9d5c10aea5332b8b91", 
+  "date": "Wed Nov 20 22:27:18 2013 -0800", 
+  "message": "[fix] [minor] send sms fixed for purchase module", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "210ccc98622f00f56fe64851f88635ccf9f98a4a", 
+  "date": "Wed Nov 20 20:31:35 2013 +0530", 
+  "message": "[minor] remove os.walk optimization for clearing pycs", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "94202843f5f07179aefb0afb9903ed1937e4d0ec", 
+  "date": "Wed Nov 20 20:20:22 2013 +0530", 
+  "message": "[minor] [website] show login page if index not found", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "2d56157991dcf6d2ce4e58d5b5c1205e6d5599fc", 
+  "date": "Wed Nov 20 16:37:19 2013 +0530", 
+  "message": "[fix] [minor] send email to cc fixed", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "1d35c444b6579f1f31f5b64c5b15a753bf6620d2", 
+  "date": "Wed Nov 20 16:24:11 2013 +0530", 
+  "message": "[fix] [minor] check print hide property to show net total and grand total in purchase cycle standard print format", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "20f93546eb6c5df0605061c945a58a688050d904", 
+  "date": "Wed Nov 20 13:25:04 2013 +0530", 
+  "message": "[fix] [minor] all variance related reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "ca471f41a132b081d06a9cb08bad34dff6974b77", 
+  "date": "Wed Nov 20 13:14:12 2013 +0530", 
+  "message": "[fix] Rename and merge rewrite", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "ad45e3135664686c1db1123beb624af6cbbdb33b", 
+  "date": "Wed Nov 20 12:59:58 2013 +0530", 
+  "message": "[copyright] added Contributors", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "f0242838669bacc127fc778a8d26d80781598bde", 
+  "date": "Wed Nov 20 12:45:53 2013 +0530", 
+  "message": "[gantt] [minor] fix if no end date", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "c3c38d38f08f87f231ef3aae1bfdf2b3f26756d4", 
+  "date": "Wed Nov 20 12:09:21 2013 +0530", 
+  "message": "[minor] [fix] style settings", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "83eb4b2e37c9eacbbdf87678f7249792c8ee284c", 
+  "date": "Wed Nov 20 12:03:07 2013 +0530", 
+  "message": "[minor] [fixes] ui and related", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "aa14f03f5c712478defa72bbc2f0c45952077665", 
+  "date": "Wed Nov 20 11:51:12 2013 +0530", 
+  "message": "[minor] [fix] website sitemap reload", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "e60b2958288ad7b01a64fca611920c8ba22e798d", 
+  "date": "Wed Nov 20 11:50:54 2013 +0530", 
+  "message": "[minor] [fix] editor and wn_web.css", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "b340d06fe6b3cbc51e5f8cc6e06f73a1605d5765", 
+  "date": "Wed Nov 20 10:38:06 2013 +0530", 
+  "message": "[readme] fixed copyright, now copyright is jointly owned by contributors", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "2a31e47822cca60a48bd75859beedbc0300f0952", 
+  "date": "Wed Nov 20 10:03:35 2013 +0530", 
+  "message": "[fix] [sitemap] [minor] timestamp type corrected for rebuilding", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "bba954e4f2894c5c0d3fc2eda049d870b6c7ac21", 
+  "date": "Wed Nov 20 03:09:03 2013 -0800", 
+  "message": "[fix] [minor] send email to cc fixed", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "c8380bfed4cf816887b2aec3bfd8c7f217db4011", 
+  "date": "Wed Nov 20 00:20:55 2013 -0800", 
+  "message": "[fix] [minor] all variance related reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "4e67b109f3aa7f73835c92bbd71b465485b85bf4", 
+  "date": "Tue Nov 19 16:39:54 2013 +0530", 
+  "message": "[website sitemap] [minor] fix and added patch", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "4b781d0117f5f60331fe33b1f689b87fd8ad2bc9", 
+  "date": "Tue Nov 19 15:54:28 2013 +0530", 
+  "message": "[minor] website fixes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "5d3cc45a75df2be76356e2332d1f7122a7cf217e", 
+  "date": "Tue Nov 19 15:12:10 2013 +0530", 
+  "message": "[website sitemap] [setup] [minor] fixes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "c9a7be5208da29ff41fe567105738f3aba438c9b", 
+  "date": "Tue Nov 19 14:52:57 2013 +0530", 
+  "message": "[website sitemap] fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "59771b412b0dfa0aad7e738f33003a02e2bacfa3", 
+  "date": "Tue Nov 19 14:31:31 2013 +0530", 
+  "message": "[fix] [minor] ref_doctype not reqd in Site Map", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "fab790fa7e57ec8c766baf16c6edd7b35817eaa0", 
+  "date": "Tue Nov 19 14:19:15 2013 +0530", 
+  "message": "[website sitemap] [minor] cleanup code and trigger build", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "910c7160cbea931d6ad610fc85124fce4f5b16ac", 
+  "date": "Tue Nov 19 12:51:14 2013 +0530", 
+  "message": "[fix] [minor] fetch suppler default price list in purchase transactions", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "5a1a22e907b7cb5e521ea03d3100e3fadff70959", 
+  "date": "Tue Nov 19 12:26:46 2013 +0530", 
+  "message": "[fix] [minor] product search to search on textbox keypress", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "a2fbe5cfd2ab523fb95a76773f6b2f8f580484f3", 
+  "date": "Tue Nov 19 11:45:55 2013 +0530", 
+  "message": "[fix] [minor] added price list in supplier form and filtered customer and supplier for selling and buying respectively", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "be78d05a0bd3491c2db2f2e6dd4ae83c910114e3", 
+  "date": "Mon Nov 18 23:47:38 2013 -0800", 
+  "message": "[fix] [minor] added price list in supplier form", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "fe665d78a214fa8fa6fdcbd0cdcd59676ceca7bb", 
+  "date": "Mon Nov 18 19:27:57 2013 +0530", 
+  "message": "[website] [sitemap] cleanup", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "3187ac5425cb30ae6962bcf2c081cd9061a4e67e", 
+  "date": "Mon Nov 18 19:26:28 2013 +0530", 
+  "message": "[minor] code field font as one of Monaco, Courier New, monospace", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "f432a24061d04f0f2e08e34c3867047c93fdda56", 
+  "date": "Mon Nov 18 19:18:01 2013 +0530", 
+  "message": "[minor] [website] switch to app link, edit page link", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "bb2e07765ddc5bec9b02d23fe8175f3033eb0d6c", 
+  "date": "Mon Nov 18 18:34:00 2013 +0530", 
+  "message": "[minor] [website] enter edit mode by explicitly clicking Edit in the cog menu", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "255c8dd90ce78307db9eaca717ff659a68749d37", 
+  "date": "Mon Nov 18 16:51:40 2013 +0530", 
+  "message": "[fix] [minor] pull updates from 1310 branch", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "5da039577950a680fa94e50930d83d965331da75", 
+  "date": "Mon Nov 18 16:40:31 2013 +0530", 
+  "message": "[minor] [oops] removed print", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "510a73a0de26db8eb8c10e2b6ed61010a16ae323", 
+  "date": "Mon Nov 18 15:29:36 2013 +0530", 
+  "message": "[fix] [minor] product search box fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "39f72c30607c40aeedc6df832178998c9c999f62", 
+  "date": "Mon Nov 18 13:49:59 2013 +0530", 
+  "message": "[minor] [scheduler] commit if no exception", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "1d55be86b29d7e4b96102d8607258af260aaaa09", 
+  "date": "Mon Nov 18 13:49:41 2013 +0530", 
+  "message": "[minor] [fix] dropbox", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "0809a95a70f4914753c5d8aaaeb6c95703237041", 
+  "date": "Mon Nov 18 12:50:43 2013 +0530", 
+  "message": "[minor] [fix] setup page titles translatable", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "48bd4a1deddaeb3d6faf7af8a3de49c82488eb38", 
+  "date": "Mon Nov 18 12:42:55 2013 +0530", 
+  "message": "[fix] [minor] stock value difference rounding issue", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "6ca0548231f4c813d7d46b9ed10ec2181fd0ce4d", 
+  "date": "Mon Nov 18 12:16:48 2013 +0530", 
+  "message": "[fix] [minor] stock related reports fixed for serialized item", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "458bf6e33001dbef19aee8f6bae132e6dc776d86", 
+  "date": "Mon Nov 18 12:06:51 2013 +0530", 
+  "message": "[minor] [requirements] sorted alphabetically", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "0ebe35bbe0673be8e7d9ecd5bfaf32ebb37b85bc", 
+  "date": "Mon Nov 18 12:06:33 2013 +0530", 
+  "message": "[minor] [install] updated requirements and use python2.7", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "0b3a8477b0db13f660a544b455c34bcb276d5dab", 
+  "date": "Mon Nov 18 11:21:04 2013 +0530", 
+  "message": "[fix] [minor] stock related report fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "dd2ab233b570d0028beb0fe02cbad0c5d384d084", 
+  "date": "Mon Nov 18 11:17:19 2013 +0530", 
+  "message": "[minor] [oops] use conn.get_value", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "bca8d12b0af8d7ab0141179b08a3e69eddd01e45", 
+  "date": "Mon Nov 18 11:09:05 2013 +0530", 
+  "message": "[minor] [fix] has_permission", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "d665ab2dd7c75b7ac9f944342bdfb6ca152556de", 
+  "date": "Mon Nov 18 02:05:18 2013 -0800", 
+  "message": "[fix] [minor] product search box fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "b5a58c8a8fd65971397c85b82abf3e4942399c07", 
+  "date": "Sun Nov 17 22:50:09 2013 -0800", 
+  "message": "[fix] [minor] stock related reports fixed for serialized item", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "63945b2e8102a81a3bc2d12db2d21b9fa8517bab", 
+  "date": "Sun Nov 17 22:04:04 2013 -0800", 
+  "message": "[fix] [minor] Add cssmin python module to the requirements variable", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "1e74aa8c567ab18b45e6c847d0197a956836e8f1", 
+  "date": "Sun Nov 17 21:54:11 2013 -0800", 
+  "message": "[fix] [minor] stock related report fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "2b71380f1f1d02a683a3f4ccb47ea0add66d6b88", 
+  "date": "Sat Nov 16 12:33:34 2013 +0530", 
+  "message": "[minor] [patch] update reqd fields in reports", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "d42c3e0f484d71b834b98bc9e829d02bd6e5056e", 
+  "date": "Fri Nov 15 23:38:09 2013 +0530", 
+  "message": "[fix] [minor] fixes in  patch", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "0f1b1592701047693ee4f20d60f960e212033212", 
+  "date": "Fri Nov 15 19:38:15 2013 +0530", 
+  "message": "[cleanup] removed ace editor", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "736b6073d6fa89fb27e2025665b78b00df5b2607", 
+  "date": "Fri Nov 15 19:37:44 2013 +0530", 
+  "message": "[minor] [website] edit html, page-container, max-width=800px", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "aa268f0feda7a0ffde24b3ba36d4789f759fe26d", 
+  "date": "Fri Nov 15 19:21:33 2013 +0530", 
+  "message": "[minor] [oops] removed sales_common.py", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "7ff8f2c670fb70b7e8899e89000427d9ab110888", 
+  "date": "Fri Nov 15 19:12:00 2013 +0530", 
+  "message": "[minor] [fix] check record during data import of a complete record", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "154c8579d6e706e9e251ec35f5a7023f3a53370e", 
+  "date": "Fri Nov 15 16:09:45 2013 +0530", 
+  "message": "[index] [minor] add indexes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "27336de68b0e506687c425d91abb272a5d30f639", 
+  "date": "Fri Nov 15 13:55:45 2013 +0530", 
+  "message": "[minor] added missing icon", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "964f850a42310a0f37faeeb925789dec89cccd33", 
+  "date": "Fri Nov 15 13:52:10 2013 +0530", 
+  "message": "[ui] changes to toolbar and no back button for singles webnotes/erpnext#1052", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "e505fbea54c156e724f73a0668b21667d9e711f3", 
+  "date": "Fri Nov 15 13:38:23 2013 +0530", 
+  "message": "[fix] [minor] stock balance report for serialized item", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "370289df909f4e73d24fdc174f774b7b35550f4d", 
+  "date": "Fri Nov 15 13:37:06 2013 +0530", 
+  "message": "[data import tool] check dates before import", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "d29d128746120671e0316a4e5c5bf41048c54c0c", 
+  "date": "Fri Nov 15 12:54:09 2013 +0530", 
+  "message": "[ui] minoro style fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "b8f2efe5eff330c92cdccb4892b74788cb027d91", 
+  "date": "Fri Nov 15 11:35:25 2013 +0530", 
+  "message": "[minor] don't compress cssmin on walk", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "b647e091daac598211e12d3f94c1e8671dd8887c", 
+  "date": "Fri Nov 15 11:33:35 2013 +0530", 
+  "message": "[minor] fixed button in show hide modules", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "e34090aa2f2c4e73ce3a36a3896d474d4af70430", 
+  "date": "Fri Nov 15 11:30:23 2013 +0530", 
+  "message": "[pos] [minor] button back on toolbar and css, fixes webnotes/erpnext#1052", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "b59a6d0be0a965abc2a8854f566615a0f1aeb08a", 
+  "date": "Fri Nov 15 10:47:54 2013 +0530", 
+  "message": "[ui] [minor] margin fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "c10621a5be587f531de9de61c8a185e4f2ade59a", 
+  "date": "Fri Nov 15 10:32:47 2013 +0530", 
+  "message": "[patch] make gl entries for submitted sales invoice where no gl entries exists", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "271edabfc004492a904969d59ce402d4a677f16c", 
+  "date": "Thu Nov 14 19:56:22 2013 +0530", 
+  "message": "[fix] [minor] tree.js fix of link loading", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ade93c2494f5208f88397a1649e60a108ddbc328", 
+  "date": "Thu Nov 14 18:43:39 2013 +0530", 
+  "message": "[minor] cleanup html in bseditor and Discuss in web page template", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "9e5da835ecc666186a24041b7150022fa714b6b3", 
+  "date": "Thu Nov 14 18:41:09 2013 +0530", 
+  "message": "[patch] make gl entries for submitted sales invoice where no gl entries exists", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "e83069cb3235f9cdb966abb144e5fa9790356a90", 
+  "date": "Thu Nov 14 18:40:08 2013 +0530", 
+  "message": "[fix] update future gl entries for stock", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "155232e04e30c400d7fec0dd100c62627b5fde34", 
+  "date": "Thu Nov 14 18:37:33 2013 +0530", 
+  "message": "[fix] credit limit validation", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "09677017a7ec7114b3cc334b98e919046ab513bd", 
+  "date": "Thu Nov 14 16:41:10 2013 +0530", 
+  "message": "[minor] minify css :boom:", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "3910aa351f4f36724e665a2b3b16cf0c8caf6f97", 
+  "date": "Thu Nov 14 15:59:46 2013 +0530", 
+  "message": "[fixes] [ui] [minor]", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "a84bf6dc4ec7c9d3711cc84ce88a14f14d5180d7", 
+  "date": "Thu Nov 14 15:35:20 2013 +0530", 
+  "message": "[ui] [fixes] [minor]", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "f5d57295ae4689259b545dc73eddd1d83e5b0b7d", 
+  "date": "Thu Nov 14 14:56:38 2013 +0530", 
+  "message": "[ui] [minor] dirty and comment padding fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "0d9a90cdedb73251d371fdc9a16c5096049f0ae9", 
+  "date": "Thu Nov 14 14:52:19 2013 +0530", 
+  "message": "[minor] [fix] expand_partial_links", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "65e974096f4969303081c76d0067fabae1f84269", 
+  "date": "Thu Nov 14 14:50:43 2013 +0530", 
+  "message": "[fix] showing customer dashboard headline to users with account related roles", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "9bdb8b1c221089e645582bde551bd6dff94d3957", 
+  "date": "Thu Nov 14 14:28:46 2013 +0530", 
+  "message": "[minor] [fix] rss", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "58f6dfe50a761847fb3b8713f8409bfe74ccf8a6", 
+  "date": "Thu Nov 14 14:28:37 2013 +0530", 
+  "message": "[minor] expand partial links when sending email", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "61c3d2fd42c8bdef23c777a13082f6b19ebe29a1", 
+  "date": "Thu Nov 14 14:18:34 2013 +0530", 
+  "message": "[ui] [minor] dirty and comment padding fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "8b3b9c509ad6c66c75c2fe1e07fc7d008cfa4292", 
+  "date": "Thu Nov 14 13:30:48 2013 +0530", 
+  "message": "[ui] [minor] images in form floating right", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "e7f7c42bddb51e2cb31ce5dea9cdd6f594ff7879", 
+  "date": "Thu Nov 14 13:22:23 2013 +0530", 
+  "message": "[fix] [minor] report export related fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "d4589ab108f04264ae540da451ff1639e75c2f12", 
+  "date": "Thu Nov 14 12:34:29 2013 +0530", 
+  "message": "[ui] minor fixes", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "856e1ce473e0d763611f92a721e18e0e9c6514cd", 
+  "date": "Thu Nov 14 12:15:35 2013 +0530", 
+  "message": "[minor] cache notification boot info :boom:", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "f31a5510e1f037cdaf9a2f0ed5d8bf6efb255fd8", 
+  "date": "Thu Nov 14 12:14:25 2013 +0530", 
+  "message": "[minor] add profiling in development server", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Pratik Vyas <pdvyas@gmail.com>", 
+  "commit": "bd3388de6e931f0ba5affc5ec55cdab402579a84", 
+  "date": "Thu Nov 14 07:10:49 2013 -0800", 
+  "message": "[fix] [minor] tree.js fix of link loading", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "3d39b4c0d60f34ee6cb6ab861421942b2c5ddc95", 
+  "date": "Thu Nov 14 02:16:44 2013 -0800", 
+  "message": "[fix] showing customer and supplier dashboard headline to users with account related roles", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "662f7d9256c1efa880614822c87c539b9b42f7de", 
+  "date": "Wed Nov 13 23:57:30 2013 -0800", 
+  "message": "[fix] [minor] all types of variance reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "3c71ead2be026daa1f16c53cdc76acba265e0797", 
+  "date": "Wed Nov 13 23:55:53 2013 -0800", 
+  "message": "[fix] [minor] report export related fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "9e1c27a11e6c5c397b159b683ee2cf41ec850e1c", 
+  "date": "Wed Nov 13 19:07:03 2013 +0530", 
+  "message": "[fix] [minor] workflow icon fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "d8ef72f01f5e5246dec0418db7186bbbc6bfb2c0", 
+  "date": "Wed Nov 13 18:53:44 2013 +0530", 
+  "message": "[minor] fixes after cleanup", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ec491dcc57a748b1b4f3e3d5d29fe1ba5cc85961", 
+  "date": "Wed Nov 13 17:30:10 2013 +0530", 
+  "message": "[minor] [patch]", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "f2c1755c6a2fc9813856e733cab0ff80cf8a4604", 
+  "date": "Wed Nov 13 17:29:52 2013 +0530", 
+  "message": "[minor] [fix] create custom field if field exists in table", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "d2d210dc686541a7b3a51c2eeb83e37b71d8fb27", 
+  "date": "Wed Nov 13 17:27:35 2013 +0530", 
+  "message": "[fix] [minor] variance reports fixes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "4f642e76704d82816f9d3fad33e3154600d84c19", 
+  "date": "Wed Nov 13 16:55:38 2013 +0530", 
+  "message": "[cleanup] Fixed title bars, toolbars in all pages, added default background", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "bfe264be8c4ce1c9f42a45f8b3d9f104396cab5d", 
+  "date": "Wed Nov 13 16:45:11 2013 +0530", 
+  "message": "[fix] [minor] all types of variance reports fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "4963b5defd06b1cbf89e260176d33a8fe6d6427d", 
+  "date": "Wed Nov 13 15:45:22 2013 +0530", 
+  "message": "[minor] [website] enable comments in any web page", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "49f2bafa0fd6153ec1037a890a3266739fb849d8", 
+  "date": "Wed Nov 13 15:32:12 2013 +0530", 
+  "message": "[fix] [minor] budget variance report logic + loading time", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "c27c5f493f0f0f4485b0d983d019fe9f4bcf1f18", 
+  "date": "Wed Nov 13 15:07:12 2013 +0530", 
+  "message": "[minor] on save and trash, clear cache of website, if it contains table of contents", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "778056ca5f0f6266629da51726f6293c29bc0387", 
+  "date": "Wed Nov 13 15:06:40 2013 +0530", 
+  "message": "[minor] [patch] save style settings", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "8c09093aa10695aaea17c08c173acc34d683cc30", 
+  "date": "Wed Nov 13 15:06:25 2013 +0530", 
+  "message": "[minor] [docs] fixed labels", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "33627db6610acc768670ee00efbf2502f891cf14", 
+  "date": "Wed Nov 13 15:05:23 2013 +0530", 
+  "message": "[minor] [fix] website.js and rss", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "27bf55b0ca3c4521eceb1f3b3410c2183e0c4970", 
+  "date": "Wed Nov 13 15:04:57 2013 +0530", 
+  "message": "[minor] check permission for editable web page", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "4a67d36735d9b9d0634f95ab0fcdbe78f25be891", 
+  "date": "Wed Nov 13 14:53:09 2013 +0530", 
+  "message": "[minor] removed remark field from auto material request", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "8c8df26ae205bee0969ea6320e8732cc0a8534eb", 
+  "date": "Wed Nov 13 14:47:32 2013 +0530", 
+  "message": "[minor] optimized webnotes.has_permission", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Priya <priya@iwebnotes.com>", 
+  "commit": "c60e08d718d45a3b6f50602e6b2e14034a36f111", 
+  "date": "Wed Nov 13 12:15:26 2013 +0530", 
+  "message": "[docs] faq repacking", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "080b7cbaae92b85de729a55ff536a8a16c0849b6", 
+  "date": "Wed Nov 13 05:42:03 2013 -0800", 
+  "message": "[fix] [minor] workflow icon fix", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "09391e14ad61918c91dfa770dd3755d8fe7c8fdc", 
+  "date": "Wed Nov 13 02:55:04 2013 -0800", 
+  "message": "[minor] by Max - fixes after translation in sales_analytics.js", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "bcedf1ebd34a2fcd2e14989f567276d4f9ca765f", 
+  "date": "Wed Nov 13 01:37:43 2013 -0800", 
+  "message": "[docs] faq repacking", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "51f18b24ce2dc8588b1d7cd2e50093af384c4e81", 
+  "date": "Tue Nov 12 23:37:11 2013 +0530", 
+  "message": "[minor] report disk usage 0 if files path does not exist", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "e1cf3453b4df7d6eaf3c6f094fef94f42a967c0f", 
+  "date": "Tue Nov 12 19:49:10 2013 +0530", 
+  "message": "[fix] [minor] conversion rate validation message update", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "e0b32824ff0e8313d0a15896b2145d0ba14268f5", 
+  "date": "Tue Nov 12 19:27:16 2013 +0530", 
+  "message": "[fix] [minor] updated message for conversion rate", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "4e5e6596c27f35b20c9f57071eeb93ce54b19353", 
+  "date": "Tue Nov 12 18:22:37 2013 +0530", 
+  "message": "[ui] Flattified toolbar like ios7", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "77602b1493a20f2500daca922f6cdc9382757c0f", 
+  "date": "Tue Nov 12 17:34:35 2013 +0530", 
+  "message": "[website] table of contents in web page", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "3b0348d75b2733b442af90242728d60376fcad70", 
+  "date": "Tue Nov 12 17:33:34 2013 +0530", 
+  "message": "[minor] [plugins] fix in plugin path", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "27f534f56c397b8219687034241f37cd11bd321f", 
+  "date": "Tue Nov 12 17:33:11 2013 +0530", 
+  "message": "[minor] lib/wnf.py --python command to start python with path and database connection", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "9259f6e5cedc286f36c8381df2786ec6def5a1b3", 
+  "date": "Tue Nov 12 17:32:26 2013 +0530", 
+  "message": "[minor] [docs] fixes in filename and title", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "5f73a980b5603d0b98db538d000a125a6200b517", 
+  "date": "Tue Nov 12 17:28:17 2013 +0530", 
+  "message": "[minor] replace 'raise e' with 'raise' for correct tracebacks", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Priya <priya@iwebnotes.com>", 
+  "commit": "e7d3b898869e7ecaa2a531bb870ffdf27614b7d4", 
+  "date": "Tue Nov 12 15:31:51 2013 +0530", 
+  "message": "[docs] knowledge files and faq", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "75ba09ee1b086c41ffd1f94997ca15bc6e42bf8b", 
+  "date": "Tue Nov 12 15:03:20 2013 +0530", 
+  "message": "[cleanup] removed border for forms / pages etc (only desktop will now have background)", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "580bc7c9228deaa500fcf26db35af1c4cea49e36", 
+  "date": "Tue Nov 12 11:50:00 2013 +0530", 
+  "message": "[minor] favicon", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "fbfefd3dcd88cbf9e50d806aaeaf17ca503486a1", 
+  "date": "Tue Nov 12 11:24:56 2013 +0530", 
+  "message": "[fix] [minor] budget variance report fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ed4ba6801d984b8ce33d7db29e88e1b7f5742f58", 
+  "date": "Tue Nov 12 04:20:02 2013 -0800", 
+  "message": "[minor] Update strip method of datatype.js to handle null/undefined", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "f53a4ae076da0a91269ce8703a282b2be4db6b7a", 
+  "date": "Tue Nov 12 04:18:15 2013 -0800", 
+  "message": "[minor] Fix Uncaught TypeError: Cannot read property 'length' of undefined", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "516d49c5e898b89ddb25090079e6147ce21f2e98", 
+  "date": "Tue Nov 12 04:16:46 2013 -0800", 
+  "message": "[minor] Update install_erpnext.py", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "372df9ec359ee6ad68d02615f76e07801e52f42e", 
+  "date": "Tue Nov 12 04:05:12 2013 -0800", 
+  "message": "[docs] knowledge files and faq", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "06da1a6147477dcfc24a0560714c55d1dc3384de", 
+  "date": "Mon Nov 11 21:57:22 2013 -0800", 
+  "message": "[fix] [minor] budget variance report fixed", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "b1e1e0c6598b1a5f5d9703ed210479c135dc0d05", 
+  "date": "Mon Nov 11 18:28:45 2013 +0530", 
+  "message": "[cleanup] [ui] minor", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "113b4c1a218674f944934c229551a2d81a0f3d9b", 
+  "date": "Mon Nov 11 18:25:12 2013 +0530", 
+  "message": "[fix] [minor] accounts payable ageing data", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "f18ba49a00ce4f25183e68c9db050fac0d6d97f7", 
+  "date": "Mon Nov 11 18:01:37 2013 +0530", 
+  "message": "[ui cleanup] [minor]", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "0f04fcd2dbf79dea94ff91b7a979d79b29d87a19", 
+  "date": "Mon Nov 11 14:39:08 2013 +0100", 
+  "message": "[minor] read ip from header HTTP_X_FORWARDED_FOR", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ca8019bd97da425a2e6d8b7c71f28d6bf0345959", 
+  "date": "Mon Nov 11 14:06:05 2013 +0530", 
+  "message": "[minor] fixes after remark field removal", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Akhilesh Darjee <akhileshdarjee@gmail.com>", 
+  "commit": "7344353ac57ec70aba532235f6118dd26cf72161", 
+  "date": "Mon Nov 11 12:47:49 2013 +0530", 
+  "message": "[report] [fix] accounts payable fixed for get_ageing_date()", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Pratik Vyas <m@pd.io>", 
+  "commit": "f2ac485b1b7205c975c979ef3e85a941d9cf9bc0", 
+  "date": "Mon Nov 11 00:57:07 2013 +0530", 
+  "message": "[minor] add shebang to wnf.py", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Nabin Hait <nabinhait@gmail.com>", 
+  "commit": "cbf2e44f0eba1947988a9cdd423597477e98b933", 
+  "date": "Sun Nov 10 23:24:33 2013 -0800", 
+  "message": "[report] [fix] accounts payable fixed for get_ageing_date()", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "93151f2fa92ef9d41ee64ea26162be7ce68ec13b", 
+  "date": "Fri Nov 8 17:43:13 2013 +0530", 
+  "message": "[minor] background image should cover the whole window", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ce4f6845b0a13dbf0e6308beb5c1483355bf7273", 
+  "date": "Fri Nov 8 16:34:35 2013 +0530", 
+  "message": "[minor] [fix] plugins cache invalidation", 
+  "repo": "lib"
+ }, 
+ {
+  "author": "Rushabh Mehta <rmehta@gmail.com>", 
+  "commit": "7d8b189c8f88f533af7499c7ca20aaf5b025e429", 
+  "date": "Fri Nov 8 16:27:18 2013 +0530", 
+  "message": "[cleanup] UI Fixes", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "ce7ed98e3132d7aa0323a050ae2e713ad1b626ca", 
+  "date": "Thu Nov 7 21:09:06 2013 +0530", 
+  "message": "[minor] [refactor] Accounts Receivable", 
+  "repo": "app"
+ }, 
+ {
+  "author": "Anand Doshi <anand@erpnext.com>", 
+  "commit": "3990104e9bf24b5e64b172771d4e5317e0ed7340", 
+  "date": "Thu Nov 7 21:04:01 2013 +0530", 
+  "message": "[minor] [refactor] Accounts Receivable", 
+  "repo": "app"
+ }
+]

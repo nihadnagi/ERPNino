@@ -1,0 +1,18 @@
+{
+ "Account": "\u5e33\u6236", 
+ "Account Balance": "\u8cec\u6236\u9918\u984d", 
+ "Accounts": "\u8cec\u6236", 
+ "Against Account": "\u91dd\u5c0d\u5e33\u6236", 
+ "Against Journal Voucher": "\u5c0d\u65e5\u8a18\u5e33\u6191\u8b49", 
+ "Against Purchase Invoice": "\u5c0d\u63a1\u8cfc\u767c\u7968", 
+ "Against Sales Invoice": "\u5c0d\u92b7\u552e\u767c\u7968", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Credit": "\u4fe1\u7528", 
+ "Debit": "\u501f\u65b9", 
+ "If Income or Expense": "\u5982\u679c\u6536\u5165\u6216\u652f\u51fa", 
+ "Is Advance": "\u70ba\u9032", 
+ "Journal Voucher Detail": "\u65e5\u8a18\u5e33\u6191\u8b49\u8a73\u7d30\u4fe1\u606f", 
+ "No": "\u7121", 
+ "Reference": "\u53c3\u8003", 
+ "Yes": "\u662f\u7684"
+}

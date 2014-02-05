@@ -1,0 +1,17 @@
+{
+ "Account": "Konto", 
+ "Against Account": "Vor Konto", 
+ "Company": "Firma", 
+ "Credit": "Kredit", 
+ "Debit": "Soll", 
+ "From Date": "Von Datum", 
+ "From Date must be before To Date": "Von Datum muss vor dem Laufenden bleiben", 
+ "General Ledger": "General Ledger", 
+ "Posting Date": "Buchungsdatum", 
+ "Refresh": "Erfrischen", 
+ "Remarks": "Bemerkungen", 
+ "To": "Auf", 
+ "To Date": "To Date", 
+ "Voucher No": "Gutschein Nein", 
+ "Voucher Type": "Gutschein Type"
+}

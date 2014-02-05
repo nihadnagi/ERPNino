@@ -1,0 +1,10 @@
+{
+ "From Delivery Note": "\u4ece\u9001\u8d27\u5355", 
+ "From Sales Order": "\u4ece\u9500\u552e\u8ba2\u5355", 
+ "Invalid Barcode": "\u65e0\u6548\u7684\u6761\u7801", 
+ "Make Delivery": "\u4f7f\u4ea4\u8d27", 
+ "Make Payment Entry": "\u4f7f\u4ed8\u6b3e\u8f93\u5165", 
+ "Payment cannot be made for empty cart": "\u4ed8\u6b3e\u65b9\u5f0f\u4e0d\u80fd\u4e3a\u7a7a\u8d2d\u7269\u8f66\u5236\u9020", 
+ "Please specify Company to proceed": "\u8bf7\u6ce8\u660e\u516c\u53f8\u8fdb\u884c", 
+ "Send SMS": "\u53d1\u9001\u77ed\u4fe1"
+}

@@ -1,0 +1,19 @@
+{
+ " can not be received twice": "\u4e0d\u80fd\u88ab\u63a5\u53d7\u4e24\u6b21", 
+ " does not belong to Warehouse": "\u4e0d\u5c5e\u4e8e\u4ed3\u5e93", 
+ "AMC expiry date and maintenance status mismatched": "AMC\u7684\u5230\u671f\u65e5\u53ca\u7ef4\u62a4\u72b6\u6001\u4e0d\u5339\u914d", 
+ "Delivered Serial No ": "\u4ea4\u4ed8\u5e8f\u5217\u53f7", 
+ "Item Code cannot be changed for Serial No.": "\u4ea7\u54c1\u7f16\u53f7\u4e0d\u80fd\u4e3a\u5e8f\u5217\u53f7\u6539\u53d8", 
+ "Item must have 'Has Serial No' as 'Yes'": "\u9879\u76ee\u5fc5\u987b\u6709&#39;\u6709\u5e8f\u5217\u53f7&#39;\u4e3a&#39;\u662f&#39;", 
+ "Same Serial No": "\u540c\u6837\u7684\u5e8f\u5217\u53f7", 
+ "Serial No": "\u5e8f\u5217\u53f7", 
+ "Serial No created": "\u521b\u5efa\u5e8f\u5217\u53f7", 
+ "Serial No does not belong to Item": "\u5e8f\u5217\u53f7\u4e0d\u5c5e\u4e8e\u9879\u76ee", 
+ "Serial No must exist to transfer out.": "\u5e8f\u5217\u53f7\u5fc5\u987b\u5b58\u5728\u8f6c\u8ba9\u51fa\u53bb\u3002", 
+ "Serial No qty cannot be a fraction": "\u5e8f\u53f7\u6570\u91cf\u4e0d\u80fd\u662f\u5206\u6570", 
+ "Serial No status must be 'Available' to Deliver": "\u5e8f\u5217\u53f7\u72b6\u6001\u5fc5\u987b\u4e3a\u201c\u6709\u7a7a\u201d\u63d0\u4f9b", 
+ "Serial Nos do not match with qty": "\u5e8f\u5217\u53f7\u4e0d\u5339\u914d\u6570\u91cf", 
+ "Sorry, Serial Nos cannot be merged": "\u5bf9\u4e0d\u8d77\uff0c\u5e8f\u5217\u53f7\u65e0\u6cd5\u5408\u5e76", 
+ "Warehouse cannot be changed for Serial No.": "\u4ed3\u5e93\u4e0d\u80fd\u4e3a\u5e8f\u200b\u200b\u5217\u53f7\u6539\u53d8", 
+ "Warranty expiry date and maintenance status mismatched": "\u4fdd\u4fee\u671f\u6ee1\u65e5\u671f\u53ca\u7ef4\u62a4\u72b6\u6001\u4e0d\u5339\u914d"
+}

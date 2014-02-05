@@ -1,0 +1,6 @@
+{
+ "Make Time Log Batch": "\u505a\u65f6\u95f4\u8bb0\u5f55\u6279", 
+ "Please select Time Logs.": "\u8bf7\u9009\u62e9\u65f6\u95f4\u8bb0\u5f55\u3002", 
+ "Time Log Status must be Submitted.": "\u65f6\u95f4\u65e5\u5fd7\u72b6\u6001\u5fc5\u987b\u88ab\u63d0\u4ea4\u3002", 
+ "Time Log is not billable": "\u65f6\u95f4\u65e5\u5fd7\u662f\u4e0d\u8ba1\u8d39"
+}

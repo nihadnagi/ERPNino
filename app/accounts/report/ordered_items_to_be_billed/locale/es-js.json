@@ -1,0 +1,10 @@
+{
+ "Amount": "Cantidad", 
+ "Customer": "Cliente", 
+ "Date": "Fecha", 
+ "Description": "Descripci\u00f3n", 
+ "Item": "Art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Ordered Items To Be Billed": "Los art\u00edculos pedidos a facturar", 
+ "Sales Order": "De \u00f3rdenes de venta"
+}

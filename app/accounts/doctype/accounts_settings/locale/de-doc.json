@@ -1,0 +1,10 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "Buchhaltungseingaben bis zu diesem Zeitpunkt eingefroren, kann niemand / nicht \u00e4ndern Eintrag au\u00dfer Rolle unten angegebenen.", 
+ "Accounts": "Konten", 
+ "Accounts Frozen Upto": "Konten Bis gefroren", 
+ "Accounts Settings": "Konten-Einstellungen", 
+ "Credit Controller": "Credit Controller", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "Wenn aktiviert, wird das System Buchungsposten f\u00fcr Inventar automatisch erstellen.", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "Rolle, die erlaubt, Transaktionen, die Kreditlimiten gesetzt \u00fcberschreiten vorlegen wird.", 
+ "Settings for Accounts": "Einstellungen f\u00fcr Konten"
+}

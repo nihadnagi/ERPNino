@@ -1,0 +1,11 @@
+{
+ "Amount": "Menge", 
+ "Date": "Datum", 
+ "Description": "Beschreibung", 
+ "Item": "Artikel", 
+ "Item Name": "Item Name", 
+ "Purchase Receipt": "Kaufbeleg", 
+ "Qty": "Menge", 
+ "Received Items To Be Billed": "Empfangene Nachrichten in Rechnung gestellt werden", 
+ "Supplier": "Lieferant"
+}

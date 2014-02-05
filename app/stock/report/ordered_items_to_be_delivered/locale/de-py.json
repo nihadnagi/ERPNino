@@ -1,0 +1,14 @@
+{
+ "Amount": "Menge", 
+ "Customer": "Kunde", 
+ "Date": "Datum", 
+ "Delivered Qty": "Geliefert Menge", 
+ "Description": "Beschreibung", 
+ "Expected Delivery Date": "Voraussichtlicher Liefertermin", 
+ "Item": "Artikel", 
+ "Item Group": "Artikel-Gruppe", 
+ "Item Name": "Item Name", 
+ "Ordered Items To Be Delivered": "Bestellte Artikel geliefert werden", 
+ "Qty": "Menge", 
+ "Sales Order": "Sales Order"
+}

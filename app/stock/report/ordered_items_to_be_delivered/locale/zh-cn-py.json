@@ -1,0 +1,15 @@
+{
+ "Amount": "\u91cf", 
+ "Customer": "\u987e\u5ba2", 
+ "Date": "\u65e5\u671f", 
+ "Delivered Qty": "\u4ea4\u4ed8\u6570\u91cf", 
+ "Description": "\u63cf\u8ff0", 
+ "Expected Delivery Date": "\u9884\u8ba1\u4ea4\u8d27\u65e5\u671f", 
+ "Item": "\u9879\u76ee", 
+ "Item Group": "\u9879\u76ee\u7ec4", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Ordered Items To Be Delivered": "\u8ba2\u8d2d\u9879\u76ee\u4ea4\u4ed8", 
+ "Qty": "\u6570\u91cf", 
+ "Qty to Deliver": "\u6570\u91cf\u4ea4\u4ed8", 
+ "Sales Order": "\u9500\u552e\u8ba2\u5355"
+}

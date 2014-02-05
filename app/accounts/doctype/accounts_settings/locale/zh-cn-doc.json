@@ -1,0 +1,15 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "\u4f1a\u8ba1\u5206\u5f55\u51bb\u7ed3\u622a\u81f3\u76ee\u524d\u4e3a\u6b62\uff0c\u6ca1\u6709\u4eba\u53ef\u4ee5\u505a/\u4fee\u6539\u9664\u4ee5\u4e0b\u6307\u5b9a\u89d2\u8272\u6761\u76ee\u3002", 
+ "Accounts": "\u8d26\u6237", 
+ "Accounts Frozen Upto": "\u8d26\u6237\u88ab\u51bb\u7ed3\u5230...\u4e3a\u6b62", 
+ "Accounts Settings": "\u8d26\u6237\u8bbe\u7f6e", 
+ "Allowed Role to Edit Entries Before Frozen Date": "\u5ba0\u7269\u89d2\u8272\u6765\u7f16\u8f91\u6587\u7ae0\u524d\u51b7\u51bb\u65e5\u671f", 
+ "Credit Controller": "\u4fe1\u7528\u63a7\u5236\u5668", 
+ "Frozen Accounts Modifier": "\u51bb\u7ed3\u5e10\u6237\u4fee\u6539", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "\u5982\u679c\u542f\u7528\uff0c\u7cfb\u7edf\u5c06\u81ea\u52a8\u4e3a\u53d1\u5e03\u5e93\u5b58\u4f1a\u8ba1\u5206\u5f55\u3002", 
+ "Make Accounting Entry For Every Stock Movement": "\u505a\u4f1a\u8ba1\u5206\u5f55\u4e3a\u6bcf\u80a1\u4efd\u8f6c\u79fb", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "\u4f5c\u7528\u662f\u5141\u8bb8\u63d0\u4ea4\u8d85\u8fc7\u8bbe\u5b9a\u4fe1\u7528\u989d\u5ea6\u4ea4\u6613\u7684\u3002", 
+ "Settings for Accounts": "\u8bbe\u7f6e\u5e10\u6237", 
+ "Users with this role are allowed to create / modify accounting entry before frozen date": "\u5177\u6709\u6b64\u89d2\u8272\u7684\u7528\u6237\u53ef\u4ee5\u521b\u5efa/\u4fee\u6539\u51bb\u7ed3\u65e5\u671f\u524d\u4f1a\u8ba1\u5206\u5f55", 
+ "Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts": "\u5177\u6709\u6b64\u89d2\u8272\u7684\u7528\u6237\u53ef\u4ee5\u8bbe\u7f6e\u51bb\u7ed3\u5e10\u6237\uff0c\u5e76\u521b\u5efa/\u4fee\u6539\u5bf9\u51bb\u7ed3\u8d26\u6237\u7684\u4f1a\u8ba1\u5206\u5f55"
+}

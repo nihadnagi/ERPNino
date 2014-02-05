@@ -1,0 +1,15 @@
+{
+ "Amount": "Montant", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Name": "Nom d&#39;article", 
+ "Item-wise Purchase History": "Historique des achats point-sage", 
+ "Project": "Projet", 
+ "Purchase Order": "Bon de commande", 
+ "Qty": "Qt\u00e9", 
+ "Rate": "Taux", 
+ "Received Qty": "Quantit\u00e9 re\u00e7ue", 
+ "Supplier": "Fournisseur", 
+ "Transaction Date": "Date de la transaction", 
+ "UOM": "Emballage"
+}

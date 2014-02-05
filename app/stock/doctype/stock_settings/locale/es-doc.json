@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Permitir Stock Negativo", 
+ "Allowance Percent": "Asignaci\u00f3n porcentual", 
+ "Auto Material Request": "Auto Solicite material", 
+ "Default Item Group": "Valor predeterminado de grupo del art\u00edculo", 
+ "Default Stock UOM": "Defecto de la UOM", 
+ "Default Valuation Method": "Por defecto M\u00e9todo de Valoraci\u00f3n", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "Congelar los comentarios de", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Naming By": "Art\u00edculo Nombrar Por", 
+ "Moving Average": "Media m\u00f3vil", 
+ "Naming Series": "Nombrar Series", 
+ "Notify by Email on creation of automatic Material Request": "Notificarme por correo electr\u00f3nico sobre la creaci\u00f3n de la Solicitud de material autom\u00e1tico", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Porcentaje que se les permite recibir o entregar m\u00e1s en contra de la cantidad pedida. Por ejemplo: Si se ha pedido 100 unidades. y el subsidio es de 10%, entonces se le permite recibir 110 unidades.", 
+ "Raise Material Request when stock reaches re-order level": "Levante solicitar material cuando el stock llega a re-ordenar nivel", 
+ "Role Allowed to edit frozen stock": "Permiso para editar stock congelado Papel", 
+ "Settings": "Configuraci\u00f3n", 
+ "Stock": "Valores", 
+ "Stock Frozen Upto": "Stock Frozen Upto", 
+ "Stock Settings": "Configuraci\u00f3n de"
+}

@@ -1,0 +1,16 @@
+{
+ "Allow Users": "\u5141\u8bb8\u7528\u6237", 
+ "Allow the following users to approve Leave Applications for block days.": "\u5141\u8bb8\u4ee5\u4e0b\u7528\u6237\u6279\u51c6\u8bb8\u53ef\u7533\u8bf7\u7684\u533a\u5757\u5929\u3002", 
+ "Applies to Company": "\u9002\u7528\u4e8e\u516c\u53f8", 
+ "Block Days": "\u5929\u5ea7", 
+ "Block Holidays on important days.": "\u5757\u4e0a\u91cd\u8981\u7684\u65e5\u5b50\u5047\u671f\u3002", 
+ "Company": "\u516c\u53f8", 
+ "HR": "\u4eba\u529b\u8d44\u6e90", 
+ "If not checked, the list will have to be added to each Department where it has to be applied.": "\u5982\u679c\u672a\u9009\u4e2d\uff0c\u5219\u5217\u8868\u5c06\u88ab\u6dfb\u52a0\u5230\u6bcf\u4e2a\u90e8\u95e8\uff0c\u5728\u90a3\u91cc\u5b83\u88ab\u5e94\u7528\u3002", 
+ "Leave Block List": "\u79bb\u5f00\u5757\u5217\u8868", 
+ "Leave Block List Allowed": "\u79bb\u5f00\u5c01\u9501\u6e05\u5355\u5ba0\u7269", 
+ "Leave Block List Dates": "\u7559\u5ea7\u65e5\u671f\u8868", 
+ "Leave Block List Name": "\u79bb\u5f00\u5757\u5217\u8868\u540d\u79f0", 
+ "Stop users from making Leave Applications on following days.": "\u4f5c\u51fa\u8bb8\u53ef\u7533\u8bf7\u5728\u968f\u540e\u7684\u65e5\u5b50\u91cc\u963b\u6b62\u7528\u6237\u3002", 
+ "Year": "\u5e74"
+}

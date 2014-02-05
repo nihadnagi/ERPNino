@@ -1,0 +1,3 @@
+{
+ "Sorry! You cannot change company's default currency, because there are existing transactions against it. You will need to cancel those transactions if you want to change the default currency.": "\u00a1Lo siento! No se puede cambiar la moneda por defecto de la empresa, porque existen operaciones existentes en su contra. Usted tendr\u00e1 que cancelar esas transacciones si desea cambiar la moneda por defecto."
+}

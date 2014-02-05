@@ -1,0 +1,12 @@
+{
+ "Amount": "\u91cf", 
+ "Amount to Bill": "\u5e33\u55ae\u6578\u984d", 
+ "Billed Amount": "\u8cec\u55ae\u91d1\u984d", 
+ "Date": "\u65e5\u671f", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Item Name": "\u9805\u76ee\u540d\u7a31", 
+ "Purchase Order": "\u63a1\u8cfc\u8a02\u55ae", 
+ "Purchase Order Items To Be Billed": "\u63a1\u8cfc\u8a02\u55ae\u7684\u9805\u76ee\u88ab\u6a19\u699c", 
+ "Supplier": "\u63d0\u4f9b\u8005"
+}

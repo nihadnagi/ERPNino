@@ -1,0 +1,13 @@
+[
+ "Sales Order", 
+ "Description", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse", 
+ "SO Pending Qty", 
+ "Production Plan Item", 
+ "BOM No", 
+ "Planned Qty", 
+ "Warehouse", 
+ "Manufacturing", 
+ "Item Code", 
+ "UOM"
+]

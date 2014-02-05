@@ -1,0 +1,7 @@
+{
+ "Click on 'Make Sales Invoice' button to create a new Sales Invoice.": "\u5355\u51fb\u201c\u5236\u4f5c\u9500\u552e\u53d1\u7968\u201d\u6309\u94ae\u6765\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u9500\u552e\u53d1\u7968\u3002", 
+ "Make Sales Invoice": "\u505a\u9500\u552e\u53d1\u7968", 
+ "Select Time Logs and Submit to create a new Sales Invoice.": "\u9009\u62e9\u65f6\u95f4\u65e5\u5fd7\u548c\u63d0\u4ea4\u521b\u5efa\u4e00\u4e2a\u65b0\u7684\u9500\u552e\u53d1\u7968\u3002", 
+ "This Time Log Batch has been billed.": "\u6b64\u65f6\u65e5\u5fd7\u6279\u91cf\u4e00\u76f4\u6807\u699c\u3002", 
+ "This Time Log Batch has been cancelled.": "\u6b64\u65f6\u65e5\u5fd7\u6279\u6b21\u5df2\u88ab\u53d6\u6d88\u3002"
+}

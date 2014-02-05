@@ -1,0 +1,12 @@
+{
+ "Bulk Email": "\u5927\u91cf\u96fb\u5b50\u90f5\u4ef6", 
+ "Bulk Email records.": "\u5927\u91cf\u96fb\u5b50\u90f5\u4ef6\u8a18\u9304\u3002", 
+ "Core": "\u6838\u5fc3", 
+ "Error": "\u932f\u8aa4", 
+ "Message": "\u4fe1\u606f", 
+ "Recipient": "\u63a5\u53d7\u8005", 
+ "Reference DocName": "\u53ef\u63a1\u7528DocName\u53c3\u8003", 
+ "Reference DocType": "\u53c3\u8003\u7684DocType", 
+ "Sender": "\u5bc4\u4ef6\u4eba", 
+ "Status": "\u72c0\u614b"
+}

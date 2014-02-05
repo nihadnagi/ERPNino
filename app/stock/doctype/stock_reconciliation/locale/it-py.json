@@ -1,0 +1,8 @@
+{
+ " at warehouse: ": "in magazzino:", 
+ "As existing qty for item: ": "Per quanto qty esistente per la voce:", 
+ "Please enter Expense Account": "Inserisci il Conto uscite", 
+ "Row # ": "Row #", 
+ "Serialized Item: '": "Articolo Serialized: &#39;", 
+ "Wrong Template: Unable to find head row.": "Template Sbagliato: Impossibile trovare la linea di testa."
+}

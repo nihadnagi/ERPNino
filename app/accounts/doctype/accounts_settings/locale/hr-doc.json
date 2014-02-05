@@ -1,0 +1,10 @@
+{
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.": "Knji\u017eenje zamrznuta do tog datuma, nitko ne mo\u017ee u\u010diniti / mijenjati ulazak, osim uloge naveden u nastavku.", 
+ "Accounts": "Ra\u010duni", 
+ "Accounts Frozen Upto": "Ra\u010duni Frozen Upto", 
+ "Accounts Settings": "Ra\u010duni Postavke", 
+ "Credit Controller": "Kreditne kontroler", 
+ "If enabled, the system will post accounting entries for inventory automatically.": "Ako je omogu\u0107eno, sustav \u0107e objaviti ra\u010dunovodstvene stavke za popis automatski.", 
+ "Role that is allowed to submit transactions that exceed credit limits set.": "Uloga koja je dopu\u0161teno podnijeti transakcije koje prema\u0161uju kreditnih ograni\u010denja postavljena.", 
+ "Settings for Accounts": "Postavke za ra\u010dune"
+}

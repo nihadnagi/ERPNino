@@ -1,0 +1,23 @@
+{
+ "<a href=\"#Sales Browser/Item Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Item Group\">\u6dfb\u52a0/\u7f16\u8f91</a>", 
+ "Allow Negative Stock": "\u5141\u8bb8\u8d1f\u5e93\u5b58", 
+ "Allowance Percent": "\u6d25\u8d34\u767e\u5206\u6bd4", 
+ "Auto Material Request": "\u6c7d\u8f66\u6750\u6599\u8981\u6c42", 
+ "Default Item Group": "\u9ed8\u8ba4\u9879\u76ee\u7ec4", 
+ "Default Stock UOM": "\u9ed8\u8ba4\u7684\u5e93\u5b58\u8ba1\u91cf\u5355\u4f4d", 
+ "Default Valuation Method": "\u9ed8\u8ba4\u7684\u4f30\u503c\u65b9\u6cd5", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "\u51bb\u7ed3\u5e93\u5b58\u6761\u76ee", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Naming By": "\u4ea7\u54c1\u547d\u540d\u89c4\u5219", 
+ "Moving Average": "\u79fb\u52a8\u5e73\u5747\u7ebf", 
+ "Naming Series": "\u547d\u540d\u7cfb\u5217", 
+ "Notify by Email on creation of automatic Material Request": "\u5728\u521b\u5efa\u81ea\u52a8\u6750\u6599\u901a\u77e5\u8981\u6c42\u901a\u8fc7\u7535\u5b50\u90ae\u4ef6", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "\u767e\u5206\u6bd4\u4f60\u88ab\u5141\u8bb8\u63a5\u6536\u6216\u4f20\u9012\u66f4\u591a\u9488\u5bf9\u8ba2\u8d2d\u7684\u6570\u91cf\u3002\u4f8b\u5982\uff1a\u5982\u679c\u60a8\u8ba2\u8d2d100\u4e2a\u5355\u4f4d\u3002\u548c\u4f60\u7684\u6d25\u8d34\u662f10\uff05\uff0c\u90a3\u4e48\u4f60\u88ab\u5141\u8bb8\u63a5\u6536110\u4e2a\u5355\u4f4d\u3002", 
+ "Raise Material Request when stock reaches re-order level": "\u63d0\u9ad8\u6750\u6599\u65f6\uff0c\u7533\u8bf7\u80a1\u7968\u8fbe\u5230\u518d\u8ba2\u8d2d\u6c34\u5e73", 
+ "Role Allowed to edit frozen stock": "\u89d2\u8272\u53ef\u4ee5\u7f16\u8f91\u51bb\u7ed3\u80a1\u7968", 
+ "Settings": "\u8bbe\u7f6e", 
+ "Stock": "\u80a1\u7968", 
+ "Stock Frozen Upto": "\u80a1\u7968\u51bb\u7ed3\u5230...\u4e3a\u6b62", 
+ "Stock Settings": "\u80a1\u7968\u8bbe\u7f6e"
+}

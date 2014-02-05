@@ -1,0 +1,8 @@
+{
+ " against sales order": "\u5bf9\u9500\u552e\u8ba2\u5355", 
+ " will be ": "\u5c06", 
+ "Please reduce qty.": "\u8bf7\u51cf\u5c11\u6570\u91cf\u3002", 
+ "Total production order qty for item": "\u603b\u751f\u4ea7\u91cf\u7684\u9879\u76ee", 
+ "WIP Warehouse required before Submit": "\u63d0\u4ea4\u6240\u9700WIP\u4ed3\u5e93\u524d", 
+ "which is greater than sales order qty ": "\u8fd9\u662f\u5927\u4e8e\u9500\u552e\u8ba2\u5355\u6570\u91cf"
+}

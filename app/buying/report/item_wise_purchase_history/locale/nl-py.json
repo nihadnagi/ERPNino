@@ -1,0 +1,15 @@
+{
+ "Amount": "Bedrag", 
+ "Description": "Beschrijving", 
+ "Item Code": "Artikelcode", 
+ "Item Name": "Naam van het punt", 
+ "Item-wise Purchase History": "Post-wise Aankoop Geschiedenis", 
+ "Project": "Project", 
+ "Purchase Order": "Purchase Order", 
+ "Qty": "Aantal", 
+ "Rate": "Tarief", 
+ "Received Qty": "Ontvangen Aantal", 
+ "Supplier": "Leverancier", 
+ "Transaction Date": "Transactie Datum", 
+ "UOM": "Verpakking"
+}

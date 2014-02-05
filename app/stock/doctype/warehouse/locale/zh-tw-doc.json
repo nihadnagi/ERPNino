@@ -1,0 +1,23 @@
+{
+ "A logical Warehouse against which stock entries are made.": "\u4e00\u500b\u5408\u4e4e\u908f\u8f2f\u7684\u5009\u5eab\u62b5\u92b7\u80a1\u7968\u689d\u76ee\u9032\u884c\u3002", 
+ "Account for the warehouse (Perpetual Inventory) will be created under this Account.": "\u8cec\u6236\u5009\u5eab\uff08\u6c38\u7e8c\u76e4\u5b58\uff09\u5c07\u5728\u8a72\u5e33\u6236\u4e0b\u5275\u5efa\u3002", 
+ "Address Line 1": "\u5730\u5740\u884c1", 
+ "Address Line 2": "\u5730\u5740\u884c2", 
+ "Allow For Users": "\u5141\u8a31\u7528\u6236", 
+ "City": "\u57ce\u5e02", 
+ "Company": "\u516c\u53f8", 
+ "Email Id": "\u96fb\u5b50\u90f5\u4ef6Id", 
+ "For Reference Only.": "\u50c5\u4f9b\u53c3\u8003\u3002", 
+ "If set, data entry is only allowed for specified users. Else, entry is allowed for all users with requisite permissions.": "\u5982\u679c\u8a2d\u7f6e\uff0c\u6578\u64da\u8f38\u5165\u53ea\u5141\u8a31\u6307\u5b9a\u7684\u7528\u6236\u3002\u5426\u5247\uff0c\u689d\u76ee\u5141\u8a31\u5177\u5099\u5fc5\u8981\u6b0a\u9650\u7684\u6240\u6709\u7528\u6236\u3002", 
+ "Mobile No": "\u624b\u6a5f\u865f\u78bc", 
+ "PIN": "\u5bc6\u78bc", 
+ "Parent Account": "\u7236\u5e33\u6236", 
+ "Phone No": "\u96fb\u8a71\u865f\u78bc", 
+ "State": "\u614b", 
+ "Stock": "\u80a1\u7968", 
+ "Warehouse": "\u5009\u5eab", 
+ "Warehouse Contact Info": "\u5009\u5eab\u806f\u7e6b\u65b9\u5f0f", 
+ "Warehouse Detail": "\u5009\u5eab\u7684\u8a73\u7d30\u4fe1\u606f", 
+ "Warehouse Name": "\u5009\u5eab\u540d\u7a31", 
+ "Warehouse Users": "\u5009\u5eab\u7528\u6236"
+}

@@ -1,0 +1,17 @@
+{
+ "Account": "Conto", 
+ "Against Account": "Previsione Conto", 
+ "Company": "Azienda", 
+ "Credit": "Credit", 
+ "Debit": "Debito", 
+ "From Date": "Da Data", 
+ "From Date must be before To Date": "Da Data deve essere prima di A Data", 
+ "General Ledger": "Libro mastro generale", 
+ "Posting Date": "Data di registrazione", 
+ "Refresh": "Refresh", 
+ "Remarks": "Osservazioni", 
+ "To": "A", 
+ "To Date": "Di sesso", 
+ "Voucher No": "Voucher No", 
+ "Voucher Type": "Voucher Tipo"
+}

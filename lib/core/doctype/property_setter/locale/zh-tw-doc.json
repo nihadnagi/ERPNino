@@ -1,0 +1,16 @@
+{
+ "Core": "\u6838\u5fc3", 
+ "Default Value": "\u9ed8\u8a8d\u503c", 
+ "DocField": "DocField", 
+ "DocType": "\u7684DocType", 
+ "DocType or Field": "\u7684DocType\u6216\u73fe\u5834", 
+ "Field Name": "\u5b57\u6bb5\u540d\u7a31", 
+ "Help": "\u5e6b\u52a9", 
+ "ID (name) of the entity whose property is to be set": "\u5176\u5c6c\u6027\u662f\u8981\u8a2d\u7f6e\u7684\u5be6\u9ad4\u7684ID\uff08\u540d\u7a31\uff09", 
+ "New value to be set": "\u65b0\u7684\u503c\u88ab\u8a2d\u7f6e", 
+ "Property": "\u5c6c\u6027", 
+ "Property Setter": "\u5c6c\u6027setter", 
+ "Property Setter overrides a standard DocType or Field property": "\u5c6c\u6027setter\u8986\u84cb\u4e00\u500b\u6a19\u6e96\u7684DocType\u6216Field\u5c6c\u6027", 
+ "Property Type": "\u7269\u696d\u985e\u578b", 
+ "Set Value": "\u8a2d\u5b9a\u503c"
+}

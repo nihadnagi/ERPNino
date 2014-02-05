@@ -1,0 +1,15 @@
+{
+ "Customer Group": "Gruppo Cliente", 
+ "Customer Group Name": "Nome Gruppo Cliente", 
+ "Default Price List": "Listino Prezzi Predefinito", 
+ "Has Child Node": "Ha un Nodo Figlio", 
+ "No": "No", 
+ "Only leaf nodes are allowed in transaction": "Solo i nodi foglia sono ammessi nelle transazioni", 
+ "Parent Customer Group": "Parent Gruppo clienti", 
+ "Setup": "Setup", 
+ "Trash Reason": "Trash Motivo", 
+ "Yes": "S\u00ec", 
+ "lft": "LFT", 
+ "old_parent": "old_parent", 
+ "rgt": "rgt"
+}

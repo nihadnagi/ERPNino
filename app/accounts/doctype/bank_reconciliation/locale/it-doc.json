@@ -1,0 +1,13 @@
+{
+ "Accounts": "Conti", 
+ "Bank Account": "Conto Banca", 
+ "Bank Reconciliation": "Conciliazione Banca", 
+ "Company": "Azienda", 
+ "Entries": "Voci", 
+ "From Date": "Da Data", 
+ "Get Non Reconciled Entries": "Prendi le voci non riconciliate", 
+ "Select account head of the bank where cheque was deposited.": "Selezionare conto capo della banca in cui assegno \u00e8 stato depositato.", 
+ "To Date": "Di sesso", 
+ "Total Amount": "Totale Importo", 
+ "Update Clearance Date": "Aggiornare Liquidazione Data"
+}

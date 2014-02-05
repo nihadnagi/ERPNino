@@ -1,0 +1,23 @@
+{
+ "<a href=\"#Sales Browser/Territory\">Add / Edit</a>": "<a href=\"#Sales Browser/Territory\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Accounts": "\u8cec\u6236", 
+ "Cash/Bank Account": "\u73fe\u91d1/\u9280\u884c\u8cec\u6236", 
+ "Charge": "\u6536\u8cbb", 
+ "Company": "\u516c\u53f8", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Create Stock Ledger Entries when you submit a Sales Invoice": "\u5275\u5efa\u5eab\u5b58\u7e3d\u5e33\u689d\u76ee\u7576\u60a8\u63d0\u4ea4\u92b7\u552e\u767c\u7968", 
+ "Currency": "\u8ca8\u5e63", 
+ "Customer": "\u9867\u5ba2", 
+ "Expense Account": "\u8cbb\u7528\u5e33\u6236", 
+ "Income Account": "\u6536\u5165\u8cec\u6236", 
+ "Letter Head": "\u4fe1\u982d", 
+ "POS Setting": "POS\u6a5f\u8a2d\u7f6e", 
+ "Price List": "\u50f9\u683c\u8868", 
+ "Print Heading": "\u6253\u5370\u6a19\u984c", 
+ "Series": "\u7cfb\u5217", 
+ "Terms and Conditions": "\u689d\u6b3e\u548c\u689d\u4ef6", 
+ "Territory": "\u9818\u571f", 
+ "Update Stock": "\u5eab\u5b58\u66f4\u65b0", 
+ "User": "\u7528\u6236", 
+ "Warehouse": "\u5009\u5eab"
+}

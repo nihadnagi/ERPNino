@@ -1,0 +1,14 @@
+{
+ "**Currency** Master": "*\u8d27\u5e01**\u5927\u5e08", 
+ "A symbol for this currency. For e.g. $": "\u7b26\u53f7\u7684\u8fd9\u79cd\u8d27\u5e01\u3002\u5bf9\u4e8e\u5982$", 
+ "Currency": "\u8d27\u5e01", 
+ "Currency Name": "\u8d27\u5e01\u540d\u79f0", 
+ "Enabled": "\u542f\u7528", 
+ "Fraction": "\u5206\u6570", 
+ "Fraction Units": "\u90e8\u5206\u5355\u4f4d", 
+ "How should this currency be formatted? If not set, will use system defaults": "\u5e94\u5982\u4f55\u8d27\u5e01\u8fdb\u884c\u683c\u5f0f\u5316\uff1f\u5982\u679c\u6ca1\u6709\u8bbe\u7f6e\uff0c\u5c06\u4f7f\u7528\u7cfb\u7edf\u9ed8\u8ba4", 
+ "Number Format": "\u6570\u5b57\u683c\u5f0f", 
+ "Setup": "\u8bbe\u7f6e", 
+ "Sub-currency. For e.g. \"Cent\"": "\u5b50\u8d27\u5e01\u3002\u5bf9\u4e8e\u5982\u201c\u7f8e\u5206\u201d", 
+ "Symbol": "\u7b26\u53f7"
+}

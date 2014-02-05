@@ -1,0 +1,17 @@
+{
+ "Allow Attach": "\u5141\u8a31\u9023\u63a5", 
+ "Core": "\u6838\u5fc3", 
+ "Customize Form": "\u81ea\u5b9a\u7fa9\u8868\u55ae", 
+ "Customize Label, Print Hide, Default etc.": "\u81ea\u5b9a\u7fa9\u6a19\u7c64\uff0c\u6253\u5370\u96b1\u85cf\uff0c\u9ed8\u8a8d\u503c\u7b49\u3002", 
+ "Default Print Format": "\u9ed8\u8a8d\u6253\u5370\u683c\u5f0f", 
+ "Enter Form Type": "\u8f38\u5165\u8868\u55ae\u985e\u578b", 
+ "Fields": "\u9818\u57df", 
+ "Fields separated by comma (,) will be included in the<br /><b>Search By</b> list of Search dialog box": "\u5b57\u6bb5\u7528\u9017\u865f\uff08\uff0c\uff09\u5206\u9694\u5c07\u88ab\u7d0d\u5165<br /> <b>\u641c\u7d22</b>\u7684\u641c\u7d22\u5c0d\u8a71\u6846\u5217\u8868", 
+ "Hide Copy": "\u96b1\u85cf\u526f\u672c", 
+ "Hide Email": "\u96b1\u85cf\u96fb\u5b50\u90f5\u4ef6", 
+ "Hide Print": "\u96b1\u85cf\u6253\u5370", 
+ "Max Attachments": "\u6700\u5927\u9644\u4ef6", 
+ "Note: maximum attachment size = 1mb": "\u6ce8\uff1a\u9644\u4ef6\u5927\u5c0f\u4e0a\u9650= 1MB", 
+ "Properties": "\u5c6c\u6027", 
+ "Search Fields": "\u641c\u7d22\u5b57\u6bb5"
+}

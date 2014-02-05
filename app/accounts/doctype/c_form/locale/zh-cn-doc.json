@@ -1,0 +1,21 @@
+{
+ "Accounts": "\u8d26\u6237", 
+ "Amended From": "\u4ece\u4fee\u8ba2", 
+ "C-FORM/": "C-FORM /", 
+ "C-Form": "C-\u8868", 
+ "C-Form No": "C-\u8868\u683c\u7f16\u53f7", 
+ "Company": "\u516c\u53f8", 
+ "Customer": "\u987e\u5ba2", 
+ "Fiscal Year": "\u8d22\u653f\u5e74\u5ea6", 
+ "I": "\u6211", 
+ "II": "\u4e8c", 
+ "III": "\u4e09", 
+ "IV": "\u56db", 
+ "Invoice Details": "\u53d1\u7968\u660e\u7ec6", 
+ "Quarter": "\u5b63", 
+ "Received Date": "\u6536\u7a3f\u65e5\u671f", 
+ "Series": "\u7cfb\u5217", 
+ "State": "\u6001", 
+ "Total Amount": "\u603b\u91d1\u989d", 
+ "Total Invoiced Amount": "\u53d1\u7968\u603b\u91d1\u989d"
+}

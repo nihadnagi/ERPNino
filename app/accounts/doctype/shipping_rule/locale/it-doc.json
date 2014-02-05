@@ -1,0 +1,16 @@
+{
+ "Accounts": "Conti", 
+ "Calculate Based On": "Calcola in base a", 
+ "Company": "Azienda", 
+ "Cost Center": "Centro di Costo", 
+ "Net Total": "Total Net", 
+ "Net Weight": "Peso netto", 
+ "Shipping Account": "Account Spedizione", 
+ "Shipping Rule": "Spedizione Rule", 
+ "Shipping Rule Conditions": "Spedizione condizioni regola", 
+ "Shipping Rule Label": "Spedizione Etichetta Regola", 
+ "Specify a list of Territories, for which, this Shipping Rule is valid": "Specifica una lista di territori, per la quale, questa regola di trasporto \u00e8 valido", 
+ "Specify conditions to calculate shipping amount": "Specificare le condizioni per il calcolo dell&#39;importo di spedizione", 
+ "Valid For Territories": "Valido per i territori", 
+ "example: Next Day Shipping": "esempio: Next Day spedizione"
+}

@@ -1,0 +1,14 @@
+{
+ "Amount": "Bedrag", 
+ "Customer": "Klant", 
+ "Date": "Datum", 
+ "Delivered Qty": "Geleverd Aantal", 
+ "Description": "Beschrijving", 
+ "Expected Delivery Date": "Verwachte leverdatum", 
+ "Item": "Item", 
+ "Item Group": "Item Group", 
+ "Item Name": "Naam van het punt", 
+ "Ordered Items To Be Delivered": "Besteld te leveren zaken", 
+ "Qty": "Aantal", 
+ "Sales Order": "Verkooporder"
+}

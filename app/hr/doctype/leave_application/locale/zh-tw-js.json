@@ -1,0 +1,9 @@
+{
+ "Fill the form and save it": "\u586b\u5beb\u8868\u683c\uff0c\u4e26\u5c07\u5176\u4fdd\u5b58", 
+ "Leave application has been approved.": "\u4f11\u5047\u7533\u8acb\u5df2\u88ab\u6279\u51c6\u3002", 
+ "Leave application has been rejected.": "\u4f11\u5047\u7533\u8acb\u5df2\u88ab\u62d2\u7d55\u3002", 
+ "Please submit to update Leave Balance.": "\u8acb\u63d0\u4ea4\u66f4\u65b0\u4f11\u5047\u9918\u984d\u3002", 
+ "This Leave Application is pending approval. Only the Leave Apporver can update status.": "\u9019\u500b\u5047\u671f\u7533\u8acb\u6b63\u5728\u7b49\u5f85\u6279\u51c6\u3002\u53ea\u6709\u96e2\u958bApporver\u53ef\u4ee5\u66f4\u65b0\u72c0\u614b\u3002", 
+ "To Date should be same as From Date for Half Day leave": "\u65e5\u671f\u61c9\u8a72\u662f\u4e00\u6a23\u7684\u8d77\u59cb\u65e5\u671f\u70ba\u534a\u5929\u5047", 
+ "You are the Leave Approver for this record. Please Update the 'Status' and Save": "\u60a8\u662f\u7b2c\u4f11\u5047\u5be9\u6279\u6b64\u8a18\u9304\u3002\u8acb\u66f4\u65b0\u201c\u72c0\u614b\u201d\u4e26\u4fdd\u5b58"
+}

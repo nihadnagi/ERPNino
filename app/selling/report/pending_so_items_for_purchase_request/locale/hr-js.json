@@ -1,0 +1,9 @@
+{
+ "Customer": "Kupac", 
+ "Date": "Datum", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Material Request": "Materijal zahtjev", 
+ "Pending SO Items For Purchase Request": "Otvorena SO Proizvodi za zahtjev za kupnju"
+}

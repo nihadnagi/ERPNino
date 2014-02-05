@@ -1,0 +1,14 @@
+{
+ "Amount": "Cantidad", 
+ "Customer": "Cliente", 
+ "Date": "Fecha", 
+ "Delivered Qty": "Cantidad Entregada", 
+ "Description": "Descripci\u00f3n", 
+ "Expected Delivery Date": "Fecha prevista de entrega", 
+ "Item": "Art\u00edculo", 
+ "Item Group": "Grupo de art\u00edculos", 
+ "Item Name": "Nombre del elemento", 
+ "Ordered Items To Be Delivered": "Los art\u00edculos pedidos para ser entregados", 
+ "Qty": "Cantidad", 
+ "Sales Order": "De \u00f3rdenes de venta"
+}

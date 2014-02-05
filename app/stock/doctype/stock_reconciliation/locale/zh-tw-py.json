@@ -1,0 +1,9 @@
+{
+ " at warehouse: ": "\u5728\u5009\u5eab\uff1a", 
+ "As existing qty for item: ": "\u81f3\u65bc\u9805\u76ee\u73fe\u6709\u6578\u91cf\uff1a", 
+ "Please enter Cost Center": "\u8acb\u8f38\u5165\u6210\u672c\u4e2d\u5fc3", 
+ "Please enter Expense Account": "\u8acb\u8f38\u5165\u60a8\u7684\u8cbb\u7528\u5e33\u6236", 
+ "Row # ": "\u884c\uff03", 
+ "Serialized Item: '": "\u5e8f\u5217\u5316\u7684\u9805\u76ee\uff1a&#39;", 
+ "Wrong Template: Unable to find head row.": "\u932f\u8aa4\u7684\u6a21\u677f\uff1a\u627e\u4e0d\u5230\u982d\u6392\u3002"
+}

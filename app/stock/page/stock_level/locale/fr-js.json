@@ -1,0 +1,15 @@
+{
+ "Actual Qty": "Quantit\u00e9 r\u00e9elle", 
+ "Brand": "Marque", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Name": "Nom d&#39;article", 
+ "Planned Qty": "Quantit\u00e9 planifi\u00e9e", 
+ "Projected Qty": "Qt\u00e9 projet\u00e9", 
+ "Re-Order Level": "Re-Order niveau", 
+ "Re-Order Qty": "Re-Cdt", 
+ "Refresh": "Rafra\u00eechir", 
+ "Stock Level": "Niveau de stock", 
+ "UOM": "Emballage", 
+ "Warehouse": "Entrep\u00f4t"
+}

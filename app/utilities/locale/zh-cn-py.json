@@ -1,0 +1,9 @@
+{
+ ": Duplicate row from same ": "\uff1a\u4ece\u76f8\u540c\u7684\u91cd\u590d\u884c", 
+ "For UOM": "\u5bf9\u4e8e\u8ba1\u91cf\u5355\u4f4d", 
+ "In Row": "\u5728\u6392", 
+ "Please specify Company": "\u8bf7\u6ce8\u660e\u516c\u53f8", 
+ "Quantity cannot be a fraction.": "\u91cf\u4e0d\u80fd\u662f\u4e00\u5c0f\u90e8\u5206\u3002", 
+ "Row ": "\u6392", 
+ "Status must be one of ": "\u72b6\u6001\u5fc5\u987b\u4e3a\u4e4b\u4e00"
+}

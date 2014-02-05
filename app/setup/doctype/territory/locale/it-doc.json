@@ -1,0 +1,22 @@
+{
+ "Classification of Customers by region": "Classificazione Clienti per Regione", 
+ "For reference": "Per riferimento", 
+ "Has Child Node": "Ha un Nodo Figlio", 
+ "No": "No", 
+ "Only leaf nodes are allowed in transaction": "Solo i nodi foglia sono ammessi nelle transazioni", 
+ "Parent Territory": "Territorio genitore", 
+ "Select Budget Distribution to unevenly distribute targets across months.": "Selezionare Budget Distribution per distribuire uniformemente gli obiettivi in \u200b\u200btutta mesi.", 
+ "Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution.": "Impostare la voce del budget di Gruppo-saggi su questo territorio. \u00c8 inoltre possibile includere la stagionalit\u00e0 impostando la distribuzione.", 
+ "Setup": "Setup", 
+ "Target Details": "Dettagli di destinazione", 
+ "Target Distribution": "Distribuzione di destinazione", 
+ "Territory": "Territorio", 
+ "Territory Manager": "Territory Manager", 
+ "Territory Name": "Territorio Nome", 
+ "Territory Targets": "Obiettivi Territorio", 
+ "Trash Reason": "Trash Motivo", 
+ "Yes": "S\u00ec", 
+ "lft": "LFT", 
+ "old_parent": "old_parent", 
+ "rgt": "rgt"
+}

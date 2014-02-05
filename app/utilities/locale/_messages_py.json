@@ -1,0 +1,10 @@
+[
+ "Status must be one of ", 
+ "Row ", 
+ "%(conversion_rate_label)s is mandatory. Maybe Currency Exchange \\\n\t\t\trecord is not created for %(from_currency)s to %(to_currency)s", 
+ "Please specify Company", 
+ "In Row", 
+ ": Duplicate row from same ", 
+ "Quantity cannot be a fraction.", 
+ "For UOM"
+]

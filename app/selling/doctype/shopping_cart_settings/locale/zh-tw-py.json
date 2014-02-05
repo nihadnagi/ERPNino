@@ -1,0 +1,8 @@
+{
+ "Currency is missing for Price List": "\u8ca8\u5e63\u662f\u7f3a\u5c11\u50f9\u683c\u8868", 
+ "Error for": "\u932f\u8aa4", 
+ "Missing Currency Exchange Rates for": "\u7f3a\u5c11\u8ca8\u5e63\u532f\u7387", 
+ "Please specify a Price List which is valid for Territory": "\u8acb\u6307\u5b9a\u4e00\u500b\u50f9\u683c\u8868\uff0c\u6709\u6548\u671f\u70ba\u9818\u5730", 
+ "Please specify currency in Company": "\u8acb\u516c\u53f8\u6307\u5b9a\u7684\u8ca8\u5e63", 
+ "have a common territory": "\u6709\u4e00\u500b\u5171\u540c\u7684\u9818\u571f"
+}

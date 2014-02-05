@@ -1,0 +1,17 @@
+{
+ "BOM": "BOM", 
+ "Do you really want to STOP this Material Request?": "\u4f60\u771f\u7684\u8981\u505c\u6b62\u8fd9\u79cd\u6750\u6599\u8981\u6c42\uff1f", 
+ "Do you really want to UNSTOP this Material Request?": "\u96be\u9053\u4f60\u771f\u7684\u60f3\u8981UNSTOP\u6b64\u6750\u6599\u8981\u6c42\uff1f", 
+ "Fetch exploded BOM (including sub-assemblies)": "\u53d6\u7206\u70b8BOM\uff08\u5305\u62ec\u5b50\u7ec4\u4ef6\uff09", 
+ "From Sales Order": "\u4ece\u9500\u552e\u8ba2\u5355", 
+ "Fulfilled": "\u9002\u5408", 
+ "Get Items from BOM": "\u83b7\u53d6\u9879\u76ee\u4ece\u7269\u6599\u6e05\u5355", 
+ "Make Purchase Order": "\u505a\u91c7\u8d2d\u8ba2\u5355", 
+ "Make Supplier Quotation": "\u8ba9\u4f9b\u5e94\u5546\u62a5\u4ef7", 
+ "Send SMS": "\u53d1\u9001\u77ed\u4fe1", 
+ "Stop Material Request": "\u505c\u6b62\u6750\u6599\u8981\u6c42", 
+ "Stopped": "\u505c\u6b62", 
+ "Transfer Material": "\u8f6c\u5370\u6750\u6599", 
+ "Unstop Material Request": "Unstop\u6750\u6599\u8981\u6c42", 
+ "Warning: Material Requested Qty is less than Minimum Order Qty": "\u8b66\u544a\uff1a\u6750\u6599\u8981\u6c42\u7684\u6570\u91cf\u4f4e\u4e8e\u6700\u4f4e\u8d77\u8ba2\u91cf"
+}

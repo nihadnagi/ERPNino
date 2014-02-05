@@ -1,0 +1,10 @@
+{
+ "* Will be calculated in the transaction.": "* Se calcula de la transacci\u00f3n.", 
+ "Accounts": "Cuentas", 
+ "Company": "Empresa", 
+ "Default": "Defecto", 
+ "Sales Taxes and Charges Master": "Impuestos de Ventas y Master Cargos", 
+ "Specify a list of Territories, for which, this Taxes Master is valid": "Especifica una lista de los territorios, para lo cual, este Impuestos Master es v\u00e1lida", 
+ "Title": "T\u00edtulo", 
+ "Valid for Territories": "V\u00e1lido para los territorios"
+}

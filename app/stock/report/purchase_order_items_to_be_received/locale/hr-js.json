@@ -1,0 +1,13 @@
+{
+ "Brand": "Marka", 
+ "Date": "Datum", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Purchase Order": "Narud\u017ebenica", 
+ "Purchase Order Items To Be Received": "Narud\u017ebenica Proizvodi treba primiti", 
+ "Qty": "Kol", 
+ "Received Qty": "Pozicija Kol", 
+ "Supplier": "Dobavlja\u010d", 
+ "Warehouse": "Skladi\u0161te"
+}

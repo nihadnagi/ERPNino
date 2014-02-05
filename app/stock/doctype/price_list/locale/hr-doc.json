@@ -1,0 +1,12 @@
+{
+ "Buying": "Kupovina", 
+ "Currency": "Valuta", 
+ "Price List": "Cjenik", 
+ "Price List Master": "Cjenik Master", 
+ "Price List Name": "Cjenik Ime", 
+ "Selling": "Prodaja", 
+ "Specify a list of Territories, for which, this Price List is valid": "Navedite popis teritorijima, za koje, ovom cjeniku vrijedi", 
+ "Stock": "Zaliha", 
+ "Valid for Buying or Selling?": "Vrijedi za kupnju ili prodaju?", 
+ "Valid for Territories": "Vrijedi za teritorijima"
+}

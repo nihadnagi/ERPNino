@@ -1,0 +1,13 @@
+{
+ "Accounts": "\u8cec\u6236", 
+ "Bank Account": "\u9280\u884c\u5e33\u6236", 
+ "Bank Reconciliation": "\u9280\u884c\u5c0d\u5e33", 
+ "Company": "\u516c\u53f8", 
+ "Entries": "\u9805", 
+ "From Date": "\u5f9e\u65e5\u671f", 
+ "Get Non Reconciled Entries": "\u7372\u53d6\u975e\u5c0d\u5e33\u9805\u76ee", 
+ "Select account head of the bank where cheque was deposited.": "\u9078\u53d6\u652f\u7968\u5b58\u5165\u8a72\u9280\u884c\u8cec\u6236\u7684\u982d\u3002", 
+ "To Date": "\u81f3\u4eca", 
+ "Total Amount": "\u7e3d\u91d1\u984d", 
+ "Update Clearance Date": "\u66f4\u65b0\u65e5\u671f\u9593\u9699"
+}

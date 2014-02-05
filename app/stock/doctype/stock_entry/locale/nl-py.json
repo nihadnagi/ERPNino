@@ -1,0 +1,19 @@
+{
+ " or the BOM is cancelled or inactive": "of de BOM wordt geannuleerd of inactief", 
+ "Atleast one warehouse is mandatory": "Tenminste een magazijn is verplicht", 
+ "Item": "Item", 
+ "Material Request": "Materiaal aanvragen", 
+ "Only Stock Items are allowed for Stock Entry": "Alleen Stock Items zijn toegestaan \u200b\u200bvoor Stock Entry", 
+ "Posting Date Time cannot be before": "Posting Datum Tijd kan niet voor", 
+ "Production Order": "Productieorder", 
+ "Purpose must be one of ": "Doel moet zijn een van", 
+ "Quantity should be equal to Manufacturing Quantity. ": "Hoeveelheid moet gelijk zijn aan Manufacturing Hoeveelheid.", 
+ "Row #": "Rij #", 
+ "Row # ": "Rij #", 
+ "Source Warehouse": "Bron Warehouse", 
+ "Source and Target Warehouse cannot be same": "Bron-en Warehouse kan niet hetzelfde zijn", 
+ "Status should be Submitted": "Status moeten worden ingediend", 
+ "Target Warehouse": "Target Warehouse", 
+ "Update Stock should be checked.": "Update Stock moeten worden gecontroleerd.", 
+ "does not belong to BOM: ": "behoort niet tot BOM:"
+}

@@ -1,0 +1,9 @@
+{
+ "Customer": "Cliente", 
+ "Date": "Fecha", 
+ "Description": "Descripci\u00f3n", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Material Request": "Material de Solicitud", 
+ "Pending SO Items For Purchase Request": "Temas pendientes por lo que para Solicitud de Compra"
+}

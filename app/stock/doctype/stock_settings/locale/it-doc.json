@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Consentire Magazzino Negativo", 
+ "Allowance Percent": "Tolleranza Percentuale", 
+ "Auto Material Request": "Richiesta Materiale Auto", 
+ "Default Item Group": "Gruppo elemento Predefinito", 
+ "Default Stock UOM": "Scorta UOM predefinita", 
+ "Default Valuation Method": "Metodo Valutazione Predefinito", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "Congela scorta voci", 
+ "Item Code": "Codice Articolo", 
+ "Item Naming By": "Articolo Naming By", 
+ "Moving Average": "Media mobile", 
+ "Naming Series": "Naming Series", 
+ "Notify by Email on creation of automatic Material Request": "Notifica tramite e-mail sulla creazione di Richiesta automatica Materiale", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Percentuale si \u00e8 permesso di ricevere o consegnare di pi\u00f9 contro la quantit\u00e0 ordinata. Per esempio: Se avete ordinato 100 unit\u00e0. e il vostro assegno \u00e8 10% poi si \u00e8 permesso di ricevere 110 unit\u00e0.", 
+ "Raise Material Request when stock reaches re-order level": "Sollevare Materiale Richiesta quando le azione raggiunge il livello di riordino", 
+ "Role Allowed to edit frozen stock": "Ruolo ammessi da modificare stock congelato", 
+ "Settings": "Impostazioni", 
+ "Stock": "Azione", 
+ "Stock Frozen Upto": "Archivio Congelati Fino", 
+ "Stock Settings": "Impostazioni immagini"
+}

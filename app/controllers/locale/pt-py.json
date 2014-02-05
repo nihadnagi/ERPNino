@@ -1,0 +1,18 @@
+{
+ " as it is stock Item or packing item": "como \u00e9 o estoque do item ou item de embalagem", 
+ " can not be made.": "n\u00e3o podem ser feitas.", 
+ " is mandatory": "\u00e9 obrigat\u00f3ria", 
+ " will be over-billed against mentioned ": "ser\u00e1 super-faturados contra mencionada", 
+ "Account for this ": "Conta para isso", 
+ "No default BOM exists for item: ": "N\u00e3o existe BOM padr\u00e3o para o item:", 
+ "Please enter Reserved Warehouse for item ": "Por favor insira Warehouse reservada para o item", 
+ "Please specify a valid": "Por favor, especifique um v\u00e1lido", 
+ "Row": "Linha", 
+ "Row ": "Linha", 
+ "Supplier Warehouse mandatory subcontracted purchase receipt": "Armaz\u00e9m Fornecedor obrigat\u00f3rio recibo de compra subcontratada", 
+ "Total": "Total", 
+ "cannot be greater than 100": "n\u00e3o pode ser maior do que 100", 
+ "must be one of": "deve ser um dos", 
+ "should be 100%": "deve ser de 100%", 
+ "to be included in Item's rate, it is required that: ": "para ser inclu\u00eddo na taxa do item, \u00e9 necess\u00e1rio que:"
+}

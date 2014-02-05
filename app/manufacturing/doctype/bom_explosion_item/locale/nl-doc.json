@@ -1,0 +1,11 @@
+{
+ "Amount": "Bedrag", 
+ "BOM Explosion Item": "BOM Explosie Item", 
+ "Description": "Beschrijving", 
+ "Item Code": "Artikelcode", 
+ "Manufacturing": "Productie", 
+ "Qty": "Aantal", 
+ "Qty Consumed Per Unit": "Aantal verbruikt per eenheid", 
+ "Rate": "Tarief", 
+ "Stock UOM": "Stock Verpakking"
+}

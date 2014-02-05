@@ -1,0 +1,18 @@
+{
+ "ATT": "ATT", 
+ "Absent": "\u7f3a\u5e2d", 
+ "Amended From": "\u5f9e\u4fee\u8a02", 
+ "Attendance": "\u8b77\u7406", 
+ "Attendance Date": "\u8003\u52e4\u65e5\u671f", 
+ "Attendance Details": "\u8003\u52e4\u8a73\u60c5", 
+ "Company": "\u516c\u53f8", 
+ "Employee": "\u50f1\u54e1", 
+ "Employee Name": "\u54e1\u5de5\u59d3\u540d", 
+ "Fiscal Year": "\u8ca1\u653f\u5e74\u5ea6", 
+ "HR": "\u4eba\u529b\u8cc7\u6e90", 
+ "Half Day": "\u534a\u5929", 
+ "Leave Type": "\u96e2\u958b\u985e\u578b", 
+ "Present": "\u73fe", 
+ "Series": "\u7cfb\u5217", 
+ "Status": "\u72c0\u614b"
+}

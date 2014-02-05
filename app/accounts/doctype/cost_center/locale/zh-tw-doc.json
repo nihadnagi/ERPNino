@@ -1,0 +1,22 @@
+{
+ "Accounts": "\u8cec\u6236", 
+ "Add rows to set annual budgets on Accounts.": "\u6dfb\u52a0\u884c\u4e0a\u7684\u5e33\u6236\u8a2d\u7f6e\u5e74\u5ea6\u9810\u7b97\u3002", 
+ "Budget": "\u9810\u7b97", 
+ "Budget Details": "\u9810\u7b97\u6848\u8a73\u60c5", 
+ "Company": "\u516c\u53f8", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Cost Center Details": "\u6210\u672c\u4e2d\u5fc3\u8a73\u60c5", 
+ "Cost Center Name": "\u6210\u672c\u4e2d\u5fc3\u540d\u7a31", 
+ "Define Budget for this Cost Center. To set budget action, see <a href=\"#!List/Company\">Company Master</a>": "\u5b9a\u7fa9\u9810\u7b97\u9019\u500b\u6210\u672c\u4e2d\u5fc3\u3002\u8981\u8a2d\u7f6e\u9810\u7b97\u884c\u52d5\uff0c\u898b<a href=\"#!List/Company\">\u516c\u53f8\u4e3b</a>", 
+ "Distribution Id": "\u5206\u914d\u6a19\u8b58", 
+ "Group": "\u7d44", 
+ "Group or Ledger": "\u96c6\u5718\u6216Ledger", 
+ "Ledger": "\u840a\u5091", 
+ "Parent Cost Center": "\u7236\u6210\u672c\u4e2d\u5fc3", 
+ "Select Budget Distribution, if you want to track based on seasonality.": "\u9078\u64c7\u9810\u7b97\u5206\u914d\uff0c\u5982\u679c\u4f60\u8981\u6839\u64da\u5b63\u7bc0\u4f86\u8ddf\u8e2a\u3002", 
+ "Track separate Income and Expense for product verticals or divisions.": "\u8ddf\u8e2a\u55ae\u7368\u7684\u6536\u5165\u548c\u652f\u51fa\u9032\u884c\u7522\u54c1\u5782\u76f4\u6216\u90e8\u9580\u3002", 
+ "Trash Reason": "\u5783\u573e\u6876\u539f\u56e0", 
+ "lft": "LFT", 
+ "old_parent": "old_parent", 
+ "rgt": "RGT"
+}

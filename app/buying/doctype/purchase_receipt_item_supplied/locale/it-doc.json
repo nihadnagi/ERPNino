@@ -1,0 +1,16 @@
+{
+ "Amount": "Importo", 
+ "BOM Detail No": "DIBA Dettagli N.", 
+ "Buying": "Acquisto", 
+ "Consumed Qty": "Q.t\u00e0 Consumata", 
+ "Conversion Factor": "Fattore di Conversione", 
+ "Current Stock": "Scorta Corrente", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Purchase Receipt Item Supplied": "Acquisto Ricevuta Articolo inserito", 
+ "Rate": "Vota", 
+ "Raw Material Item Code": "Materia Codice Articolo", 
+ "Reference Name": "Nome di riferimento", 
+ "Required Qty": "Quantit\u00e0 richiesta", 
+ "Stock Uom": "UOM Archivio"
+}

@@ -1,0 +1,10 @@
+{
+ "List items that form the package.": "Voci di elenco che formano il pacchetto.", 
+ "Package Items": "Articoli della confezione", 
+ "Parent Item": "Parent Item", 
+ "Sales BOM": "BOM Vendite", 
+ "Sales BOM Item": "Vendite BOM articolo", 
+ "Sales BOM Items": "Vendite BOM Articoli", 
+ "Selling": "Vendere", 
+ "The Item that represents the Package. This Item must have \"Is Stock Item\" as \"No\" and \"Is Sales Item\" as \"Yes\"": "L&#39;articolo che rappresenta il pacchetto. Questo elemento deve avere &quot;\u00e8 Stock Item&quot; come &quot;No&quot; e &quot;Is Voce di vendita&quot; come &quot;Yes&quot;"
+}

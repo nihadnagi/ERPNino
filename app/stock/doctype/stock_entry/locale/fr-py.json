@@ -1,0 +1,19 @@
+{
+ " or the BOM is cancelled or inactive": "ou la nomenclature est annul\u00e9 ou inactif", 
+ "Atleast one warehouse is mandatory": "Atleast un entrep\u00f4t est obligatoire", 
+ "Item": "Article", 
+ "Material Request": "Demande de mat\u00e9riel", 
+ "Only Stock Items are allowed for Stock Entry": "Seuls les articles de stock sont autoris\u00e9es pour le stock d&#39;entr\u00e9e", 
+ "Posting Date Time cannot be before": "Date d&#39;affichage temps ne peut pas \u00eatre avant", 
+ "Production Order": "Ordre de fabrication", 
+ "Purpose must be one of ": "But doit \u00eatre l&#39;un des", 
+ "Quantity should be equal to Manufacturing Quantity. ": "Quantit\u00e9 devrait \u00eatre \u00e9gale \u00e0 la fabrication quantit\u00e9.", 
+ "Row #": "Row #", 
+ "Row # ": "Row #", 
+ "Source Warehouse": "Source d&#39;entrep\u00f4t", 
+ "Source and Target Warehouse cannot be same": "Source et une cible d&#39;entrep\u00f4t ne peut pas \u00eatre la m\u00eame", 
+ "Status should be Submitted": "Statut doit \u00eatre soumis", 
+ "Target Warehouse": "Cible d&#39;entrep\u00f4t", 
+ "Update Stock should be checked.": "Mise \u00e0 jour Stock doit \u00eatre v\u00e9rifi\u00e9e.", 
+ "does not belong to BOM: ": "n&#39;appartient pas \u00e0 la nomenclature:"
+}

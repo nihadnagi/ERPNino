@@ -1,0 +1,10 @@
+{
+ "Amount": "Menge", 
+ "Customer": "Kunde", 
+ "Date": "Datum", 
+ "Description": "Beschreibung", 
+ "Item": "Artikel", 
+ "Item Name": "Item Name", 
+ "Ordered Items To Be Billed": "Bestellte Artikel in Rechnung gestellt werden", 
+ "Sales Order": "Sales Order"
+}

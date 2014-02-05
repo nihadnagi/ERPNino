@@ -1,0 +1,5 @@
+{
+ "'To Case No.' cannot be less than 'From Case No.'": "\u201c\u8981\u6848\u4ef6\u7f16\u53f7\u201d\u4e0d\u80fd\u5c11\u4e8e&#39;\u4ece\u6848\u53f7\u201c", 
+ "No Items to Pack": "\u65e0\u9879\u76ee\u5305", 
+ "Please specify a valid 'From Case No.'": "\u8bf7\u6307\u5b9a\u4e00\u4e2a\u6709\u6548\u7684\u201c\u4ece\u6848\u53f7\u201d"
+}

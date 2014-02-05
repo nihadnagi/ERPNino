@@ -1,0 +1,14 @@
+{
+ "Capacity": "Hoedanigheid", 
+ "Capacity Units": "Capaciteit Units", 
+ "Description": "Beschrijving", 
+ "Hour Rate": "Uurtarief", 
+ "Hour Rate Labour": "Uurtarief Arbeid", 
+ "Manufacturing": "Productie", 
+ "Overhead": "Boven het hoofd", 
+ "Units/Hour": "Eenheden / uur", 
+ "Units/Shifts": "Eenheden / Verschuivingen", 
+ "Warehouse": "Magazijn", 
+ "Workstation": "Workstation", 
+ "Workstation Name": "Naam van werkstation"
+}

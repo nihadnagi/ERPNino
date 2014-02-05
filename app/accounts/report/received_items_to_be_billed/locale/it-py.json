@@ -1,0 +1,11 @@
+{
+ "Amount": "Importo", 
+ "Date": "Data", 
+ "Description": "Descrizione", 
+ "Item": "Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Purchase Receipt": "RICEVUTA", 
+ "Qty": "Qt\u00e0", 
+ "Received Items To Be Billed": "Oggetti ricevuti da fatturare", 
+ "Supplier": "Fornitore"
+}

@@ -1,0 +1,11 @@
+{
+ "Amount": "Montant", 
+ "Date": "Date", 
+ "Description": "Description", 
+ "Item": "Article", 
+ "Item Name": "Nom d&#39;article", 
+ "Purchase Receipt": "Achat R\u00e9ception", 
+ "Qty": "Qt\u00e9", 
+ "Received Items To Be Billed": "Articles re\u00e7us \u00e0 \u00eatre factur\u00e9", 
+ "Supplier": "Fournisseur"
+}

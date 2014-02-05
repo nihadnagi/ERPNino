@@ -1,0 +1,13 @@
+{
+ "Brand": "Marca", 
+ "Date": "Data", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Purchase Order": "Ordine di acquisto", 
+ "Purchase Order Items To Be Received": "Ordine di Acquisto Oggetti da ricevere", 
+ "Qty": "Qt\u00e0", 
+ "Received Qty": "Quantit\u00e0 ricevuta", 
+ "Supplier": "Fornitore", 
+ "Warehouse": "Magazzino"
+}

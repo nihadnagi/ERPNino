@@ -1,0 +1,14 @@
+{
+ "Amount": "Bedrag", 
+ "Description": "Beschrijving", 
+ "Issue Date": "Uitgiftedatum", 
+ "Issued Items Against Production Order": "Uitgegeven Artikelen Tegen productieorder", 
+ "Item Code": "Artikelcode", 
+ "Production Order": "Productieorder", 
+ "Qty": "Aantal", 
+ "Serial No": "Serienummer", 
+ "Source Warehouse": "Bron Warehouse", 
+ "Stock Entry": "Stock Entry", 
+ "Target Warehouse": "Target Warehouse", 
+ "UOM": "Verpakking"
+}

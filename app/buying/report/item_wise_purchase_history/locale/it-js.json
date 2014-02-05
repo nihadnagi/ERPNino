@@ -1,0 +1,15 @@
+{
+ "Amount": "Importo", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Item-wise Purchase History": "Articolo-saggio Cronologia acquisti", 
+ "Project": "Progetto", 
+ "Purchase Order": "Ordine di acquisto", 
+ "Qty": "Qt\u00e0", 
+ "Rate": "Vota", 
+ "Received Qty": "Quantit\u00e0 ricevuta", 
+ "Supplier": "Fornitore", 
+ "Transaction Date": "Transaction Data", 
+ "UOM": "UOM"
+}

@@ -1,0 +1,12 @@
+{
+ " (Half Day)": "(Halve dag)", 
+ "Cannot approve leave as you are not authorized to approve leaves on Block Dates.": "Kan niet goedkeuren verlaten als je bent niet gemachtigd om bladeren op Block Dates.", 
+ "For Employee": "Uitvoeringsinstituut Werknemersverzekeringen", 
+ "Holiday": "Feestdag", 
+ "Leave Application": "Verlofaanvraag", 
+ "Leave Approver can be one of": "Vertrekken Fiatteur kan een van", 
+ "Leave Blocked": "Laat Geblokkeerde", 
+ "New Leave Application": "Nieuwe verlofaanvraag", 
+ "Warning: Leave application contains following block dates": "Waarschuwing: Verlof applicatie bevat volgende blok data", 
+ "does not have role 'Leave Approver'": "heeft geen rol &#39;Leave Approver&#39;"
+}

@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Lassen Negative Lager", 
+ "Allowance Percent": "Allowance Prozent", 
+ "Auto Material Request": "Auto Werkstoff anfordern", 
+ "Default Item Group": "Standard Element Gruppe", 
+ "Default Stock UOM": "Standard Lager UOM", 
+ "Default Valuation Method": "Standard Valuation Method", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "Frieren Lager Eintr\u00e4ge", 
+ "Item Code": "Item Code", 
+ "Item Naming By": "Artikel Benennen von", 
+ "Moving Average": "Moving Average", 
+ "Naming Series": "Benennen Series", 
+ "Notify by Email on creation of automatic Material Request": "Benachrichtigen Sie per E-Mail bei der Erstellung von automatischen Werkstoff anfordern", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Prozentual Sie erlaubt zu empfangen oder zu liefern, mehr gegen die Menge bestellt werden. Zum Beispiel: Wenn Sie 100 Einheiten bestellt. und Ihre Allowance ist 10%, dann d\u00fcrfen Sie 110 Einheiten erhalten.", 
+ "Raise Material Request when stock reaches re-order level": "Heben Anfrage Material erreicht, wenn der Vorrat re-order-Ebene", 
+ "Role Allowed to edit frozen stock": "Rolle erlaubt den gefrorenen bearbeiten", 
+ "Settings": "Einstellungen", 
+ "Stock": "Lager", 
+ "Stock Frozen Upto": "Lager Bis gefroren", 
+ "Stock Settings": "Auf Einstellungen"
+}

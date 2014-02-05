@@ -1,0 +1,18 @@
+{
+ " as it is stock Item or packing item": "ya que es la acci\u00f3n del art\u00edculo o elemento de embalaje", 
+ " can not be made.": "no puede ser hecho.", 
+ " is mandatory": "es obligatorio", 
+ " will be over-billed against mentioned ": "sobre-ser\u00e1 facturado contra la mencionada", 
+ "Account for this ": "Cuenta para este", 
+ "No default BOM exists for item: ": "No existe una lista de materiales por defecto para el art\u00edculo:", 
+ "Please enter Reserved Warehouse for item ": "Introduce Almac\u00e9n reservada para concepto", 
+ "Please specify a valid": "Por favor, especifique una direcci\u00f3n v\u00e1lida", 
+ "Row": "Fila", 
+ "Row ": "Fila", 
+ "Supplier Warehouse mandatory subcontracted purchase receipt": "Dep\u00f3sito obligatorio recibo de compra del proveedor subcontratado", 
+ "Total": "Total", 
+ "cannot be greater than 100": "no puede ser mayor que 100", 
+ "must be one of": "debe ser uno de los", 
+ "should be 100%": "debe ser 100%", 
+ "to be included in Item's rate, it is required that: ": "para ser incluido en la tarifa del art\u00edculo, se requiere que:"
+}

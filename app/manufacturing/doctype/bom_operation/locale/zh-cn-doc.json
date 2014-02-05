@@ -1,0 +1,10 @@
+{
+ "BOM Operation": "BOM\u7684\u64cd\u4f5c", 
+ "Hour Rate": "\u5c0f\u65f6\u7387", 
+ "Manufacturing": "\u5236\u9020\u4e1a", 
+ "Operating Cost": "\u8425\u4e1a\u6210\u672c", 
+ "Operation Description": "\u64cd\u4f5c\u8bf4\u660e", 
+ "Operation No": "\u64cd\u4f5c\u65e0", 
+ "Operation Time (mins)": "\u64cd\u4f5c\u65f6\u95f4\uff08\u5206\u949f\uff09", 
+ "Workstation": "\u5de5\u4f5c\u7ad9"
+}

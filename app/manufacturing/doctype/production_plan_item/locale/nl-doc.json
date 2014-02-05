@@ -1,0 +1,13 @@
+{
+ "BOM No": "BOM Geen", 
+ "Description": "Beschrijving", 
+ "Item Code": "Artikelcode", 
+ "Manufacturing": "Productie", 
+ "Planned Qty": "Geplande Aantal", 
+ "Production Plan Item": "Productie Plan Item", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse": "Gereserveerde Warehouse in Sales Order / Finished Goods Warehouse", 
+ "SO Pending Qty": "SO afwachting Aantal", 
+ "Sales Order": "Verkooporder", 
+ "UOM": "Verpakking", 
+ "Warehouse": "Magazijn"
+}

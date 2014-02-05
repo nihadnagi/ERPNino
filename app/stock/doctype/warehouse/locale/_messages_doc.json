@@ -1,0 +1,23 @@
+[
+ "City", 
+ "A logical Warehouse against which stock entries are made.", 
+ "Warehouse Contact Info", 
+ "Parent Account", 
+ "State", 
+ "Warehouse", 
+ "Stock", 
+ "PIN", 
+ "Warehouse Detail", 
+ "Company", 
+ "Phone No", 
+ "Address Line 1", 
+ "Address Line 2", 
+ "Warehouse Name", 
+ "Allow For Users", 
+ "Mobile No", 
+ "For Reference Only.", 
+ "If set, data entry is only allowed for specified users. Else, entry is allowed for all users with requisite permissions.", 
+ "Account for the warehouse (Perpetual Inventory) will be created under this Account.", 
+ "Warehouse Users", 
+ "Email Id"
+]

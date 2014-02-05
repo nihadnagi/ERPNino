@@ -1,0 +1,17 @@
+{
+ "Account": "Conta", 
+ "Against Account": "Contra Conta", 
+ "Company": "Companhia", 
+ "Credit": "Cr\u00e9dito", 
+ "Debit": "D\u00e9bito", 
+ "From Date": "A partir da data", 
+ "From Date must be before To Date": "A partir da data deve ser anterior a Data", 
+ "General Ledger": "General Ledger", 
+ "Posting Date": "Data da Publica\u00e7\u00e3o", 
+ "Refresh": "Refrescar", 
+ "Remarks": "Observa\u00e7\u00f5es", 
+ "To": "Para", 
+ "To Date": "Conhecer", 
+ "Voucher No": "N\u00e3o vale", 
+ "Voucher Type": "Tipo comprovante"
+}

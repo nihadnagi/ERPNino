@@ -1,0 +1,19 @@
+{
+ "<a href=\"#Sales Browser/Customer Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Customer Group\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "<a href=\"#Sales Browser/Territory\">Add / Edit</a>": "<a href=\"#Sales Browser/Territory\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Allow user to edit Price List Rate in transactions": "\u5141\u8a31\u7528\u6236\u7de8\u8f2f\u50f9\u76ee\u8868\u7387\u7684\u4ea4\u6613", 
+ "Customer Name": "\u5ba2\u6236\u540d\u7a31", 
+ "Customer Naming By": "\u5ba2\u6236\u901a\u904e\u547d\u540d", 
+ "Default Customer Group": "\u9ed8\u8a8d\u7528\u6236\u7d44", 
+ "Default Price List": "\u9ed8\u8a8d\u50f9\u683c\u8868", 
+ "Default Territory": "\u9ed8\u8a8d\u9818\u5730", 
+ "Delivery Note Required": "\u8981\u6c42\u9001\u8ca8\u55ae", 
+ "Maintain Same Rate Throughout Sales Cycle": "\u4fdd\u6301\u540c\u6a23\u7684\u901f\u5ea6\u5728\u6574\u500b\u92b7\u552e\u9031\u671f", 
+ "Naming Series": "\u547d\u540d\u7cfb\u5217", 
+ "No": "\u7121", 
+ "Sales Order Required": "\u92b7\u552e\u8a02\u55ae\u6240\u9700", 
+ "Selling": "\u92b7\u552e", 
+ "Selling Settings": "\u92b7\u552e\u8a2d\u7f6e", 
+ "Settings for Selling Module": "\u8a2d\u7f6e\u92b7\u552e\u6a21\u584a", 
+ "Yes": "\u662f\u7684"
+}

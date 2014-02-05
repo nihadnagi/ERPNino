@@ -1,0 +1,8 @@
+{
+ "Chart of Accounts": "\u79d1\u76ee\u8868", 
+ "Convert to Group": "\u8f6c\u6362\u4e3a\u96c6\u56e2", 
+ "Convert to Ledger": "\u8f6c\u6362\u5230\u603b\u5e10", 
+ "Please create new account from Chart of Accounts.": "\u8bf7\u4ece\u79d1\u76ee\u8868\u521b\u5efa\u65b0\u5e10\u6237\u3002", 
+ "This is a root account and cannot be edited.": "\u8fd9\u662f\u4e00\u4e2aroot\u5e10\u6237\uff0c\u4e0d\u80fd\u88ab\u7f16\u8f91\u3002", 
+ "View Ledger": "\u67e5\u770b\u603b\u5e10"
+}

@@ -1,0 +1,10 @@
+{
+ "Already Registered": "\u5df2\u8a3b\u518a", 
+ "Cannot Update: Incorrect / Expired Link.": "\u7121\u6cd5\u66f4\u65b0\uff1a\u4e0d\u6b63\u78ba\u7684/\u904e\u671f\u7684\u93c8\u63a5\u3002", 
+ "Cannot Update: Incorrect Password": "\u7121\u6cd5\u66f4\u65b0\uff1a\u4e0d\u6b63\u78ba\u7684\u5bc6\u78bc", 
+ "Hey! There should remain at least one System Manager": "\u563f\uff01\u61c9\u8a72\u4fdd\u6301\u81f3\u5c11\u4e00\u500b\u7cfb\u7d71\u7ba1\u7406\u5668", 
+ "Password Updated": "\u5bc6\u78bc\u66f4\u65b0", 
+ "Registered but disabled.": "\u8a3b\u518a\u4f46\u88ab\u7981\u7528\u3002", 
+ "Registration Details Emailed.": "\u5831\u540d\u8cc7\u6599\u901a\u904e\u96fb\u5b50\u90f5\u4ef6\u767c\u9001\u3002", 
+ "Welcome Email Sent": "\u6b61\u8fce\u767c\u9001\u96fb\u5b50\u90f5\u4ef6"
+}

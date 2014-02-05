@@ -1,0 +1,10 @@
+{
+ " Quantity should be greater than 0.": "\u91cf\u5e94\u5927\u4e8e0\u3002", 
+ "'To Case No.' cannot be less than 'From Case No.'": "\u201c\u8981\u6848\u4ef6\u7f16\u53f7\u201d\u4e0d\u80fd\u5c11\u4e8e&#39;\u4ece\u6848\u53f7\u201c", 
+ "(Total) Net Weight value. Make sure that Net Weight of each item is": "\uff08\u603b\uff09\u51c0\u91cd\u503c\u3002\u786e\u4fdd\u6bcf\u4e2a\u9879\u76ee\u7684\u51c0\u91cd\u662f", 
+ "Case No. cannot be 0": "\u6848\u53f7\u4e0d\u80fd\u4e3a0", 
+ "Different UOM for items will lead to incorrect": "\u4e0d\u540c\u8ba1\u91cf\u5355\u4f4d\u7684\u9879\u76ee\u4f1a\u5bfc\u81f4\u4e0d\u6b63\u786e\u7684", 
+ "Invalid quantity specified for item ": "\u4e3a\u9879\u76ee\u6307\u5b9a\u4e86\u65e0\u6548\u7684\u6570\u91cf", 
+ "You have entered duplicate items. Please rectify and try again.": "\u60a8\u8f93\u5165\u91cd\u590d\u7684\u9879\u76ee\u3002\u8bf7\u7ea0\u6b63\uff0c\u7136\u540e\u518d\u8bd5\u4e00\u6b21\u3002", 
+ "in the same UOM.": "\u5728\u76f8\u540c\u7684\u8ba1\u91cf\u5355\u4f4d\u3002"
+}

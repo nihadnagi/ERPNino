@@ -1,0 +1,12 @@
+{
+ "Item Code cannot be changed for Serial No.": "Codice Articolo non pu\u00f2 essere modificato per Serial No.", 
+ "Item must have 'Has Serial No' as 'Yes'": "L&#39;oggetto deve avere &#39;Ha Serial No&#39; a &#39;S\u00ec&#39;", 
+ "Serial No": "Serial No", 
+ "Serial No created": "Serial No creato", 
+ "Serial No does not belong to Item": "Serial No non appartiene alla Voce", 
+ "Serial No must exist to transfer out.": "Serial No deve esistere per il trasferimento fuori.", 
+ "Serial No qty cannot be a fraction": "Serial No qty non pu\u00f2 essere una frazione", 
+ "Serial No status must be 'Available' to Deliver": "Numero seriale di stato deve essere &#39;disponibile&#39; per fornire", 
+ "Serial Nos do not match with qty": "N \u00b0 di serie non corrispondono con qty", 
+ "Warehouse cannot be changed for Serial No.": "Magazzino non pu\u00f2 essere modificato per Serial No."
+}

@@ -1,0 +1,10 @@
+{
+ "BOM Replace Tool": "DiBa Sostituire Strumento", 
+ "Current BOM": "DiBa Corrente", 
+ "Manufacturing": "Produzione", 
+ "New BOM": "Nuovo BOM", 
+ "Replace": "Sostituire", 
+ "Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate \"BOM Explosion Item\" table as per new BOM": "Sostituire un particolare distinta base in tutte le altre distinte base in cui viene utilizzato. Sostituir\u00e0 il vecchio link BOM, aggiornare costo e rigenerare &quot;Explosion articolo BOM&quot; tavolo come da nuovo BOM", 
+ "The BOM which will be replaced": "La distinta base che sar\u00e0 sostituito", 
+ "The new BOM after replacement": "Il nuovo BOM dopo la sostituzione"
+}

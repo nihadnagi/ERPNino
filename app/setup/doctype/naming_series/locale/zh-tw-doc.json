@@ -1,0 +1,18 @@
+{
+ "Change the starting / current sequence number of an existing series.": "\u66f4\u6539\u73fe\u6709\u7cfb\u5217\u7684\u958b\u59cb/\u7576\u524d\u7684\u5e8f\u5217\u865f\u3002", 
+ "Check this if you want to force the user to select a series before saving. There will be no default if you check this.": "\u5982\u679c\u8981\u5f37\u5236\u7528\u6236\u5728\u4fdd\u5b58\u4e4b\u524d\u9078\u64c7\u4e86\u4e00\u7cfb\u5217\u6aa2\u67e5\u3002\u5c07\u4e0d\u6703\u6709\u9ed8\u8a8d\u7684\uff0c\u5982\u679c\u4f60\u6aa2\u67e5\u9019\u500b\u3002", 
+ "Current Value": "\u7576\u524d\u503c", 
+ "Help HTML": "HTML\u5e6b\u52a9", 
+ "Naming Series": "\u547d\u540d\u7cfb\u5217", 
+ "Prefix": "\u5b57\u9996", 
+ "Select Transaction": "\u9078\u64c7\u4ea4\u6613", 
+ "Series List for this Transaction": "\u7cfb\u5217\u5c0d\u8868\u672c\u4ea4\u6613", 
+ "Set prefix for numbering series on your transactions": "\u70ba\u4f60\u7684\u4ea4\u6613\u7de8\u865f\u5e8f\u5217\u8a2d\u7f6e\u7684\u524d\u7db4", 
+ "Setup": "\u8a2d\u7f6e", 
+ "Setup Series": "\u8a2d\u7f6e\u7cfb\u5217", 
+ "This is the number of the last created transaction with this prefix": "\u9019\u5c31\u662f\u4ee5\u9019\u500b\u524d\u7db4\u7684\u6700\u5f8c\u4e00\u500b\u5275\u5efa\u7684\u4e8b\u52d9\u6578", 
+ "Update": "\u66f4\u65b0", 
+ "Update Series": "\u66f4\u65b0\u7cfb\u5217", 
+ "Update Series Number": "\u66f4\u65b0\u5e8f\u5217\u865f", 
+ "User must always select": "\u7528\u6236\u5fc5\u9808\u59cb\u7d42\u9078\u64c7"
+}

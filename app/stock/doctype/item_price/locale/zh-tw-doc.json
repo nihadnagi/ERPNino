@@ -1,0 +1,14 @@
+{
+ "Buying": "\u6c42\u8cfc", 
+ "Currency": "\u8ca8\u5e63", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Item Description": "\u9805\u76ee\u8aaa\u660e", 
+ "Item Name": "\u9805\u76ee\u540d\u7a31", 
+ "Item Price": "\u5546\u54c1\u50f9\u683c", 
+ "Multiple Item prices.": "\u591a\u500b\u9805\u76ee\u7684\u50f9\u683c\u3002", 
+ "Price List": "\u50f9\u683c\u8868", 
+ "Rate": "\u7387", 
+ "Selling": "\u92b7\u552e", 
+ "Stock": "\u80a1\u7968", 
+ "Valid for Buying or Selling?": "\u6709\u6548\u7684\u8cb7\u5165\u6216\u8ce3\u51fa\uff1f"
+}

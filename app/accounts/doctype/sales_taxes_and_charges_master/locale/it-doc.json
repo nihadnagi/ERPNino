@@ -1,0 +1,10 @@
+{
+ "* Will be calculated in the transaction.": "'A Case N.' non puo essere minore di 'Da Case N.'", 
+ "Accounts": "Conti", 
+ "Company": "Azienda", 
+ "Default": "Predefinito", 
+ "Sales Taxes and Charges Master": "Tasse di vendita e oneri master", 
+ "Specify a list of Territories, for which, this Taxes Master is valid": "Specifica una lista di territori, per il quale, questo Tasse Master \u00e8 valido", 
+ "Title": "Titolo", 
+ "Valid for Territories": "Valido per Territori"
+}

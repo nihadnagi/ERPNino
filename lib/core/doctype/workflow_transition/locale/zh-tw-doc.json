@@ -1,0 +1,9 @@
+{
+ "Action": "\u884c\u52d5", 
+ "Allowed": "\u5bf5\u7269", 
+ "Core": "\u6838\u5fc3", 
+ "Defines actions on states and the next step and allowed roles.": "\u5b9a\u7fa9\u4e86\u570b\u5bb6\u884c\u52d5\u548c\u4e0b\u4e00\u6b65\u548c\u5141\u8a31\u7684\u89d2\u8272\u3002", 
+ "Next State": "\u4e0b\u4e00\u72c0\u614b", 
+ "State": "\u614b", 
+ "Workflow Transition": "\u5de5\u4f5c\u6d41\u7a0b\u8f49\u63db"
+}

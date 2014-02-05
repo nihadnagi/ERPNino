@@ -1,0 +1,10 @@
+{
+ "BOM Replace Tool": "BOM\u66ff\u63db\u5de5\u5177", 
+ "Current BOM": "\u7576\u524dBOM\u8868", 
+ "Manufacturing": "\u88fd\u9020\u696d", 
+ "New BOM": "\u65b0\u7684\u7269\u6599\u6e05\u55ae", 
+ "Replace": "\u66f4\u63db", 
+ "Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate \"BOM Explosion Item\" table as per new BOM": "\u5728\u5b83\u88ab\u4f7f\u7528\u7684\u6240\u6709\u5176\u4ed6\u7684BOM\u66ff\u63db\u7279\u5b9a\u7684\u7269\u6599\u6e05\u55ae\u3002\u5b83\u6703\u53d6\u4ee3\u820a\u7684BOM\u93c8\u63a5\uff0c\u66f4\u65b0\u6210\u672c\uff0c\u4e26\u91cd\u65b0\u751f\u6210\u201c\u7269\u6599\u6e05\u55ae\u7206\u70b8\u7269\u54c1\u201d\u8868\u6309\u7167\u65b0\u7684\u7269\u6599\u6e05\u55ae", 
+ "The BOM which will be replaced": "\u9019\u5c07\u88ab\u66ff\u63db\u7684\u7269\u6599\u6e05\u55ae", 
+ "The new BOM after replacement": "\u66f4\u63db\u5f8c\u7684\u65b0\u7269\u6599\u6e05\u55ae"
+}

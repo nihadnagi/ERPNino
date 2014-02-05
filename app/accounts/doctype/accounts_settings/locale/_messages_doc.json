@@ -1,0 +1,15 @@
+[
+ "Credit Controller", 
+ "Make Accounting Entry For Every Stock Movement", 
+ "Frozen Accounts Modifier", 
+ "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.", 
+ "Accounts Frozen Upto", 
+ "If enabled, the system will post accounting entries for inventory automatically.", 
+ "Settings for Accounts", 
+ "Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts", 
+ "Accounts", 
+ "Allowed Role to Edit Entries Before Frozen Date", 
+ "Role that is allowed to submit transactions that exceed credit limits set.", 
+ "Accounts Settings", 
+ "Users with this role are allowed to create / modify accounting entry before frozen date"
+]

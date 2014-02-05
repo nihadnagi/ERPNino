@@ -1,0 +1,9 @@
+{
+ "Adds a custom script (client or server) to a DocType": "Aggiungi Script personalizzato (client o server) al DocType", 
+ "Client": "Intestatario", 
+ "Core": "Core", 
+ "Custom Script": "Script Personalizzato", 
+ "DocType": "TipoDoc", 
+ "Script": "Script", 
+ "Script Type": "Tipo di script"
+}

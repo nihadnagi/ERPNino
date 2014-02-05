@@ -1,0 +1,14 @@
+{
+ "Amount": "Quantidade", 
+ "Description": "Descri\u00e7\u00e3o", 
+ "Issue Date": "Data da Quest\u00e3o", 
+ "Issued Items Against Production Order": "Itens emitida contra Ordem de Produ\u00e7\u00e3o", 
+ "Item Code": "C\u00f3digo do Item", 
+ "Production Order": "Ordem de Produ\u00e7\u00e3o", 
+ "Qty": "Qtde.", 
+ "Serial No": "N\u00ba de S\u00e9rie", 
+ "Source Warehouse": "Almoxarifado de origem", 
+ "Stock Entry": "Lan\u00e7amento no Estoque", 
+ "Target Warehouse": "Almoxarifado de destino", 
+ "UOM": "UDM"
+}

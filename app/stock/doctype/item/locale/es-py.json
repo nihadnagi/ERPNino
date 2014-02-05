@@ -1,0 +1,7 @@
+{
+ " is present in one or many Active BOMs": "est\u00e1 presente en una o varias listas de materiales activos", 
+ " should be 'Yes'. As Item: ": "deber\u00eda ser &quot;s\u00ed&quot;. Como art\u00edculo:", 
+ "Default Warehouse is mandatory for Stock Item.": "Almac\u00e9n defecto es obligatorio para Stock Item.", 
+ "Item Code (item_code) is mandatory because Item naming is not sequential.": "C\u00f3digo del art\u00edculo (item_code) es obligatorio porque nombramiento del art\u00edculo no es secuencial.", 
+ "Please enter Default Unit of Measure": "Introduce unidad de medida"
+}

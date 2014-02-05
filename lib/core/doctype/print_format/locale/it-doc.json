@@ -1,0 +1,13 @@
+{
+ "Client": "Intestatario", 
+ "Core": "Core", 
+ "DocType": "TipoDoc", 
+ "HTML": "HTML", 
+ "Module": "Modulo", 
+ "No": "No", 
+ "Print Format": "Formato Stampa", 
+ "Print Format Type": "Stampa Tipo di formato", 
+ "Server": "Server", 
+ "Standard": "Standard", 
+ "Yes": "S\u00ec"
+}

@@ -1,0 +1,12 @@
+{
+ "If you set this, this Item will come in a drop-down under the selected parent.": "\u5982\u679c\u4f60\u8a2d\u7f6e\u9019\u500b\uff0c\u9019\u500b\u9805\u76ee\u6703\u5728\u4e00\u500b\u4e0b\u62c9\u83dc\u55ae\u4e2d\u9078\u5b9a\u7236\u4e0b\u3002", 
+ "Label": "\u6a19\u7c64", 
+ "Link to the page you want to open": "\u93c8\u63a5\u5230\u4f60\u60f3\u6253\u958b\u7684\u7db2\u9801", 
+ "Parent Label": "\u7236\u6a19\u7c64", 
+ "Select target = \"_blank\" to open in a new page.": "\u9078\u64c7\u76ee\u6a19=\u201c_blank\u201d\u5728\u65b0\u9801\u9762\u4e2d\u6253\u958b\u3002", 
+ "Target": "\u76ee\u6a19", 
+ "Top Bar Item": "\u9802\u6b04\u9805\u76ee", 
+ "URL": "\u7db2\u5740", 
+ "Website": "\u7db2\u7ad9", 
+ "target = \"_blank\"": "\u76ee\u6a19=\u201c_blank\u201d"
+}

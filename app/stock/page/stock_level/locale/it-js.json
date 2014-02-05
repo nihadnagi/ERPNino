@@ -1,0 +1,15 @@
+{
+ "Actual Qty": "Q.t\u00e0 Reale", 
+ "Brand": "Marca", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Planned Qty": "Qt\u00e0 Planned", 
+ "Projected Qty": "Qt\u00e0 Proiettata", 
+ "Re-Order Level": "Re-Order Livello", 
+ "Re-Order Qty": "Re-Order Qty", 
+ "Refresh": "Refresh", 
+ "Stock Level": "Stock Level", 
+ "UOM": "UOM", 
+ "Warehouse": "Magazzino"
+}

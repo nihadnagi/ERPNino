@@ -1,0 +1,9 @@
+{
+ "Item table can not be blank": "\u9879\u76ee\u8868\u4e0d\u80fd\u4e3a\u7a7a", 
+ "Make Credit Note": "\u4f7f\u4fe1\u8d37\u6ce8", 
+ "Make Debit Note": "\u8ba9\u7f34\u8d39\u5355", 
+ "Make Excise Invoice": "\u4f7f\u6d88\u8d39\u7a0e\u53d1\u7968", 
+ "Please enter Delivery Note No or Sales Invoice No to proceed": "\u8bf7\u8f93\u5165\u9001\u8d27\u5355\u53f7\u6216\u9500\u552e\u53d1\u7968\u53f7\u7801\u8fdb\u884c", 
+ "Please enter Item Code to get batch no": "\u8bf7\u8f93\u5165\u4ea7\u54c1\u7f16\u53f7\uff0c\u4ee5\u83b7\u5f97\u6279\u53f7", 
+ "Please enter Purchase Receipt No to proceed": "\u8bf7\u8f93\u5165\u5916\u8d2d\u5165\u5e93\u5355\u6ca1\u6709\u8fdb\u884c"
+}

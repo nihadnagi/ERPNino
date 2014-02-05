@@ -1,0 +1,20 @@
+{
+ "All possible Workflow States and roles of the workflow. <br>Docstatus Options: 0 is\"Saved\", 1 is \"Submitted\" and 2 is \"Cancelled\"": "Tutti i possibili stati del flusso di lavoro e ruoli del flusso di lavoro. <br> Docstatus Opzioni: 0 \u00e8 &quot;salvato&quot;, 1 \u00e8 &quot;sottoposto&quot; e 2 \u00e8 &quot;Annullato&quot;", 
+ "Core": "Core", 
+ "Defines workflow states and rules for a document.": "Definisci stati Workflow e regole per il documento.", 
+ "Different \"States\" this document can exist in. Like \"Open\", \"Pending Approval\" etc.": "Diverso &quot;Uniti&quot; questo documento pu\u00f2 esistere in Come &quot;Open&quot;, &quot;In attesa di approvazione&quot;, ecc", 
+ "DocType on which this Workflow is applicable.": "DocType su cui questo flusso di lavoro \u00e8 applicabile", 
+ "Document Type": "Tipo di documento", 
+ "Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)": "Campo che rappresenta lo stato del flusso di lavoro della transazione (se il campo non \u00e8 presente, verr\u00e0 creato un nuovo campo personalizzato nascosto)", 
+ "If checked, all other workflows become inactive.": "Se selezionata, tutti gli altri flussi di lavoro diventano inattivi.", 
+ "Is Active": "\u00c8 attivo", 
+ "Rules defining transition of state in the workflow.": "Regole che definiscono transizione di stato nel flusso di lavoro.", 
+ "Rules for how states are transitions, like next state and which role is allowed to change state etc.": "Regole per come gli stati sono transizioni, come prossimo stato e quale ruolo pu\u00f2 cambiare stato ecc", 
+ "States": "Stati", 
+ "Transition Rules": "Regole di transizione", 
+ "Workflow": "Flusso di lavoro", 
+ "Workflow Document States": "Workflow Document Uniti", 
+ "Workflow Name": "Nome flusso di lavoro", 
+ "Workflow State Field": "Flusso di lavoro di campo Stato", 
+ "Workflow Transitions": "Le transizioni di workflow"
+}

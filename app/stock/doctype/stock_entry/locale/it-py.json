@@ -1,0 +1,19 @@
+{
+ " or the BOM is cancelled or inactive": " o la Di.Ba \u00e8 rimossa o disattivata", 
+ "Atleast one warehouse is mandatory": "Almeno un Magazzino \u00e8 obbligatorio", 
+ "Item": "Articolo", 
+ "Material Request": "Materiale Richiesta", 
+ "Only Stock Items are allowed for Stock Entry": "Solo Archivio articoli sono ammessi per la Stock Entry", 
+ "Posting Date Time cannot be before": "Data di registrazione Il tempo non pu\u00f2 essere prima", 
+ "Production Order": "Ordine di produzione", 
+ "Purpose must be one of ": "Scopo deve essere uno dei", 
+ "Quantity should be equal to Manufacturing Quantity. ": "Quantit\u00e0 dovrebbe essere uguale a Manufacturing pezzi.", 
+ "Row #": "Row #", 
+ "Row # ": "Row #", 
+ "Source Warehouse": "Fonte Warehouse", 
+ "Source and Target Warehouse cannot be same": "Origine e di destinazione Warehouse non pu\u00f2 essere lo stesso", 
+ "Status should be Submitted": "Stato deve essere presentato", 
+ "Target Warehouse": "Obiettivo Warehouse", 
+ "Update Stock should be checked.": "Magazzino Update deve essere controllato.", 
+ "does not belong to BOM: ": "non appartiene a BOM:"
+}

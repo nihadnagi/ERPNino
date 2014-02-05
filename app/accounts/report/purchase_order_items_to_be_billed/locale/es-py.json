@@ -1,0 +1,10 @@
+{
+ "Amount": "Cantidad", 
+ "Date": "Fecha", 
+ "Description": "Descripci\u00f3n", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Purchase Order": "Orden de Compra", 
+ "Purchase Order Items To Be Billed": "Orden de Compra art\u00edculos a facturar", 
+ "Supplier": "Proveedor"
+}

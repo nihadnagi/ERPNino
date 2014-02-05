@@ -1,0 +1,15 @@
+{
+ "Amount": "Importo", 
+ "BOM Item": "DIBA Articolo", 
+ "BOM No": "N. DiBa", 
+ "Item Code": "Codice Articolo", 
+ "Item Description": "Voce Descrizione", 
+ "Manufacturing": "Produzione", 
+ "Operation No": "Operazione No", 
+ "Qty": "Qt\u00e0", 
+ "Qty Consumed Per Unit": "Quantit\u00e0 consumata per unit\u00e0", 
+ "Rate": "Vota", 
+ "Scrap %": "Scrap%", 
+ "See \"Rate Of Materials Based On\" in Costing Section": "Vedere &quot;tasso di materiali a base di&quot; in Costing Sezione", 
+ "Stock UOM": "UOM Archivio"
+}

@@ -1,0 +1,9 @@
+[
+ "Core", 
+ "Next State", 
+ "Workflow Transition", 
+ "State", 
+ "Allowed", 
+ "Action", 
+ "Defines actions on states and the next step and allowed roles."
+]

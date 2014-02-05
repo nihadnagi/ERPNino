@@ -1,0 +1,14 @@
+{
+ "**Currency** Master": "**Valuta** Principale", 
+ "A symbol for this currency. For e.g. $": "Un simbolo per questa valuta. Per esempio $", 
+ "Currency": "Valuta", 
+ "Currency Name": "Nome Valuta", 
+ "Enabled": "Attivo", 
+ "Fraction": "Frazione", 
+ "Fraction Units": "Unit\u00e0 Frazione", 
+ "How should this currency be formatted? If not set, will use system defaults": "Come dovrebbe essere formattata questa valuta? Se non impostato, user\u00e0 valori predefiniti di sistema", 
+ "Number Format": "Formato numero", 
+ "Setup": "Setup", 
+ "Sub-currency. For e.g. \"Cent\"": "Sub-valuta. Per esempio, &quot;Cent&quot;", 
+ "Symbol": "Simbolo"
+}

@@ -1,0 +1,8 @@
+{
+ "Example:": "Ejemplo:", 
+ "Report Builder reports are managed directly by the report builder. Nothing to do.": "Los informes del Generador son enviadas por el Generador de informes. No hay nada que hacer.", 
+ "To format columns, give column labels in the query.": "Para dar formato a columnas, dar t\u00edtulos de las columnas en la consulta.", 
+ "Write a Python file in the same folder where this is saved and return column and result.": "Escriba un archivo de Python en la misma carpeta donde esta se guarda y la columna de retorno y resultado.", 
+ "Write a SELECT query. Note result is not paged (all data is sent in one go).": "Escriba una consulta SELECT. Nota resultado no se pagina (todos los datos se env\u00edan en una sola vez).", 
+ "[Label]:[Field Type]/[Options]:[Width]": "[Label]: [Tipo de campo] / [Opciones]: [Ancho]"
+}

@@ -1,0 +1,13 @@
+{
+ "Brand": "Marca", 
+ "Date": "Fecha", 
+ "Description": "Descripci\u00f3n", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Purchase Order": "Orden de Compra", 
+ "Purchase Order Items To Be Received": "Art\u00edculos de \u00f3rdenes de compra que se reciban", 
+ "Qty": "Cantidad", 
+ "Received Qty": "Cantidad recibida", 
+ "Supplier": "Proveedor", 
+ "Warehouse": "Almac\u00e9n"
+}

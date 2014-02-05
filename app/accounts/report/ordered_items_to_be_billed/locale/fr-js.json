@@ -1,0 +1,10 @@
+{
+ "Amount": "Montant", 
+ "Customer": "Client", 
+ "Date": "Date", 
+ "Description": "Description", 
+ "Item": "Article", 
+ "Item Name": "Nom d&#39;article", 
+ "Ordered Items To Be Billed": "Articles command\u00e9s \u00e0 facturer", 
+ "Sales Order": "Commande"
+}

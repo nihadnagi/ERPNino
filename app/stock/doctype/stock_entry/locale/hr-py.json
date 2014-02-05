@@ -1,0 +1,19 @@
+{
+ " or the BOM is cancelled or inactive": "ili BOM je otkazan ili neaktivne", 
+ "Atleast one warehouse is mandatory": "Atleast jednom skladi\u0161tu je obavezno", 
+ "Item": "Stavka", 
+ "Material Request": "Materijal zahtjev", 
+ "Only Stock Items are allowed for Stock Entry": "Samo Stock Predmeti su dopu\u0161tene za upis dionica", 
+ "Posting Date Time cannot be before": "Datum postanja vrijeme ne mo\u017ee biti prije", 
+ "Production Order": "Proizvodnja Red", 
+ "Purpose must be one of ": "Svrha mora biti jedan od", 
+ "Quantity should be equal to Manufacturing Quantity. ": "Koli\u010dina trebala biti jednaka koli\u010dina proizvodnju.", 
+ "Row #": "Redak #", 
+ "Row # ": "Redak #", 
+ "Source Warehouse": "Izvor galerija", 
+ "Source and Target Warehouse cannot be same": "Izvor i Target galerije ne mogu biti isti", 
+ "Status should be Submitted": "Status treba Prijavljen", 
+ "Target Warehouse": "Ciljana galerija", 
+ "Update Stock should be checked.": "Update Stock treba provjeriti.", 
+ "does not belong to BOM: ": "ne pripadaju sastavnice:"
+}

@@ -1,0 +1,13 @@
+{
+ "**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.": "**\u8ca1\u653f\u5e74\u5ea6**\u4ee3\u8868\u8ca1\u653f\u5e74\u5ea6\u3002\u6240\u6709\u7684\u6703\u8a08\u5206\u9304\u548c\u5176\u4ed6\u91cd\u5927\u4ea4\u6613\u9032\u884c\u8ddf\u8e2a\u6253\u64ca**\u8ca1\u653f\u5e74\u5ea6**\u3002", 
+ "Accounts": "\u8cec\u6236", 
+ "Entries are not allowed against this Fiscal Year if the year is closed.": "\u53c3\u8cfd\u4f5c\u54c1\u4e0d\u5f97\u5c0d\u672c\u8ca1\u5e74\uff0c\u5982\u679c\u7576\u5e74\u88ab\u95dc\u9589\u3002", 
+ "Fiscal Year": "\u8ca1\u653f\u5e74\u5ea6", 
+ "For e.g. 2012, 2012-13": "\u5c0d\u65bc\u4f8b\u59822012\uff0c2012-13", 
+ "No": "\u7121", 
+ "Year Closed": "\u5e74\u5ea6\u95dc\u9589", 
+ "Year End Date": "\u5e74\u7d50\u65e5", 
+ "Year Name": "\u4eca\u5e74\u540d\u7a31", 
+ "Year Start Date": "\u4eca\u5e74\u958b\u59cb\u65e5\u671f", 
+ "Yes": "\u662f\u7684"
+}

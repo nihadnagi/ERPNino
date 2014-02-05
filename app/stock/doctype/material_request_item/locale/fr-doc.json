@@ -1,0 +1,21 @@
+{
+ "Brand": "Marque", 
+ "Completed Qty": "Compl\u00e9t\u00e9 Quantit\u00e9", 
+ "Description": "Description", 
+ "For Warehouse": "Pour Entrep\u00f4t", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Group": "Groupe d&#39;\u00e9l\u00e9ments", 
+ "Item Name": "Nom d&#39;article", 
+ "Lead Time Date": "Plomb Date Heure", 
+ "Material Request Item": "Article demande de mat\u00e9riel", 
+ "Min Order Qty": "Quantit\u00e9 de commande minimale", 
+ "More Info": "Plus d&#39;infos", 
+ "Page Break": "Saut de page", 
+ "Projected Qty": "Qt\u00e9 projet\u00e9", 
+ "Quantity": "Quantit\u00e9", 
+ "Quantity and Warehouse": "Quantit\u00e9 et entrep\u00f4t", 
+ "Required Date": "Requis Date", 
+ "Sales Order No": "Ordonnance n \u00b0 de vente", 
+ "Stock": "Stock", 
+ "Stock UOM": "Stock UDM"
+}

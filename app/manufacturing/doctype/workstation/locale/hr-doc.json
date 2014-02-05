@@ -1,0 +1,14 @@
+{
+ "Capacity": "Kapacitet", 
+ "Capacity Units": "Kapacitet jedinice", 
+ "Description": "Opis", 
+ "Hour Rate": "Sat Ocijenite", 
+ "Hour Rate Labour": "Sat Ocijenite rada", 
+ "Manufacturing": "Proizvodnja", 
+ "Overhead": "Dometnut", 
+ "Units/Hour": "Jedinice / sat", 
+ "Units/Shifts": "Jedinice / smjene", 
+ "Warehouse": "Skladi\u0161te", 
+ "Workstation": "Workstation", 
+ "Workstation Name": "Ime Workstation"
+}

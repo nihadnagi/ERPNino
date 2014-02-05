@@ -1,0 +1,19 @@
+[
+ "When submitted, the system creates difference entries ", 
+ "You can update either Quantity or Valuation Rate or both.", 
+ "usually as per physical inventory.", 
+ "Stock Reconcilation Template", 
+ "Download the Template, fill appropriate data and \\\n\t\t\t\t\tattach the modified file.", 
+ "You can submit this Stock Reconciliation.", 
+ "It can also be used to create opening stock entries and to fix stock value.", 
+ "Item Code and Warehouse should already exist.", 
+ "If no change in either Quantity or Valuation Rate, leave the cell blank.", 
+ "Notes:", 
+ "to set the given stock and valuation on this date.", 
+ "Stock Reconciliation can be used to update the stock on a particular date, ", 
+ "Download Reconcilation Data", 
+ "Stock Reconcilation Data", 
+ "Cancelling this Stock Reconciliation will nullify its effect.", 
+ "Stock Reconciliation", 
+ "Download Template"
+]

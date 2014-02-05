@@ -1,0 +1,15 @@
+[
+ "Item Code", 
+ "Item Name", 
+ "Transaction Date", 
+ "Description", 
+ "Received Qty", 
+ "Amount", 
+ "Qty", 
+ "Project", 
+ "Rate", 
+ "Supplier", 
+ "Purchase Order", 
+ "Item-wise Purchase History", 
+ "UOM"
+]

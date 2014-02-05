@@ -1,0 +1,13 @@
+{
+ "BOM No": "BOM\u65e0", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Manufacturing": "\u5236\u9020\u4e1a", 
+ "Planned Qty": "\u8ba1\u5212\u6570\u91cf", 
+ "Production Plan Item": "\u751f\u4ea7\u8ba1\u5212\u9879\u76ee", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse": "\u5728\u9500\u552e\u8ba2\u5355/\u6210\u54c1\u4ed3\u5e93\u4fdd\u7559\u4ed3\u5e93", 
+ "SO Pending Qty": "SO\u5f85\u5b9a\u6570\u91cf", 
+ "Sales Order": "\u9500\u552e\u8ba2\u5355", 
+ "UOM": "\u8ba1\u91cf\u5355\u4f4d", 
+ "Warehouse": "\u4ed3\u5e93"
+}

@@ -1,0 +1,7 @@
+{
+ "Item": "\u9879\u76ee", 
+ "No Item found with ": "\u5e8f\u53f7\u9879\u76ee\u4e0e\u53d1\u73b0", 
+ "Please select a": "\u8bf7\u9009\u62e9\u4e00\u4e2a", 
+ "Please select a service item or change the order type to Sales.": "\u8bf7\u9009\u62e9\u670d\u52a1\u9879\u76ee\uff0c\u6216\u66f4\u6539\u8ba2\u5355\u7c7b\u578b\u9500\u552e\u3002", 
+ "not a service item.": "\u4e0d\u662f\u4e00\u4e2a\u670d\u52a1\u9879\u76ee\u3002"
+}

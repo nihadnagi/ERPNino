@@ -1,0 +1,15 @@
+{
+ "Amount": "Cantidad", 
+ "BOM Item": "Art\u00edculo BOM", 
+ "BOM No": "No BOM", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Item Description": "Descripci\u00f3n del Art\u00edculo", 
+ "Manufacturing": "Fabricaci\u00f3n", 
+ "Operation No": "Operaci\u00f3n No", 
+ "Qty": "Cantidad", 
+ "Qty Consumed Per Unit": "Cantidad consumida por unidad", 
+ "Rate": "Velocidad", 
+ "Scrap %": "Chatarra%", 
+ "See \"Rate Of Materials Based On\" in Costing Section": "Consulte &quot;Cambio de los materiales basados \u200b\u200ben&quot; la secci\u00f3n de Costos", 
+ "Stock UOM": "De la UOM"
+}

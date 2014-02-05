@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Permitir Estoque Negativo", 
+ "Allowance Percent": "Percentual de toler\u00e2ncia", 
+ "Auto Material Request": "Pedido de material Auto", 
+ "Default Item Group": "Grupo de Itens padr\u00e3o", 
+ "Default Stock UOM": "Padr\u00e3o da UDM do Estouqe", 
+ "Default Valuation Method": "M\u00e9todo de Avalia\u00e7\u00e3o padr\u00e3o", 
+ "FIFO": "PEPS", 
+ "Freeze Stock Entries": "Congelar da Entries", 
+ "Item Code": "C\u00f3digo do Item", 
+ "Item Naming By": "Item de nomea\u00e7\u00e3o", 
+ "Moving Average": "M\u00e9dia m\u00f3vel", 
+ "Naming Series": "S\u00e9ries nomeadas", 
+ "Notify by Email on creation of automatic Material Request": "Notificar por e-mail sobre a cria\u00e7\u00e3o de Pedido de material autom\u00e1tico", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Percentagem que est\u00e3o autorizados a receber ou entregar mais contra a quantidade encomendada. Por exemplo: Se voc\u00ea encomendou 100 unidades. e seu subs\u00eddio \u00e9 de 10%, ent\u00e3o voc\u00ea est\u00e1 autorizada a receber 110 unidades.", 
+ "Raise Material Request when stock reaches re-order level": "Levante solicitar material quando o estoque atinge novo pedido de n\u00edvel", 
+ "Role Allowed to edit frozen stock": "Papel permiss\u00e3o para editar estoque congelado", 
+ "Settings": "Configura\u00e7\u00f5es", 
+ "Stock": "Estoque", 
+ "Stock Frozen Upto": "Estoque congelado at\u00e9", 
+ "Stock Settings": "Configura\u00e7\u00f5es da"
+}

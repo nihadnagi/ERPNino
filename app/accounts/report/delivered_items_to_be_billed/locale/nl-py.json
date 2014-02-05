@@ -1,0 +1,11 @@
+{
+ "Amount": "Bedrag", 
+ "Customer": "Klant", 
+ "Date": "Datum", 
+ "Delivered Items To Be Billed": "Geleverd Items te factureren", 
+ "Delivery Note": "Vrachtbrief", 
+ "Description": "Beschrijving", 
+ "Item": "Item", 
+ "Item Name": "Naam van het punt", 
+ "Qty": "Aantal"
+}

@@ -1,0 +1,11 @@
+{
+ "Date": "\u65e5\u671f", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Material Request": "\u6750\u6599\u8981\u6c42", 
+ "Qty": "\u6570\u91cf", 
+ "Qty to Transfer": "\u6570\u91cf\u8f6c\u79fb\u5230", 
+ "Requested Items To Be Transferred": "\u8981\u6c42\u8981\u4f20\u8f93\u7684\u9879\u76ee", 
+ "Transferred Qty": "\u8f6c\u8ba9\u6570\u91cf"
+}

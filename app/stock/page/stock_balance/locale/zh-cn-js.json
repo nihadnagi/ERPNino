@@ -1,0 +1,23 @@
+{
+ "Brand": "\u724c", 
+ "Closing Qty": "\u671f\u672b\u5e93\u5b58", 
+ "Closing Value": "\u6536\u76d8\u503c", 
+ "Description": "\u63cf\u8ff0", 
+ "From Date": "\u4ece\u65e5\u671f", 
+ "In Qty": "\u5728\u6570\u91cf", 
+ "In Value": "\u5728\u4ef7\u503c", 
+ "Item": "\u9879\u76ee", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Opening Qty": "\u5f00\u653e\u6570\u91cf", 
+ "Opening Value": "\u5f00\u5ea6\u503c", 
+ "Out Qty": "\u8f93\u51fa\u6570\u91cf", 
+ "Out Value": "\u51fa\u4ef7\u503c", 
+ "Project": "\u9879\u76ee", 
+ "Refresh": "\u5237\u65b0", 
+ "Reset Filters": "\u91cd\u8bbe\u8fc7\u6ee4\u5668", 
+ "Stock Balance": "\u5e93\u5b58\u4f59\u989d", 
+ "To": "\u81f3", 
+ "To Date": "\u81f3\u4eca", 
+ "UOM": "\u8ba1\u91cf\u5355\u4f4d", 
+ "Warehouse": "\u4ed3\u5e93"
+}

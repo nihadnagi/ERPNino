@@ -1,0 +1,16 @@
+{
+ "Accounts": "Accounts", 
+ "Calculate Based On": "Bereken Based On", 
+ "Company": "Vennootschap", 
+ "Cost Center": "Kostenplaats", 
+ "Net Total": "Net Total", 
+ "Net Weight": "Netto Gewicht", 
+ "Shipping Account": "Verzending account", 
+ "Shipping Rule": "Verzending Rule", 
+ "Shipping Rule Conditions": "Verzending Regel Voorwaarden", 
+ "Shipping Rule Label": "Verzending Regel Label", 
+ "Specify a list of Territories, for which, this Shipping Rule is valid": "Geef een lijst van gebieden, waarvoor dit Verzending regel is geldig", 
+ "Specify conditions to calculate shipping amount": "Geef de voorwaarden voor de scheepvaart bedrag te berekenen", 
+ "Valid For Territories": "Geldig voor Territories", 
+ "example: Next Day Shipping": "Bijvoorbeeld: Next Day Shipping"
+}

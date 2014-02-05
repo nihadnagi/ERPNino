@@ -1,0 +1,8 @@
+{
+ " against sales order": "gegen Kundenauftrag", 
+ " will be ": "wird", 
+ "Please reduce qty.": "Bitte reduzieren Menge.", 
+ "Total production order qty for item": "Gesamtproduktion Bestellmenge f\u00fcr Artikel", 
+ "WIP Warehouse required before Submit": "WIP Warehouse erforderlich, bevor abschicken", 
+ "which is greater than sales order qty ": "die gr\u00f6\u00dfer ist als der Umsatz Bestellmenge"
+}

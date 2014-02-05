@@ -1,0 +1,11 @@
+{
+ "Amount": "Bedrag", 
+ "Date": "Datum", 
+ "Description": "Beschrijving", 
+ "Item": "Item", 
+ "Item Name": "Naam van het punt", 
+ "Purchase Receipt": "Aankoopbewijs", 
+ "Qty": "Aantal", 
+ "Received Items To Be Billed": "Ontvangen items te factureren", 
+ "Supplier": "Leverancier"
+}

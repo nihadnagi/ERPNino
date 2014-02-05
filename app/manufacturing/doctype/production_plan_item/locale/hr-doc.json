@@ -1,0 +1,13 @@
+{
+ "BOM No": "BOM Ne", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Manufacturing": "Proizvodnja", 
+ "Planned Qty": "Planirani Kol", 
+ "Production Plan Item": "Proizvodnja plan artikla", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse": "Rezervirano Warehouse u prodajni nalog / skladi\u0161ta gotovih proizvoda", 
+ "SO Pending Qty": "SO \u010dekanju Kol", 
+ "Sales Order": "Prodajnog naloga", 
+ "UOM": "UOM", 
+ "Warehouse": "Skladi\u0161te"
+}

@@ -1,0 +1,12 @@
+{
+ "Amount": "Cantidad", 
+ "Company": "Empresa", 
+ "Description": "Descripci\u00f3n", 
+ "Item Code": "C\u00f3digo del art\u00edculo", 
+ "Posting Date": "Fecha de Publicaci\u00f3n", 
+ "Purchase In Transit": "Compra In Transit", 
+ "Purchase Invoice": "Compra de facturas", 
+ "Purchase Order": "Orden de Compra", 
+ "Purchase Receipt": "Recibo de compra", 
+ "Qty": "Cantidad"
+}

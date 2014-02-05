@@ -1,0 +1,12 @@
+{
+ "Buying": "Acquisto", 
+ "Currency": "Valuta", 
+ "Price List": "Listino Prezzi", 
+ "Price List Master": "Prezzo di listino principale", 
+ "Price List Name": "Prezzo di listino Nome", 
+ "Selling": "Vendere", 
+ "Specify a list of Territories, for which, this Price List is valid": "Specifica una lista di territori, per il quale, questo listino prezzi \u00e8 valido", 
+ "Stock": "Azione", 
+ "Valid for Buying or Selling?": "Valido per comprare o vendere?", 
+ "Valid for Territories": "Valido per Territori"
+}

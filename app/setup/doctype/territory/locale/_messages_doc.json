@@ -1,0 +1,23 @@
+[
+ "Territory Targets", 
+ "Trash Reason", 
+ "Target Distribution", 
+ "No", 
+ "<a href=\"#Sales Browser/Territory\">Add / Edit</a>", 
+ "lft", 
+ "For reference", 
+ "Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution.", 
+ "Territory Manager", 
+ "Territory", 
+ "rgt", 
+ "Has Child Node", 
+ "Classification of Customers by region", 
+ "Parent Territory", 
+ "Setup", 
+ "Territory Name", 
+ "Select Budget Distribution to unevenly distribute targets across months.", 
+ "Only leaf nodes are allowed in transaction", 
+ "old_parent", 
+ "Target Details", 
+ "Yes"
+]

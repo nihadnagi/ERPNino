@@ -1,0 +1,18 @@
+{
+ "Actual Qty": "Q.t\u00e0 Reale", 
+ "Batch No": "Lotto N.", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Packed Item": "Nota Consegna Imballaggio articolo", 
+ "Page Break": "Interruzione di pagina", 
+ "Parent Detail docname": "Parent Dettaglio docname", 
+ "Parent Item": "Parent Item", 
+ "Prevdoc DocType": "Prevdoc DocType", 
+ "Projected Qty": "Qt\u00e0 Proiettata", 
+ "Qty": "Qt\u00e0", 
+ "Serial No": "Serial No", 
+ "Stock": "Azione", 
+ "UOM": "UOM", 
+ "Warehouse": "Magazzino"
+}

@@ -1,0 +1,11 @@
+{
+ "Amount": "Cantidad", 
+ "Customer": "Cliente", 
+ "Date": "Fecha", 
+ "Delivered Items To Be Billed": "Material que se adjunta a facturar", 
+ "Delivery Note": "Nota de entrega", 
+ "Description": "Descripci\u00f3n", 
+ "Item": "Art\u00edculo", 
+ "Item Name": "Nombre del elemento", 
+ "Qty": "Cantidad"
+}

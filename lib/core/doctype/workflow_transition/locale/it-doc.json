@@ -1,0 +1,9 @@
+{
+ "Action": "Azione", 
+ "Allowed": "Consenti", 
+ "Core": "Core", 
+ "Defines actions on states and the next step and allowed roles.": "Definisce le azioni su stati e il passo successivo e ruoli consentiti.", 
+ "Next State": "Stato Successivo", 
+ "State": "Stato", 
+ "Workflow Transition": "Transizione del flusso di lavoro"
+}

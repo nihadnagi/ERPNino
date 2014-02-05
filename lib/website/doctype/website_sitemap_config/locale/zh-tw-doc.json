@@ -1,0 +1,16 @@
+{
+ "Condition Field": "\u689d\u4ef6\u5b57\u6bb5", 
+ "Controller": "\u8abf\u7bc0\u5668", 
+ "Generator": "\u767c\u96fb\u6a5f", 
+ "Lastmod": "LASTMOD", 
+ "Link Name": "\u93c8\u63a5\u540d\u7a31", 
+ "No Cache": "\u7121\u7de9\u5b58", 
+ "No Sitemap": "\u6c92\u6709\u7db2\u7ad9\u5730\u5716", 
+ "Page": "\u9801\u9762", 
+ "Page Name Field": "\u9801\u9762\u540d\u7a31\u5b57\u6bb5", 
+ "Page or Generator": "\u9801\u6216\u751f\u6210", 
+ "Ref DocType": "\u53c3\u8003\u7684DocType", 
+ "Template Path": "\u6a21\u677f\u8def\u5f91", 
+ "Website": "\u7db2\u7ad9", 
+ "Website Sitemap Config": "\u7db2\u7ad9\u5730\u5716\u914d\u7f6e"
+}

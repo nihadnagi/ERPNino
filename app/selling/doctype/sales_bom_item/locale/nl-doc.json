@@ -1,0 +1,9 @@
+{
+ "Description": "Beschrijving", 
+ "Item": "Item", 
+ "Qty": "Aantal", 
+ "Rate": "Tarief", 
+ "Sales BOM Item": "Verkoop BOM Item", 
+ "Selling": "Selling", 
+ "UOM": "Verpakking"
+}

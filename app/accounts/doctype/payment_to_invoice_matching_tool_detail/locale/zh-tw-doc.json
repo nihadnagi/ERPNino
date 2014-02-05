@@ -1,0 +1,12 @@
+{
+ "Accounts": "\u8cec\u6236", 
+ "Against Account": "\u91dd\u5c0d\u5e33\u6236", 
+ "Allocated Amount": "\u5206\u914d\u91d1\u984d", 
+ "Payment to Invoice Matching Tool Detail": "\u4ed8\u6b3e\u767c\u7968\u5339\u914d\u5de5\u5177\u8a73\u7d30\u4ecb\u7d39", 
+ "Posting Date": "\u767c\u5e03\u65e5\u671f", 
+ "Remarks": "\u5099\u8a3b", 
+ "Total Amount": "\u7e3d\u91d1\u984d", 
+ "Unmatched Amount": "\u7121\u8207\u502b\u6bd4\u7684\u91d1\u984d", 
+ "Voucher Detail No": "\u5238\u8a73\u7d30\u8aaa\u660e\u66ab\u7121", 
+ "Voucher No": "\u7121\u6191\u8b49"
+}

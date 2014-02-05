@@ -1,0 +1,12 @@
+{
+ " (Half Day)": "(Halber Tag)", 
+ "Cannot approve leave as you are not authorized to approve leaves on Block Dates.": "Kann nicht genehmigen lassen, wie Sie sind nicht berechtigt, Bl\u00e4tter auf Block-Termine genehmigen.", 
+ "For Employee": "F\u00fcr Mitarbeiter", 
+ "Holiday": "Urlaub", 
+ "Leave Application": "Lassen Anwendung", 
+ "Leave Approver can be one of": "Lassen Approver kann einen der", 
+ "Leave Blocked": "Lassen Blockierte", 
+ "New Leave Application": "New Leave Anwendung", 
+ "Warning: Leave application contains following block dates": "Achtung: Leave Anwendung enth\u00e4lt folgende Block Termine", 
+ "does not have role 'Leave Approver'": "keine Rolle &#39;Leave Approver&#39;"
+}

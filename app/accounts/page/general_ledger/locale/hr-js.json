@@ -1,0 +1,17 @@
+{
+ "Account": "Ra\u010dun", 
+ "Against Account": "Protiv ra\u010duna", 
+ "Company": "Dru\u0161tvo", 
+ "Credit": "Kredit", 
+ "Debit": "Zadu\u017eenje", 
+ "From Date": "Od datuma", 
+ "From Date must be before To Date": "Od datuma mora biti prije do danas", 
+ "General Ledger": "Glavna knjiga", 
+ "Posting Date": "Objavljivanje Datum", 
+ "Refresh": "Osvje\u017eiti", 
+ "Remarks": "Primjedbe", 
+ "To": "Na", 
+ "To Date": "Za datum", 
+ "Voucher No": "Bon Ne", 
+ "Voucher Type": "Bon Tip"
+}

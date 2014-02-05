@@ -1,0 +1,23 @@
+[
+ "Raise Material Request when stock reaches re-order level", 
+ "Role Allowed to edit frozen stock", 
+ "Stock Settings", 
+ "FIFO", 
+ "Allow Negative Stock", 
+ "Moving Average", 
+ "Default Valuation Method", 
+ "Stock", 
+ "Default Item Group", 
+ "Item Naming By", 
+ "Allowance Percent", 
+ "Naming Series", 
+ "Default Stock UOM", 
+ "Settings", 
+ "Stock Frozen Upto", 
+ "Item Code", 
+ "Auto Material Request", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.", 
+ "<a href=\"#Sales Browser/Item Group\">Add / Edit</a>", 
+ "Notify by Email on creation of automatic Material Request", 
+ "Freeze Stock Entries"
+]

@@ -1,0 +1,15 @@
+{
+ "Amount": "\u91cf", 
+ "BOM Item": "BOM\u9879\u76ee", 
+ "BOM No": "BOM\u65e0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Description": "\u9879\u76ee\u8bf4\u660e", 
+ "Manufacturing": "\u5236\u9020\u4e1a", 
+ "Operation No": "\u64cd\u4f5c\u65e0", 
+ "Qty": "\u6570\u91cf", 
+ "Qty Consumed Per Unit": "\u6570\u91cf\u6d88\u8017\u6bcf\u5355\u4f4d", 
+ "Rate": "\u7387", 
+ "Scrap %": "\u5e9f\u94a2\uff05", 
+ "See \"Rate Of Materials Based On\" in Costing Section": "\u89c1\u201c\u7387\u6750\u6599\u57fa\u4e8e\u201d\u5728\u6210\u672c\u6838\u7b97\u8282", 
+ "Stock UOM": "\u5e93\u5b58\u8ba1\u91cf\u5355\u4f4d"
+}

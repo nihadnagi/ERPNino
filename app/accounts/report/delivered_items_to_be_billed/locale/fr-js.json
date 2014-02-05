@@ -1,0 +1,11 @@
+{
+ "Amount": "Montant", 
+ "Customer": "Client", 
+ "Date": "Date", 
+ "Delivered Items To Be Billed": "Les articles livr\u00e9s \u00eatre factur\u00e9", 
+ "Delivery Note": "Remarque livraison", 
+ "Description": "Description", 
+ "Item": "Article", 
+ "Item Name": "Nom d&#39;article", 
+ "Qty": "Qt\u00e9"
+}

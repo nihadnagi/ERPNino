@@ -1,0 +1,17 @@
+{
+ "Amount": "\u91cf", 
+ "Billed Amount": "\u8d26\u5355\u91d1\u989d", 
+ "Customer": "\u987e\u5ba2", 
+ "Delivered Qty": "\u4ea4\u4ed8\u6570\u91cf", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Item-wise Sales History": "\u9879\u76ee\u660e\u667a\u7684\u9500\u552e\u5386\u53f2", 
+ "Project": "\u9879\u76ee", 
+ "Qty": "\u6570\u91cf", 
+ "Rate": "\u7387", 
+ "Sales Order": "\u9500\u552e\u8ba2\u5355", 
+ "Territory": "\u9886\u571f", 
+ "Transaction Date": "\u4ea4\u6613\u65e5\u671f", 
+ "UOM": "\u8ba1\u91cf\u5355\u4f4d"
+}

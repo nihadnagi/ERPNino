@@ -1,0 +1,9 @@
+[
+ "Invalid Master Name", 
+ "Merging is only possible if following \\\n\t\t\t\t\tproperties are same in both records.\n\t\t\t\t\tGroup or Ledger, Debit or Credit, Is PL Account", 
+ "Master Name is mandatory if account type is Warehouse", 
+ "Please enter Master Name once the account is created.", 
+ "Stock transactions exist against warehouse ", 
+ " .You can not assign / modify / remove Master Name", 
+ "You are not authorized to set Frozen value"
+]

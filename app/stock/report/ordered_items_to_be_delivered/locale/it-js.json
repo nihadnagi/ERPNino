@@ -1,0 +1,14 @@
+{
+ "Amount": "Importo", 
+ "Customer": "Cliente", 
+ "Date": "Data", 
+ "Delivered Qty": "Q.t\u00e0 Consegnata", 
+ "Description": "Descrizione", 
+ "Expected Delivery Date": "Data prevista di consegna", 
+ "Item": "Articolo", 
+ "Item Group": "Gruppo articoli", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Ordered Items To Be Delivered": "Articoli ordinati da consegnare", 
+ "Qty": "Qt\u00e0", 
+ "Sales Order": "Ordine di vendita"
+}

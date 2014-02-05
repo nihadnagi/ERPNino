@@ -1,0 +1,17 @@
+[
+ "From Sales Order", 
+ "Warning: Material Requested Qty is less than Minimum Order Qty", 
+ "Stop Material Request", 
+ "Unstop Material Request", 
+ "Make Supplier Quotation", 
+ "Get Items from BOM", 
+ "Transfer Material", 
+ "Fulfilled", 
+ "Do you really want to UNSTOP this Material Request?", 
+ "Stopped", 
+ "BOM", 
+ "Make Purchase Order", 
+ "Send SMS", 
+ "Do you really want to STOP this Material Request?", 
+ "Fetch exploded BOM (including sub-assemblies)"
+]

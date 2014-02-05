@@ -1,0 +1,21 @@
+[
+ "Voucher No", 
+ "Account", 
+ "Company", 
+ "Reset Filters", 
+ "To", 
+ "Voucher Type", 
+ "Group by Ledger", 
+ "Refresh", 
+ "Credit", 
+ "To Date", 
+ "From Date", 
+ "From Date must be before To Date", 
+ "Debit", 
+ "Remarks", 
+ "General Ledger: ", 
+ "Group by Voucher", 
+ "General Ledger", 
+ "Posting Date", 
+ "Against Account"
+]

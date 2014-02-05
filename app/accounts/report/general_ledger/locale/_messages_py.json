@@ -1,0 +1,6 @@
+[
+ "Can not filter based on Voucher No, if grouped by Voucher", 
+ "General Ledger", 
+ "From Date must be before To Date", 
+ "Can not filter based on Account, if grouped by Account"
+]

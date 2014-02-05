@@ -1,0 +1,16 @@
+{
+ "Amended From": "\u4ece\u4fee\u8ba2", 
+ "Company": "\u516c\u53f8", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Difference Account": "\u5dee\u5f02\u5e10\u6237", 
+ "Fiscal Year": "\u8d22\u653f\u5e74\u5ea6", 
+ "Posting Date": "\u53d1\u5e03\u65e5\u671f", 
+ "Posting Time": "\u53d1\u5e03\u65f6\u95f4", 
+ "Reconciliation Data": "\u6570\u636e\u5bf9\u8d26", 
+ "Reconciliation HTML": "\u548c\u89e3\u7684HTML", 
+ "Reconciliation JSON": "JSON\u5bf9\u8d26", 
+ "Stock": "\u80a1\u7968", 
+ "Stock Reconciliation": "\u5e93\u5b58\u5bf9\u8d26", 
+ "This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.": "\u6b64\u5de5\u5177\u53ef\u5e2e\u52a9\u60a8\u66f4\u65b0\u6216\u4fee\u590d\u7cfb\u7edf\u7684\u6570\u91cf\u548c\u80a1\u7968\u4f30\u503c\u3002\u5b83\u901a\u5e38\u88ab\u7528\u4e8e\u540c\u6b65\u7cfb\u7edf\u503c\u548c\u5b9e\u9645\u5b58\u5728\u4e8e\u60a8\u7684\u4ed3\u5e93\u3002", 
+ "Upload HTML": "\u4e0a\u4f20HTML"
+}

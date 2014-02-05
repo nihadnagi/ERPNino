@@ -1,0 +1,12 @@
+[
+ "Website", 
+ "Target", 
+ "Parent Label", 
+ "If you set this, this Item will come in a drop-down under the selected parent.", 
+ "URL", 
+ "target = \"_blank\"", 
+ "Label", 
+ "Link to the page you want to open", 
+ "Select target = \"_blank\" to open in a new page.", 
+ "Top Bar Item"
+]

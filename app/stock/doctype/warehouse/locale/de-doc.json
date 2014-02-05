@@ -1,0 +1,21 @@
+{
+ "A logical Warehouse against which stock entries are made.": "Eine logische Warehouse gegen die Lager-Eintr\u00e4ge vorgenommen werden.", 
+ "Address Line 1": "Address Line 1", 
+ "Address Line 2": "Address Line 2", 
+ "City": "City", 
+ "Company": "Firma", 
+ "Email Id": "Email Id", 
+ "For Reference Only.": "Nur als Referenz.", 
+ "If set, data entry is only allowed for specified users. Else, entry is allowed for all users with requisite permissions.": "Wenn gesetzt, wird die Dateneingabe nur f\u00fcr bestimmte Benutzer erlaubt. Else, wird der Eintritt f\u00fcr alle Benutzer mit den erforderlichen Berechtigungen erlaubt.", 
+ "Mobile No": "In Mobile", 
+ "PIN": "PIN", 
+ "Parent Account": "Hauptkonto", 
+ "Phone No": "Phone In", 
+ "State": "Zustand", 
+ "Stock": "Lager", 
+ "Warehouse": "Lager", 
+ "Warehouse Contact Info": "Warehouse Kontakt Info", 
+ "Warehouse Detail": "Warehouse Details", 
+ "Warehouse Name": "Warehouse Namen", 
+ "Warehouse Users": "Warehouse-Benutzer"
+}

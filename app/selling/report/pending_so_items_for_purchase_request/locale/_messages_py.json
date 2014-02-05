@@ -1,0 +1,13 @@
+[
+ "Customer", 
+ "Item Name", 
+ "Description", 
+ "Requested Qty", 
+ "SO Qty", 
+ "Material Request", 
+ "Pending SO Items For Purchase Request", 
+ "Terretory", 
+ "Date", 
+ "S.O. No.", 
+ "Item Code"
+]

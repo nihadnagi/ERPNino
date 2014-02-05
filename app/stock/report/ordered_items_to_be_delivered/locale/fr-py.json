@@ -1,0 +1,14 @@
+{
+ "Amount": "Montant", 
+ "Customer": "Client", 
+ "Date": "Date", 
+ "Delivered Qty": "Qt\u00e9 livr\u00e9e", 
+ "Description": "Description", 
+ "Expected Delivery Date": "Date de livraison pr\u00e9vue", 
+ "Item": "Article", 
+ "Item Group": "Groupe d&#39;\u00e9l\u00e9ments", 
+ "Item Name": "Nom d&#39;article", 
+ "Ordered Items To Be Delivered": "Articles command\u00e9s \u00e0 livrer", 
+ "Qty": "Qt\u00e9", 
+ "Sales Order": "Commande"
+}

@@ -1,0 +1,17 @@
+{
+ "Actual Quantity": "Quantit\u00e0 Reale", 
+ "Bin": "Bin", 
+ "FCFS Rate": "FCFS Rate", 
+ "Item Code": "Codice Articolo", 
+ "Moving Average Rate": "Media mobile Vota", 
+ "Ordered Quantity": "Ordinato Quantit\u00e0", 
+ "Planned Qty": "Qt\u00e0 Planned", 
+ "Projected Qty": "Qt\u00e0 Proiettata", 
+ "Quantity Requested for Purchase": "Quantit\u00e0 a fini di acquisto", 
+ "Reserved Quantity": "Riservato Quantit\u00e0", 
+ "Stock": "Azione", 
+ "Stock Value": "Archivio Valore", 
+ "UOM": "UOM", 
+ "Valuation Rate": "Valorizzazione Vota", 
+ "Warehouse": "Magazzino"
+}

@@ -1,0 +1,15 @@
+{
+ "<a href=\"#Sales Browser/Customer Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Customer Group\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "<a href=\"#Sales Browser/Territory\">Add / Edit</a>": "<a href=\"#Sales Browser/Territory\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Company": "\u516c\u53f8", 
+ "Default Customer Group": "\u9ed8\u8a8d\u7528\u6236\u7d44", 
+ "Default Territory": "\u9ed8\u8a8d\u9818\u5730", 
+ "Default settings for Shopping Cart": "\u5c0d\u65bc\u8cfc\u7269\u8eca\u9ed8\u8a8d\u8a2d\u7f6e", 
+ "Enable Shopping Cart": "\u555f\u7528\u7684\u8cfc\u7269\u8eca", 
+ "Quotation Series": "\u7cfb\u5217\u5831\u50f9", 
+ "Selling": "\u92b7\u552e", 
+ "Shopping Cart Price Lists": "\u8cfc\u7269\u8eca\u50f9\u76ee\u8868", 
+ "Shopping Cart Settings": "\u8cfc\u7269\u8eca\u8a2d\u7f6e", 
+ "Shopping Cart Shipping Rules": "\u8cfc\u7269\u8eca\u904b\u8cbb\u898f\u5247", 
+ "Shopping Cart Taxes and Charges Masters": "\u8cfc\u7269\u8eca\u7a05\u6536\u548c\u6536\u8cbb\u78a9\u58eb"
+}

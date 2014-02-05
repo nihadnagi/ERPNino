@@ -1,0 +1,13 @@
+{
+ "BOM No": "BOM Nein", 
+ "Description": "Beschreibung", 
+ "Item Code": "Item Code", 
+ "Manufacturing": "Herstellung", 
+ "Planned Qty": "Geplante Menge", 
+ "Production Plan Item": "Production Plan Artikel", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse": "Reserviert Warehouse in Sales Order / Fertigwarenlager", 
+ "SO Pending Qty": "SO Pending Menge", 
+ "Sales Order": "Sales Order", 
+ "UOM": "UOM", 
+ "Warehouse": "Lager"
+}

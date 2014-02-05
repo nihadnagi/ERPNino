@@ -1,0 +1,19 @@
+{
+ " or the BOM is cancelled or inactive": "o la lista de materiales se cancela o inactivo", 
+ "Atleast one warehouse is mandatory": "Atleast un almac\u00e9n es obligatorio", 
+ "Item": "Art\u00edculo", 
+ "Material Request": "Material de Solicitud", 
+ "Only Stock Items are allowed for Stock Entry": "S\u00f3lo los elementos de almac\u00e9n est\u00e1n permitidos para la entrada", 
+ "Posting Date Time cannot be before": "Fecha de contabilizaci\u00f3n El tiempo no puede ser anterior a", 
+ "Production Order": "Orden de Producci\u00f3n", 
+ "Purpose must be one of ": "Prop\u00f3sito debe ser uno de", 
+ "Quantity should be equal to Manufacturing Quantity. ": "Cantidad debe ser igual a la cantidad de fabricaci\u00f3n.", 
+ "Row #": "Fila #", 
+ "Row # ": "Fila #", 
+ "Source Warehouse": "Fuente de dep\u00f3sito", 
+ "Source and Target Warehouse cannot be same": "Origen y destino de dep\u00f3sito no puede ser el mismo", 
+ "Status should be Submitted": "Estado debe ser presentado", 
+ "Target Warehouse": "De destino de dep\u00f3sito", 
+ "Update Stock should be checked.": "Actualizaci\u00f3n de stock debe ser revisado.", 
+ "does not belong to BOM: ": "no pertenece a la lista de materiales:"
+}

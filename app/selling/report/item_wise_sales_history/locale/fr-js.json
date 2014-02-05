@@ -1,0 +1,16 @@
+{
+ "Amount": "Montant", 
+ "Customer": "Client", 
+ "Delivered Qty": "Qt\u00e9 livr\u00e9e", 
+ "Description": "Description", 
+ "Item Code": "Code de l&#39;article", 
+ "Item Name": "Nom d&#39;article", 
+ "Item-wise Sales History": "Point-sage Historique des ventes", 
+ "Project": "Projet", 
+ "Qty": "Qt\u00e9", 
+ "Rate": "Taux", 
+ "Sales Order": "Commande", 
+ "Territory": "Territoire", 
+ "Transaction Date": "Date de la transaction", 
+ "UOM": "Emballage"
+}

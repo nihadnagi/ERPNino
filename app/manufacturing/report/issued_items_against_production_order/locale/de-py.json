@@ -1,0 +1,14 @@
+{
+ "Amount": "Menge", 
+ "Description": "Beschreibung", 
+ "Issue Date": "Issue Date", 
+ "Issued Items Against Production Order": "Ausgestellt Titel Against Fertigungsauftrag", 
+ "Item Code": "Item Code", 
+ "Production Order": "Fertigungsauftrag", 
+ "Qty": "Menge", 
+ "Serial No": "Serial In", 
+ "Source Warehouse": "Quelle Warehouse", 
+ "Stock Entry": "Lager Eintrag", 
+ "Target Warehouse": "Ziel Warehouse", 
+ "UOM": "UOM"
+}

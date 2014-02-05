@@ -1,0 +1,10 @@
+{
+ "Check this to make this the default letter head in all prints": "\u52fe\u9009\u8fd9\u4e2a\u6765\u8ba9\u8fd9\u4e2a\u9ed8\u8ba4\u7684\u4fe1\u5934\u4e2d\u7684\u6240\u6709\u6253\u5370", 
+ "Content": "\u5185\u5bb9", 
+ "Core": "\u6838\u5fc3", 
+ "Disabled": "\u6b8b", 
+ "Is Default": "\u662f\u9ed8\u8ba4", 
+ "Letter Head": "\u4fe1\u5934", 
+ "Letter Head Name": "\u4fe1\u5934\u540d", 
+ "Letter Head in HTML": "\u4fe1\u5934\u4e2d\u7684HTML"
+}

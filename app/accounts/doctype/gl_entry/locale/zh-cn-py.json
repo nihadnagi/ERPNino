@@ -1,0 +1,14 @@
+{
+ " does not belong to the company": "\u4e0d\u5c5e\u4e8e\u8be5\u516c\u53f8", 
+ " is a frozen account. ": "\u662f\u51b7\u51bb\u7684\u5e10\u6237\u3002", 
+ " is mandatory for GL Entry": "\u662f\u5f3a\u5236\u6027\u7684GL\u62a5\u540d", 
+ "Account": "\u5e10\u6237", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Cost Center must be specified for PL Account: ": "\u6210\u672c\u4e2d\u5fc3\u5fc5\u987b\u4e3a\u7279\u7b49\u8d26\u6237\u6307\u5b9a\uff1a", 
+ "For opening balance entry account can not be a PL account": "\u5bf9\u4e8e\u671f\u521d\u4f59\u989d\u8fdb\u5165\u5e10\u6237\u4e0d\u80fd\u662f\u4e00\u4e2aPL\u5e10\u6237", 
+ "GL Entry: Debit or Credit amount is mandatory for ": "GL\u5f55\u5165\uff1a\u501f\u65b9\u6216\u8d37\u65b9\u91d1\u989d\u662f\u5f3a\u5236\u6027\u7684", 
+ "Negative balance is not allowed for account ": "\u8d1f\u5e73\u8861\u662f\u4e0d\u5141\u8bb8\u7684\u5e10\u6237", 
+ "Outstanding for Voucher ": "\u6770\u51fa\u7684\u4f18\u60e0\u5238", 
+ "To create / edit transactions against this account, you need role": "\u8981\u7981\u6b62\u8be5\u5e10\u6237\u521b\u5efa/\u7f16\u8f91\u4e8b\u52a1\uff0c\u4f60\u9700\u8981\u89d2\u8272", 
+ "You are not authorized to do/modify back dated entries before ": "\u60a8\u65e0\u6743\u505a/\u4fee\u6539\u4e4b\u524d\u8ffd\u6eaf\u9879\u76ee"
+}

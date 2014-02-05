@@ -1,0 +1,14 @@
+{
+ "<a href=\"#Sales Browser/Item Group\">Add / Edit</a>": "<a href=\"#Sales Browser/Item Group\">\u6dfb\u52a0/\u7de8\u8f2f</a>", 
+ "Basic Rate": "\u57fa\u790e\u901f\u7387", 
+ "Brand": "\u724c", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Item Group": "\u9805\u76ee\u7d44", 
+ "Item Name": "\u9805\u76ee\u540d\u7a31", 
+ "Opportunity Item": "\u9805\u76ee\u7684\u6a5f\u6703", 
+ "Qty": "\u6578\u91cf", 
+ "Quantity and Rate": "\u6578\u91cf\u548c\u901f\u7387", 
+ "Selling": "\u92b7\u552e", 
+ "UOM": "\u8a08\u91cf\u55ae\u4f4d"
+}

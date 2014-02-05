@@ -1,0 +1,17 @@
+{
+ "Account": "Rekening", 
+ "Against Account": "Tegen account", 
+ "Company": "Vennootschap", 
+ "Credit": "Krediet", 
+ "Debit": "Debet", 
+ "From Date": "Van Datum", 
+ "From Date must be before To Date": "Van datum moet voor-to-date", 
+ "General Ledger": "Grootboek", 
+ "Posting Date": "Plaatsingsdatum", 
+ "Refresh": "Verversen", 
+ "Remarks": "Opmerkingen", 
+ "To": "Naar", 
+ "To Date": "To-date houden", 
+ "Voucher No": "Blad nr.", 
+ "Voucher Type": "Voucher Type"
+}

@@ -1,0 +1,13 @@
+{
+ "BOM No": "N. DiBa", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Manufacturing": "Produzione", 
+ "Planned Qty": "Qt\u00e0 Planned", 
+ "Production Plan Item": "Produzione Piano Voce", 
+ "Reserved Warehouse in Sales Order / Finished Goods Warehouse": "Warehouse Riservato a ordini di vendita / Magazzino prodotti finiti", 
+ "SO Pending Qty": "SO attesa Qt\u00e0", 
+ "Sales Order": "Ordine di vendita", 
+ "UOM": "UOM", 
+ "Warehouse": "Magazzino"
+}

@@ -1,0 +1,8 @@
+{
+ " already marked": "ya marcada", 
+ " not active or does not exists in the system": "no activa o no se existe en el sistema", 
+ ". You can not mark his attendance as 'Present'": ". No se puede marcar su asistencia como &quot;presente&quot;", 
+ "Attendance can not be marked for future dates": "La asistencia no se puede marcar para fechas futuras", 
+ "Attendance for the employee: ": "La asistencia para el empleado:", 
+ "Employee: ": "Empleado:"
+}

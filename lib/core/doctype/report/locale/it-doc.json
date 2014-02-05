@@ -1,0 +1,19 @@
+{
+ "Add Total Row": "Aggiungere Riga Totale", 
+ "Core": "Core", 
+ "Disabled": "Disabilitato", 
+ "Is Standard": "\u00c8 standard", 
+ "JSON": "JSON", 
+ "JavaScript Format: wn.query_reports['REPORTNAME'] = {}": "Formato JavaScript: wn.query_reports [&#39;REPORTNAME&#39;] = {}", 
+ "Javascript": "Javascript", 
+ "No": "No", 
+ "Query": "Query", 
+ "Query Report": "Rapporto sulle query", 
+ "Ref DocType": "Rif. DocType", 
+ "Report": "Segnala", 
+ "Report Builder": "Report Builder", 
+ "Report Name": "Nome rapporto", 
+ "Report Type": "Tipo di rapporto", 
+ "Script Report": "Segnala Script", 
+ "Yes": "S\u00ec"
+}

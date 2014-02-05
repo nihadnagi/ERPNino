@@ -1,0 +1,10 @@
+{
+ "Amount": "Importo", 
+ "Customer": "Cliente", 
+ "Date": "Data", 
+ "Description": "Descrizione", 
+ "Item": "Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Ordered Items To Be Billed": "Articoli ordinati da fatturare", 
+ "Sales Order": "Ordine di vendita"
+}

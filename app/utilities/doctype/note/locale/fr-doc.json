@@ -1,0 +1,12 @@
+{
+ "Content": "Teneur", 
+ "Everyone can read": "Tout le monde peut lire", 
+ "Help: To link to another record in the system, use \"#Form/Note/[Note Name]\" as the Link URL. (don't use \"http://\")": "Aide: Pour lier \u00e0 un autre enregistrement dans le syst\u00e8me, utiliser &quot;# Form / Note / [Note Nom]\u00bb, comme l&#39;URL du lien. (Ne pas utiliser &quot;http://&quot;)", 
+ "Note": "Remarque", 
+ "Note is a free page where users can share documents / notes": "Note est une page libre o\u00f9 les utilisateurs peuvent partager des documents / notes", 
+ "Public": "Public", 
+ "Share": "Partager", 
+ "Share With": "Partager avec", 
+ "Title": "Titre", 
+ "Utilities": "Utilitaires"
+}

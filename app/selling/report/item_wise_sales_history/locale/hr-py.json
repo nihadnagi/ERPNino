@@ -1,0 +1,16 @@
+{
+ "Amount": "Iznos", 
+ "Customer": "Kupac", 
+ "Delivered Qty": "Isporu\u010dena Kol", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Item-wise Sales History": "Stavka-mudar Prodaja Povijest", 
+ "Project": "Projekt", 
+ "Qty": "Kol", 
+ "Rate": "Stopa", 
+ "Sales Order": "Prodajnog naloga", 
+ "Territory": "Teritorija", 
+ "Transaction Date": "Transakcija Datum", 
+ "UOM": "UOM"
+}

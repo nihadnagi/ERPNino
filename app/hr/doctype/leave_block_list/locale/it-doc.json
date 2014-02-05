@@ -1,0 +1,16 @@
+{
+ "Allow Users": "Consentire Utenti", 
+ "Allow the following users to approve Leave Applications for block days.": "Consentire i seguenti utenti per approvare le richieste per i giorni di blocco.", 
+ "Applies to Company": "Applica ad Azienda", 
+ "Block Days": "Giorno Blocco", 
+ "Block Holidays on important days.": "Blocco Vacanze in giorni importanti", 
+ "Company": "Azienda", 
+ "HR": "HR", 
+ "If not checked, the list will have to be added to each Department where it has to be applied.": "Se non controllati, la lista dovr\u00e0 essere aggiunto a ciascun Dipartimento dove deve essere applicato.", 
+ "Leave Block List": "Lascia Block List", 
+ "Leave Block List Allowed": "Lascia Block List ammessi", 
+ "Leave Block List Dates": "Lascia Blocco Elenco date", 
+ "Leave Block List Name": "Lascia Block List Nome", 
+ "Stop users from making Leave Applications on following days.": "Impedire agli utenti di effettuare Lascia le applicazioni in giorni successivi.", 
+ "Year": "Anno"
+}

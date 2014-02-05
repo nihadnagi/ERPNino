@@ -1,0 +1,8 @@
+{
+ "Example:": "Voorbeeld:", 
+ "Report Builder reports are managed directly by the report builder. Nothing to do.": "Report Builder rapporten worden rechtstreeks beheerd door de Report Builder. Niets te doen.", 
+ "To format columns, give column labels in the query.": "Om kolommen opmaken, geef kolom labels in de query.", 
+ "Write a Python file in the same folder where this is saved and return column and result.": "Schrijf een Python bestand in dezelfde map waarin deze is opgeslagen en terugkeer kolom en resultaat.", 
+ "Write a SELECT query. Note result is not paged (all data is sent in one go).": "Schrijf een SELECT-query. Opmerking resultaat wordt niet opgeroepen (alle data wordt verzonden in een keer).", 
+ "[Label]:[Field Type]/[Options]:[Width]": "[Label]: [Veld Type] / [Opties]: [Breedte]"
+}

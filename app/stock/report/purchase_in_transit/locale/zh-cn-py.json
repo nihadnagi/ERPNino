@@ -1,0 +1,14 @@
+{
+ "Amount": "\u91cf", 
+ "Company": "\u516c\u53f8", 
+ "Description": "\u63cf\u8ff0", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "PR Posting Date": "\u516c\u5173\u5bc4\u53d1\u65e5\u671f", 
+ "Posting Date": "\u53d1\u5e03\u65e5\u671f", 
+ "Purchase In Transit": "\u8d2d\u4e70\u8fd0\u8f93", 
+ "Purchase Invoice": "\u8d2d\u4e70\u53d1\u7968", 
+ "Purchase Order": "\u91c7\u8d2d\u8ba2\u5355", 
+ "Purchase Receipt": "\u5916\u8d2d\u5165\u5e93\u5355", 
+ "Qty": "\u6570\u91cf", 
+ "Supplier Account": "\u4f9b\u5e94\u5546\u5e10\u6237"
+}

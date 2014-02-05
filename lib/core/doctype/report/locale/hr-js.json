@@ -1,0 +1,8 @@
+{
+ "Example:": "Primjer:", 
+ "Report Builder reports are managed directly by the report builder. Nothing to do.": "Report Builder izvje\u0161\u0107a se izravno upravlja Report Builder. Ni\u0161ta u\u010diniti.", 
+ "To format columns, give column labels in the query.": "Za formatiranje stupaca, daju natpise stupaca u upitu.", 
+ "Write a Python file in the same folder where this is saved and return column and result.": "Napi\u0161ite Python datoteku u istu mapu gdje je spremljena i povratka stupcu i rezultat.", 
+ "Write a SELECT query. Note result is not paged (all data is sent in one go).": "Napi\u0161ite SELECT upita. Napomena rezultat nije zvao (svi podaci se \u0161alju u jednom potezu).", 
+ "[Label]:[Field Type]/[Options]:[Width]": "[Label]: [Field Type] / [Options]: [\u0160irina]"
+}

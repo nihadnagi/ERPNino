@@ -1,0 +1,14 @@
+{
+ "Against Document Detail No": "\u5bf9\u6587\u4ef6\u8be6\u7ec6\u8bf4\u660e\u6682\u65e0", 
+ "Against Document No": "\u5bf9\u6587\u4ef6\u65e0", 
+ "Description": "\u63cf\u8ff0", 
+ "Document Type": "\u6587\u4ef6\u7c7b\u578b", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Item Name": "\u9879\u76ee\u540d\u79f0", 
+ "Maintenance Visit Purpose": "\u7ef4\u62a4\u8bbf\u95ee\u76ee\u7684", 
+ "Sales Person": "\u9500\u552e\u4eba\u5458", 
+ "Serial No": "\u5e8f\u5217\u53f7", 
+ "Support": "\u652f\u6301", 
+ "Work Details": "\u4f5c\u54c1\u8be6\u7ec6\u4fe1\u606f", 
+ "Work Done": "\u5de5\u4f5c\u5b8c\u6210"
+}

@@ -1,0 +1,13 @@
+{
+ "Amount": "\u91cf", 
+ "BOM Detail No": "BOM\u8868\u8be6\u7ec6\u8bf4\u660e\u6682\u65e0", 
+ "Buying": "\u6c42\u8d2d", 
+ "Conversion Factor": "\u8f6c\u6362\u56e0\u5b50", 
+ "Item Code": "\u4ea7\u54c1\u7f16\u53f7", 
+ "Purchase Order Item Supplied": "\u91c7\u8d2d\u8ba2\u5355\u9879\u76ee\u63d0\u4f9b", 
+ "Rate": "\u7387", 
+ "Raw Material Item Code": "\u539f\u6599\u4ea7\u54c1\u7f16\u53f7", 
+ "Reference Name": "\u53c2\u8003\u540d\u79f0", 
+ "Required Qty": "\u6240\u9700\u6570\u91cf", 
+ "Stock Uom": "\u5e93\u5b58\u8ba1\u91cf\u5355\u4f4d"
+}

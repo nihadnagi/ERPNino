@@ -1,0 +1,10 @@
+{
+ "Amount": "Iznos", 
+ "Date": "Datum", 
+ "Description": "Opis", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Name": "Stavka Ime", 
+ "Purchase Order": "Narud\u017ebenica", 
+ "Purchase Order Items To Be Billed": "Narud\u017ebenica Proizvodi se napla\u0107uje", 
+ "Supplier": "Dobavlja\u010d"
+}

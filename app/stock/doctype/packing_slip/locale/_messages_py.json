@@ -1,0 +1,6 @@
+[
+ "Please specify a valid 'From Case No.'", 
+ "Invalid Delivery Note. Delivery Note should exist and should be in \n\t\t\t\tdraft state. Please rectify and try again.", 
+ "'To Case No.' cannot be less than 'From Case No.'", 
+ "No Items to Pack"
+]

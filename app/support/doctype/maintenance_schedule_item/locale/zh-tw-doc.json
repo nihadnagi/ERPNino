@@ -1,0 +1,22 @@
+{
+ "Against Docname": "\u53ef\u63a1\u7528DocName\u53cd\u5c0d", 
+ "Description": "\u63cf\u8ff0", 
+ "End Date": "\u7d50\u675f\u65e5\u671f", 
+ "Half Yearly": "\u534a\u5e74\u5ea6", 
+ "Item Code": "\u7522\u54c1\u7de8\u865f", 
+ "Item Name": "\u9805\u76ee\u540d\u7a31", 
+ "Maintenance Schedule Item": "\u7dad\u8b77\u8a08\u5283\u9805\u76ee", 
+ "Monthly": "\u6bcf\u6708\u4e00\u6b21", 
+ "No of Visits": "\u6c92\u6709\u8a2a\u554f\u91cf\u7684", 
+ "Periodicity": "\u9031\u671f\u6027", 
+ "Quarterly": "\u5b63\u520a", 
+ "Random": "\u96a8\u6a5f", 
+ "Reference": "\u53c3\u8003", 
+ "Sales Person Incharge": "\u92b7\u552e\u4eba\u54e1Incharge", 
+ "Schedule Details": "\u8a08\u5283\u8a73\u7d30\u4fe1\u606f", 
+ "Serial No": "\u5e8f\u5217\u865f", 
+ "Start Date": "\u958b\u59cb\u65e5\u671f", 
+ "Support": "\u652f\u6301", 
+ "Weekly": "\u5468\u520a", 
+ "Yearly": "\u6bcf\u5e74"
+}

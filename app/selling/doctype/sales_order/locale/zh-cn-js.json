@@ -1,0 +1,16 @@
+{
+ "% Billed": "\uff05\u5e10\u5355", 
+ "% Delivered": "\uff05\u4ea4\u4ed8", 
+ "Are you sure you want to STOP ": "\u60a8\u786e\u5b9a\u8981\u505c\u6b62", 
+ "Are you sure you want to UNSTOP ": "\u60a8\u786e\u5b9a\u8981UNSTOP", 
+ "From Quotation": "\u4ece\u62a5\u4ef7", 
+ "Make ": "\u4f7f", 
+ "Make Delivery": "\u4f7f\u4ea4\u8d27", 
+ "Make Invoice": "\u4f7f\u53d1\u7968", 
+ "Make Maint. Schedule": "\u8ba9MAINT\u3002\u65f6\u95f4\u8868", 
+ "Make Maint. Visit": "\u8ba9MAINT\u3002\u8bbf\u95ee", 
+ "Send SMS": "\u53d1\u9001\u77ed\u4fe1", 
+ "Stop!": "\u4f4f\u624b\uff01", 
+ "Stopped": "\u505c\u6b62", 
+ "Unstop": "Unstop"
+}

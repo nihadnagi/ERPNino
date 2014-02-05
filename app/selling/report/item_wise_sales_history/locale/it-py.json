@@ -1,0 +1,16 @@
+{
+ "Amount": "Importo", 
+ "Customer": "Cliente", 
+ "Delivered Qty": "Q.t\u00e0 Consegnata", 
+ "Description": "Descrizione", 
+ "Item Code": "Codice Articolo", 
+ "Item Name": "Nome dell&#39;articolo", 
+ "Item-wise Sales History": "Articolo-saggio Storia Vendite", 
+ "Project": "Progetto", 
+ "Qty": "Qt\u00e0", 
+ "Rate": "Vota", 
+ "Sales Order": "Ordine di vendita", 
+ "Territory": "Territorio", 
+ "Transaction Date": "Transaction Data", 
+ "UOM": "UOM"
+}

@@ -1,0 +1,19 @@
+{
+ "Acceptance Criteria": "\u9a8c\u6536\u6807\u51c6", 
+ "Accepted": "\u63a5\u53d7", 
+ "Buying": "\u6c42\u8d2d", 
+ "Parameter": "\u53c2\u6570", 
+ "Quality Inspection Reading": "\u8d28\u91cf\u68c0\u9a8c\u9605\u8bfb", 
+ "Reading 1": "\u9605\u8bfb1", 
+ "Reading 10": "\u9605\u8bfb10", 
+ "Reading 2": "\u9605\u8bfb2", 
+ "Reading 3": "\u9605\u8bfb3", 
+ "Reading 4": "4\u9605\u8bfb", 
+ "Reading 5": "\u9605\u8bfb5", 
+ "Reading 6": "6\u9605\u8bfb", 
+ "Reading 7": "7\u9605\u8bfb", 
+ "Reading 8": "\u9605\u8bfb8", 
+ "Reading 9": "9\u9605\u8bfb", 
+ "Rejected": "\u62d2\u7edd", 
+ "Status": "\u72b6\u6001"
+}

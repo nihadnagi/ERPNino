@@ -1,0 +1,10 @@
+{
+ "List items that form the package.": "Lijst items die het pakket vormen.", 
+ "Package Items": "Pakket Artikelen", 
+ "Parent Item": "Parent Item", 
+ "Sales BOM": "Verkoop BOM", 
+ "Sales BOM Item": "Verkoop BOM Item", 
+ "Sales BOM Items": "Verkoop BOM Items", 
+ "Selling": "Selling", 
+ "The Item that represents the Package. This Item must have \"Is Stock Item\" as \"No\" and \"Is Sales Item\" as \"Yes\"": "Het item dat het pakket vertegenwoordigt. Dit artikel moet hebben &quot;Is Stock Item&quot; als &quot;No&quot; en &quot;Is Sales Item&quot; als &quot;Yes&quot;"
+}

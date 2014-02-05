@@ -1,0 +1,7 @@
+{
+ " is present in one or many Active BOMs": "aanwezig is in een of vele Actieve stuklijsten", 
+ " should be 'Yes'. As Item: ": "zou moeten zijn &#39;Yes&#39;. Als Item:", 
+ "Default Warehouse is mandatory for Stock Item.": "Standaard Warehouse is verplicht voor Stock Item.", 
+ "Item Code (item_code) is mandatory because Item naming is not sequential.": "Item Code (item_code) is verplicht omdat Item naamgeving is niet sequentieel.", 
+ "Please enter Default Unit of Measure": "Vul Default Meeteenheid"
+}

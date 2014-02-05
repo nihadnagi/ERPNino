@@ -1,0 +1,12 @@
+{
+ " (Half Day)": "\uff08\u534a\u5929\uff09", 
+ "Cannot approve leave as you are not authorized to approve leaves on Block Dates.": "\u56e0\u70ba\u4f60\u7121\u6b0a\u6279\u51c6\u6a39\u8449\u5ea7\u65e5\u671f\u4e0d\u80fd\u6279\u51c6\u4f11\u5047\u3002", 
+ "For Employee": "\u5c0d\u65bc\u54e1\u5de5", 
+ "Holiday": "\u7bc0\u65e5", 
+ "Leave Application": "\u96e2\u958b\u61c9\u7528", 
+ "Leave Approver can be one of": "\u96e2\u958b\u5be9\u6279\u8005\u53ef\u4ee5\u662f\u4e00\u500b", 
+ "Leave Blocked": "\u96e2\u958b\u5c01\u9396", 
+ "New Leave Application": "\u65b0\u5047\u671f\u7533\u8acb", 
+ "Warning: Leave application contains following block dates": "\u8b66\u544a\uff1a\u96e2\u958b\u61c9\u7528\u7a0b\u5e8f\u5305\u542b\u4ee5\u4e0b\u6a21\u584a\u65e5\u671f", 
+ "does not have role 'Leave Approver'": "\u6c92\u6709\u4f5c\u7528\u201c\u4f11\u5047\u5be9\u6279&#39;"
+}

@@ -1,0 +1,14 @@
+{
+ "Amount": "Iznos", 
+ "Customer": "Kupac", 
+ "Date": "Datum", 
+ "Delivered Qty": "Isporu\u010dena Kol", 
+ "Description": "Opis", 
+ "Expected Delivery Date": "O\u010dekivani rok isporuke", 
+ "Item": "Stavka", 
+ "Item Group": "Stavka Grupa", 
+ "Item Name": "Stavka Ime", 
+ "Ordered Items To Be Delivered": "Naru\u010deni Proizvodi se dostavljaju", 
+ "Qty": "Kol", 
+ "Sales Order": "Prodajnog naloga"
+}

@@ -1,0 +1,10 @@
+{
+ "Amount": "Bedrag", 
+ "Customer": "Klant", 
+ "Date": "Datum", 
+ "Description": "Beschrijving", 
+ "Item": "Item", 
+ "Item Name": "Naam van het punt", 
+ "Ordered Items To Be Billed": "Bestelde artikelen te factureren", 
+ "Sales Order": "Verkooporder"
+}

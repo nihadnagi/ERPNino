@@ -1,0 +1,16 @@
+{
+ "Amount": "Quantidade", 
+ "Customer": "Cliente", 
+ "Delivered Qty": "Qtde entregue", 
+ "Description": "Descri\u00e7\u00e3o", 
+ "Item Code": "C\u00f3digo do Item", 
+ "Item Name": "Nome do Item", 
+ "Item-wise Sales History": "Item-wise Hist\u00f3rico de Vendas", 
+ "Project": "Projeto", 
+ "Qty": "Qtde.", 
+ "Rate": "Taxa", 
+ "Sales Order": "Ordem de Venda", 
+ "Territory": "Territ\u00f3rio", 
+ "Transaction Date": "Data da Transa\u00e7\u00e3o", 
+ "UOM": "UDM"
+}

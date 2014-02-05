@@ -1,0 +1,17 @@
+{
+ "Allow Attach": "Consentire Allegati", 
+ "Core": "Core", 
+ "Customize Form": "Personalizzare modulo", 
+ "Customize Label, Print Hide, Default etc.": "Personalizzare Etichetta,Nascondere Stampa, predefinito etc.", 
+ "Default Print Format": "Formato Stampa Predefinito", 
+ "Enter Form Type": "Inserisci Tipo Modulo", 
+ "Fields": "Campi", 
+ "Fields separated by comma (,) will be included in the<br /><b>Search By</b> list of Search dialog box": "Campi separati da virgola (,) saranno inclusi in<br /><b>Cerca per</b>lista nel box di ricerca", 
+ "Hide Copy": "Nascondi Copia", 
+ "Hide Email": "Nascondi Email", 
+ "Hide Print": "Nascondi Stampa", 
+ "Max Attachments": "Numero massimo allegati", 
+ "Note: maximum attachment size = 1mb": "Nota: la dimensione massima allegato = 1MB", 
+ "Properties": "Propriet\u00e0", 
+ "Search Fields": "Campi di ricerca"
+}

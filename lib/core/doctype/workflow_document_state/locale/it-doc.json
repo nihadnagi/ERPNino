@@ -1,0 +1,11 @@
+{
+ "Core": "Core", 
+ "Doc Status": "Stato Doc", 
+ "Message": "Messaggio", 
+ "Only Allow Edit For": "Consenti solo Edit Per", 
+ "Represents the states allowed in one document and role assigned to change the state.": "Rappresenta gli stati ammessi in un unico documento e ruolo assegnato per cambiare lo stato.", 
+ "State": "Stato", 
+ "Update Field": "Aggiorna campo", 
+ "Update Value": "Aggiornamento del valore", 
+ "Workflow Document State": "Workflow di Stato Documento"
+}

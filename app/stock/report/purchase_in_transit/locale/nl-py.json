@@ -1,0 +1,12 @@
+{
+ "Amount": "Bedrag", 
+ "Company": "Vennootschap", 
+ "Description": "Beschrijving", 
+ "Item Code": "Artikelcode", 
+ "Posting Date": "Plaatsingsdatum", 
+ "Purchase In Transit": "Aankoop In Transit", 
+ "Purchase Invoice": "Aankoop Factuur", 
+ "Purchase Order": "Purchase Order", 
+ "Purchase Receipt": "Aankoopbewijs", 
+ "Qty": "Aantal"
+}

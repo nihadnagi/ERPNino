@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Dopustite negativnu Stock", 
+ "Allowance Percent": "Dodatak posto", 
+ "Auto Material Request": "Auto Materijal Zahtjev", 
+ "Default Item Group": "Zadani artikla Grupa", 
+ "Default Stock UOM": "Zadani katalo\u0161ki UOM", 
+ "Default Valuation Method": "Zadani metoda vrednovanja", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "Zamrzavanje Stock Unosi", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Item Naming By": "Stavka nazivanje", 
+ "Moving Average": "Moving Average", 
+ "Naming Series": "Imenovanje serije", 
+ "Notify by Email on creation of automatic Material Request": "Obavijesti putem e-po\u0161te na stvaranje automatskog Materijal Zahtjeva", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Postotak koju smiju primiti ili isporu\u010diti vi\u0161e od naru\u010dene koli\u010dine. Na primjer: Ako ste naru\u010dili 100 jedinica. i tvoj ispravak je 10% onda se smiju primati 110 jedinica.", 
+ "Raise Material Request when stock reaches re-order level": "Podignite Materijal Zahtjev kad dionica dosegne ponovno poredak razinu", 
+ "Role Allowed to edit frozen stock": "Uloga dopu\u0161tenih urediti smrznute zalihe", 
+ "Settings": "Postavke", 
+ "Stock": "Zaliha", 
+ "Stock Frozen Upto": "Katalo\u0161ki Frozen Upto", 
+ "Stock Settings": "Stock Postavke"
+}

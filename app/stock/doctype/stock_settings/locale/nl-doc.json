@@ -1,0 +1,22 @@
+{
+ "Allow Negative Stock": "Laat Negatieve voorraad", 
+ "Allowance Percent": "Toelage Procent", 
+ "Auto Material Request": "Automatisch Materiaal Request", 
+ "Default Item Group": "Standaard Onderdeel Groep", 
+ "Default Stock UOM": "Default Stock Verpakking", 
+ "Default Valuation Method": "Standaard Valuation Method", 
+ "FIFO": "FIFO", 
+ "Freeze Stock Entries": "Freeze Stock Entries", 
+ "Item Code": "Artikelcode", 
+ "Item Naming By": "Punt benoemen Door", 
+ "Moving Average": "Moving Average", 
+ "Naming Series": "Benoemen Series", 
+ "Notify by Email on creation of automatic Material Request": "Informeer per e-mail op de creatie van automatische Materiaal Request", 
+ "Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.": "Percentage dat u mag ontvangen of te leveren meer tegen de bestelde hoeveelheid. Bijvoorbeeld: Als u heeft besteld 100 eenheden. en uw Allowance is 10% dan mag je 110 eenheden ontvangen.", 
+ "Raise Material Request when stock reaches re-order level": "Raise Materiaal aanvragen bij voorraad strekt re-order niveau", 
+ "Role Allowed to edit frozen stock": "Rol toegestaan \u200b\u200bop bevroren voorraad bewerken", 
+ "Settings": "Instellingen", 
+ "Stock": "Voorraad", 
+ "Stock Frozen Upto": "Stock Bevroren Tot", 
+ "Stock Settings": "Stock Instellingen"
+}

@@ -1,0 +1,6 @@
+{
+ "Item": "Stavka", 
+ "Please select a": "Molimo odaberite", 
+ "Please select a service item or change the order type to Sales.": "Molimo odaberite stavku usluga ili promijeniti vrstu naloga za prodaju.", 
+ "not a service item.": "Ne usluga stavku."
+}

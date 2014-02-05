@@ -1,0 +1,20 @@
+{
+ "Account Head": "\u5e33\u6236\u982d", 
+ "Accounts": "\u8cec\u6236", 
+ "Actual": "\u5be6\u969b", 
+ "Amount": "\u91cf", 
+ "Cost Center": "\u6210\u672c\u4e2d\u5fc3", 
+ "Description": "\u63cf\u8ff0", 
+ "Enter Row": "\u8f38\u5165\u884c", 
+ "If checked, the tax amount will be considered as already included in the Print Rate / Print Amount": "\u5982\u679c\u9078\u4e2d\uff0c\u7d0d\u7a05\u984d\u5c07\u88ab\u8996\u70ba\u5df2\u5305\u62ec\u5728\u6253\u5370\u901f\u5ea6/\u6253\u5370\u91cf", 
+ "Is this Tax included in Basic Rate?": "\u5305\u62ec\u5728\u57fa\u672c\u901f\u7387\u6b64\u7a05\uff1f", 
+ "Item Wise Tax Detail ": "\u9805\u76ee\u667a\u8005\u7a05\u5236\u660e\u7d30", 
+ "On Net Total": "\u5728\u7e3d\u6de8", 
+ "On Previous Row Amount": "\u5728\u4e0a\u4e00\u884c\u91d1\u984d", 
+ "On Previous Row Total": "\u5728\u4e0a\u4e00\u884c\u5171", 
+ "Parenttype": "Parenttype", 
+ "Rate": "\u7387", 
+ "Sales Taxes and Charges": "\u92b7\u552e\u7a05\u91d1\u53ca\u8cbb\u7528", 
+ "Total": "\u7e3d", 
+ "Type": "\u985e\u578b"
+}

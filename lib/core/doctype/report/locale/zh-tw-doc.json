@@ -1,0 +1,19 @@
+{
+ "Add Total Row": "\u6dfb\u52a0\u7e3d\u8a08\u884c", 
+ "Core": "\u6838\u5fc3", 
+ "Disabled": "\u6b98", 
+ "Is Standard": "\u70ba\u6a19\u6e96", 
+ "JSON": "JSON", 
+ "JavaScript Format: wn.query_reports['REPORTNAME'] = {}": "JavaScript\u7684\u683c\u5f0f\uff1awn.query_reports [&#39;REPORTNAME&#39;] = {}", 
+ "Javascript": "\u4f7f\u7528Javascript", 
+ "No": "\u7121", 
+ "Query": "\u8a62\u554f", 
+ "Query Report": "\u67e5\u8a62\u5831\u8868", 
+ "Ref DocType": "\u53c3\u8003\u7684DocType", 
+ "Report": "\u5831\u544a", 
+ "Report Builder": "\u5831\u8868\u751f\u6210\u5668", 
+ "Report Name": "\u5831\u544a\u540d\u7a31", 
+ "Report Type": "\u5831\u544a\u985e\u578b", 
+ "Script Report": "\u8173\u672c\u5831\u544a", 
+ "Yes": "\u662f\u7684"
+}

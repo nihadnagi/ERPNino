@@ -1,0 +1,21 @@
+{
+ "Accounts": "Cuentas", 
+ "Cash/Bank Account": "Efectivo / Cuenta Bancaria", 
+ "Charge": "Cargo", 
+ "Company": "Empresa", 
+ "Cost Center": "De centros de coste", 
+ "Create Stock Ledger Entries when you submit a Sales Invoice": "Creaci\u00f3n de entradas del libro mayor al momento de enviar una factura de venta", 
+ "Currency": "Moneda", 
+ "Customer": "Cliente", 
+ "Expense Account": "Cuenta de gastos", 
+ "Income Account": "Cuenta de ingresos", 
+ "Letter Head": "Carta Head", 
+ "POS Setting": "Configuraci\u00f3n POS", 
+ "Price List": "Precio de lista", 
+ "Print Heading": "Imprimir Encabezado", 
+ "Terms and Conditions": "T\u00e9rminos y Condiciones", 
+ "Territory": "Territorio", 
+ "Update Stock": "Actualizaci\u00f3n de almacen", 
+ "User": "Usuario", 
+ "Warehouse": "Almac\u00e9n"
+}

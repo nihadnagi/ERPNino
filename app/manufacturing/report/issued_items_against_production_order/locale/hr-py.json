@@ -1,0 +1,14 @@
+{
+ "Amount": "Iznos", 
+ "Description": "Opis", 
+ "Issue Date": "Datum izdavanja", 
+ "Issued Items Against Production Order": "Izdana Proizvodi prema proizvodnji Reda", 
+ "Item Code": "Stavka \u0160ifra", 
+ "Production Order": "Proizvodnja Red", 
+ "Qty": "Kol", 
+ "Serial No": "Serijski br", 
+ "Source Warehouse": "Izvor galerija", 
+ "Stock Entry": "Katalo\u0161ki Stupanje", 
+ "Target Warehouse": "Ciljana galerija", 
+ "UOM": "UOM"
+}

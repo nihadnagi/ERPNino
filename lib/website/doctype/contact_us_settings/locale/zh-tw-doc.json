@@ -1,0 +1,16 @@
+{
+ "Address": "\u5730\u5740", 
+ "Address to be displayed on the Contact Page": "\u5730\u5740\u4f5c\u70ba\u806f\u7e6b\u9801\u9762\u4e0a\u986f\u793a", 
+ "Contact Us Settings": "\u806f\u7e6b\u6211\u5011\u8a2d\u7f6e", 
+ "Contact options, like \"Sales Query, Support Query\" etc each on a new line or separated by commas.": "\u806f\u7e6b\u4eba\u9078\u9805\uff0c\u5982\u201c\u92b7\u552e\u67e5\u8a62\uff0c\u652f\u6301\u67e5\u8a62\u201d\u7b49\u6bcf\u4e00\u500b\u65b0\u884c\u6216\u4ee5\u9017\u865f\u5206\u9694\u3002", 
+ "Default: \"Contact Us\"": "\u9ed8\u8a8d\uff1a\u201c\u806f\u7e6b\u6211\u5011\u201d", 
+ "Forward To Email Address": "\u8f49\u767c\u5230\u90f5\u4ef6\u5730\u5740", 
+ "Heading": "\u6a19\u984c", 
+ "Help": "\u5e6b\u52a9", 
+ "Introduction": "\u4ecb\u7d39", 
+ "Introductory information for the Contact Us Page": "\u4ecb\u7d39\u4fe1\u606f\u7684\u806f\u7e6b\u6211\u5011\u9801\u9762", 
+ "Query Options": "\u67e5\u8a62\u9078\u9805", 
+ "Send enquiries to this email address": "\u767c\u9001\u8aee\u8a62\u5230\u9019\u500b\u90f5\u7bb1\u5730\u5740", 
+ "Settings for Contact Us Page": "\u8a2d\u7f6e\u806f\u7e6b\u6211\u5011\u9801\u9762", 
+ "Website": "\u7db2\u7ad9"
+}

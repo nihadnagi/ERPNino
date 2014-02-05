@@ -1,0 +1,15 @@
+[
+ "Finished Goods", 
+ "Production Order", 
+ "Description", 
+ "Target Warehouse", 
+ "Amount", 
+ "Source Warehouse", 
+ "Qty", 
+ "Serial No", 
+ "Issued Items Against Production Order", 
+ "Issue Date", 
+ "Stock Entry", 
+ "Item Code", 
+ "UOM"
+]
