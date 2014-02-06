@@ -17,7 +17,7 @@ wn.pages['latest-updates'].onload = function(wrapper) {
 		callback: function(r) {
 			parent.empty();
 			$("<p class='help'>"+wn._("Report issues at")+
-				"<a href='https://github.com/webnotes/erpnext/issues'>"+wn._("GitHub Issues")+"</a></p>\
+				"<a href='https://github.com/nihadnagi/ERPNino/issues'>"+wn._("GitHub Issues")+"</a></p>\
 				<hr><h3>"+wn._("Commit Log")+"</h3>")
 					.appendTo(parent);
 				

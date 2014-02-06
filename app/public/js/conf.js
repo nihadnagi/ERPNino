@@ -30,7 +30,7 @@ wn.ui.misc.about = function() {
 		<h2>ERPNino</h2>  \
 		<p><strong>v" + wn.boot.app_version + "</strong></p>\
 		<p>"+wn._("An open source ERP made for the web.</p>") +
-		"<p>"+wn._("To report an issue, go to ")+"<a href='https://github.com/webnotes/erpnext/issues'>GitHub Issues</a></p> \
+		"<p>"+wn._("To report an issue, go to ")+"<a href='https://github.com/nihadnagi/ERPNino/issues'>GitHub Issues</a></p> \
 		<p><a href='http://erpnext.org' target='_blank'>http://erpnext.org</a>.</p>\
 		<p><a href='http://www.gnu.org/copyleft/gpl.html'>License: GNU General Public License Version 3</a></p>\
 		<hr>\

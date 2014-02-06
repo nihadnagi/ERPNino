@@ -21,6 +21,6 @@ erpnext.toolbar.setup = function() {
 			<i class="icon-fixed-width icon-comments"></i> '+wn._('Live Chat')+'</a></li>');
 	}
 	
-	$("#toolbar-tools").append('<li><a href="https://github.com/webnotes/erpnext/releases" target="_blank">\
+	$("#toolbar-tools").append('<li><a href="https://github.com/nihadnagi/ERPNino/releases" target="_blank">\
 		<i class="icon-fixed-width icon-rss"></i> Latest Updates</li>');
 }
