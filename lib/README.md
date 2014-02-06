@@ -2,7 +2,7 @@
 
 Full-stack web application framework that uses Python/MySql on the server side and a tightly integrated client side library. Primarily built for erpnext.
 
-Projects: [erpnext](http://erpnext.org) | [webnotes/erpnext](https://github.com/webnotes/erpnext)
+Projects: [erpnext](http://erpnext.org) | [webnotes/erpnext](https://github.com/nihadnagi/ERPNino)
 
 ## Setup
 

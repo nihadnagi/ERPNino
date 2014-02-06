@@ -24,10 +24,10 @@ ERPNino is built on [wnframework](https://github.com/webnotes/wnframework)
 1. Switch to root user using `sudo su`
 1. create a folder where you want to install erpnext
 1. go to the new folder
-1. `wget https://raw.github.com/webnotes/erpnext/master/install_erpnext.py`
+1. `wget https://raw.github.com/nihadnagi/ERPNino/master/install_erpnext.py`
 1. `python install_erpnext.py`
     
-[See installation notes](https://github.com/webnotes/erpnext/wiki/How-to-Install-ERPNino)
+[See installation notes](https://github.com/nihadnagi/ERPNino/wiki/How-to-Install-ERPNino)
 
 ##### Patch and update
 
