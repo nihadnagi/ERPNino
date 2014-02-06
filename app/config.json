@@ -1,5 +1,5 @@
 {
- "app_name": "ERPNino", 
+ "app_name": "ERPNio",
  "app_version": "3.8.1", 
  "base_template": "app/portal/templates/base.html", 
  "modules": {
