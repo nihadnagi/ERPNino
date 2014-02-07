@@ -1,4 +1,4 @@
-# ERPElephant - Open Source ERP for small, medium sized businesses
+# ERPNino - Open Source ERP for small, medium sized businesses
 
 [https://erpnext.com](https://erpnext.com)
 
